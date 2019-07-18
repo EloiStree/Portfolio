@@ -2,6 +2,10 @@
   
 -------------------------   
 
+  <[2014_10_21_QwertyWars](2014_10_21_QwertyWars\readme.md) | [2014_10_30_WalkKinectProject](2014_10_30_WalkKinectProject\readme.md)>
+  
+-------------------------   
+
 [![Icon Img](icon.png)](icon.png)  
 [![Preview Img](preview.png)](preview.png)   No additional information yet.
   

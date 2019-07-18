@@ -1,1 +1,208 @@
-Relative Path:G:\HistoryShowcase\2019_06_03_AdbUtility\
+Relative Path:G:\HistoryShowcase\2019_06_03_AdbUtility
+\Release\2019_06_03_AdbUtility\Quest Adb Utility.exe
+\Release\2019_06_03_AdbUtility\UnityCrashHandler64.exe
+\Release\2019_06_03_AdbUtility\UnityPlayer.dll
+\Release\2019_06_03_AdbUtility\adb\adb.exe
+\Release\2019_06_03_AdbUtility\adb\AdbWinApi.dll
+\Release\2019_06_03_AdbUtility\adb\AdbWinUsbApi.dll
+\Release\2019_06_03_AdbUtility\adb\avcodec-58.dll
+\Release\2019_06_03_AdbUtility\adb\avformat-58.dll
+\Release\2019_06_03_AdbUtility\adb\avutil-56.dll
+\Release\2019_06_03_AdbUtility\adb\fff.mp4
+\Release\2019_06_03_AdbUtility\adb\file.mp4
+\Release\2019_06_03_AdbUtility\adb\scrcpy-noconsole.exe
+\Release\2019_06_03_AdbUtility\adb\scrcpy-server.jar
+\Release\2019_06_03_AdbUtility\adb\scrcpy.exe
+\Release\2019_06_03_AdbUtility\adb\SDL2.dll
+\Release\2019_06_03_AdbUtility\adb\swresample-3.dll
+\Release\2019_06_03_AdbUtility\adb\test.mp4
+\Release\2019_06_03_AdbUtility\app\2019_05_27_UnknowRadioVR.apk
+\Release\2019_06_03_AdbUtility\app\2019_06_01_BasketballExperiment.apk
+\Release\2019_06_03_AdbUtility\app\2019_06_09_QuestUtility.apk
+\Release\2019_06_03_AdbUtility\app\AndroidSetting.apk
+\Release\2019_06_03_AdbUtility\app\BluetoothSetting.apk
+\Release\2019_06_03_AdbUtility\app\QuakeQuest.apk
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\app.info
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\boot.config
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\globalgamemanagers
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\globalgamemanagers.assets
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\level0
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\level0.resS
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\ScreenSelector.png
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\sharedassets0.assets
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\sharedassets0.assets.resS
+\Release\2019_06_03_AdbUtility\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+\Release\2019_06_03_AdbUtility\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\be.eloiexperiments.adbutility.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\be.eloiexperiments.adbutilityeditor.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\Mono.Security.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\mscorlib.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\netstandard.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\System.ComponentModel.Composition.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\System.Configuration.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\System.Core.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\System.Data.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\System.Diagnostics.StackTrace.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\System.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\System.Drawing.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\System.EnterpriseServices.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\System.Globalization.Extensions.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\System.IO.Compression.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\System.IO.Compression.FileSystem.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\System.Net.Http.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\System.Numerics.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\System.Runtime.Serialization.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\System.Runtime.Serialization.Xml.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\System.ServiceModel.Internals.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\System.Transactions.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\System.Xml.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\System.Xml.Linq.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\System.Xml.XPath.XDocument.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\Unity.Analytics.DataPrivacy.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\Unity.TextMeshPro.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\Unity.Timeline.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.AccessibilityModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.AccessibilityModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.AIModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.AIModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.AnimationModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.AnimationModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.ARModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.ARModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.AssetBundleModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.AssetBundleModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.AudioModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.AudioModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.ClothModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.ClothModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.ClusterInputModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.ClusterInputModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.ClusterRendererModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.ClusterRendererModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.CoreModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.CoreModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.CrashReportingModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.CrashReportingModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.DirectorModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.DirectorModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.FileSystemHttpModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.FileSystemHttpModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.GameCenterModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.GameCenterModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.GridModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.GridModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.HotReloadModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.HotReloadModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.ImageConversionModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.ImageConversionModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.IMGUIModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.IMGUIModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.InputModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.InputModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.JSONSerializeModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.JSONSerializeModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.LocalizationModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.LocalizationModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.ParticleSystemModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.ParticleSystemModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.PerformanceReportingModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.Physics2DModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.Physics2DModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.PhysicsModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.PhysicsModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.ProfilerModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.ProfilerModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.Purchasing.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.ScreenCaptureModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.SharedInternalsModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.SharedInternalsModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.SpriteMaskModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.SpriteMaskModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.SpriteShapeModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.SpriteShapeModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.StreamingModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.StreamingModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.StyleSheetsModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.StyleSheetsModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.SubstanceModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.SubstanceModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.TerrainModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.TerrainModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.TerrainPhysicsModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.TextCoreModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.TextCoreModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.TextRenderingModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.TextRenderingModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.TilemapModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.TilemapModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.TLSModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.TLSModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.UI.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.UIElementsModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.UIElementsModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.UIModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.UIModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.UmbraModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.UmbraModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.UNETModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.UNETModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.UnityAnalyticsModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.UnityConnectModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.UnityConnectModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.UnityTestProtocolModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.UnityWebRequestModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.VehiclesModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.VehiclesModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.VFXModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.VFXModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.VideoModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.VideoModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.VRModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.VRModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.WindModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.WindModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.XRModule.dll
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed\UnityEngine.XRModule.dll.mdb
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Resources\unity default resources
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Resources\unity_builtin_extra
+\Release\2019_06_03_AdbUtility\MonoBleedingEdge\etc\mono\browscap.ini
+\Release\2019_06_03_AdbUtility\MonoBleedingEdge\etc\mono\config
+\Release\2019_06_03_AdbUtility\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+\Release\2019_06_03_AdbUtility\MonoBleedingEdge\etc\mono\2.0\machine.config
+\Release\2019_06_03_AdbUtility\MonoBleedingEdge\etc\mono\2.0\settings.map
+\Release\2019_06_03_AdbUtility\MonoBleedingEdge\etc\mono\2.0\web.config
+\Release\2019_06_03_AdbUtility\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+\Release\2019_06_03_AdbUtility\MonoBleedingEdge\etc\mono\4.0\machine.config
+\Release\2019_06_03_AdbUtility\MonoBleedingEdge\etc\mono\4.0\settings.map
+\Release\2019_06_03_AdbUtility\MonoBleedingEdge\etc\mono\4.0\web.config
+\Release\2019_06_03_AdbUtility\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+\Release\2019_06_03_AdbUtility\MonoBleedingEdge\etc\mono\4.5\machine.config
+\Release\2019_06_03_AdbUtility\MonoBleedingEdge\etc\mono\4.5\settings.map
+\Release\2019_06_03_AdbUtility\MonoBleedingEdge\etc\mono\4.5\web.config
+\Release\2019_06_03_AdbUtility\MonoBleedingEdge\etc\mono\mconfig\config.xml
+\Release\2019_06_03_AdbUtility\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+\Release\2019_06_03_AdbUtility\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+\Release\2019_06_03_AdbUtility\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+\DebugDirectories.txt
+\DebugFiles.txt
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md

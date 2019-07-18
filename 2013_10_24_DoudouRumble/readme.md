@@ -2,6 +2,10 @@
   
 -------------------------   
 
+  <[2013_10_08_MultiCursor](2013_10_08_MultiCursor\readme.md) | [2014_01_15_TimeRifter](2014_01_15_TimeRifter\readme.md)>
+  
+-------------------------   
+
 [![Icon Img](icon.png)](icon.png)  
 [![Preview Img](preview.png)](preview.png)   No additional information yet.
   

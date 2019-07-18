@@ -2,6 +2,10 @@
   
 -------------------------   
 
+  <[2018_03_28_ScanChairPainting](2018_03_28_ScanChairPainting\readme.md) | [2018_04_07_Students_VuforiaMergeCube](2018_04_07_Students_VuforiaMergeCube\readme.md)>
+  
+-------------------------   
+
 [![Icon Img](icon.png)](icon.png)  
 [![Preview Img](preview.png)](preview.png)   No additional information yet.
   

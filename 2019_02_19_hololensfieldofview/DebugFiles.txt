@@ -1,0 +1,8 @@
+Relative Path:G:\HistoryShowcase\2019_02_19_hololensfieldofview
+\Code\uploadtool_HololensFieldOfView.unitypackage
+\Release\uploadtool_HololensFieldOfView.unitypackage
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md

@@ -2,6 +2,10 @@
   
 -------------------------   
 
+  <[2014_10_30_WalkKinectProject](2014_10_30_WalkKinectProject\readme.md) | [2014_11_07_UnkownRadio](2014_11_07_UnkownRadio\readme.md)>
+  
+-------------------------   
+
 [![Icon Img](icon.png)](icon.png)  
 [![Preview Img](preview.png)](preview.png)   No additional information yet.
   

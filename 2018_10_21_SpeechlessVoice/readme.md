@@ -2,6 +2,10 @@
   
 -------------------------   
 
+  <[2018_10_21_HackBorgerhout](2018_10_21_HackBorgerhout\readme.md) | [2018_10_28_0HGAMEJAM](2018_10_28_0HGAMEJAM\readme.md)>
+  
+-------------------------   
+
 [![Icon Img](icon.png)](icon.png)  
 [![Preview Img](preview.png)](preview.png)   No additional information yet.
   

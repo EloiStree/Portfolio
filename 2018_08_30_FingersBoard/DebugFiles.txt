@@ -1,0 +1,133 @@
+Relative Path:G:\HistoryShowcase\2018_08_30_FingersBoard
+\Code\2018_08_30_FingersBoard\README.md
+\Code\2018_08_30_FingersBoard\Export\FingersBoard.unitypackage
+\Code\2018_08_30_FingersBoard\Package\FingersBoard.unitypackage
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Fingers Board.csproj
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Fingers Board.Editor.csproj
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Fingers Board.sln
+\Code\2018_08_30_FingersBoard\Market\OverviewOfOthers\images (1).jpg
+\Code\2018_08_30_FingersBoard\Market\OverviewOfOthers\images.jpg
+\Code\2018_08_30_FingersBoard\Market\OverviewOfOthers\knuckle-controller-update-6-2018-3.jpg
+\Code\2018_08_30_FingersBoard\Market\OverviewOfOthers\knuckles-800x420.jpg
+\Code\2018_08_30_FingersBoard\Market\OverviewOfOthers\Vive-DIY-Knuckles-3-1024x768-750x563.jpg
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\JamsCenter.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\ProjectSettings\AudioManager.asset
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\ProjectSettings\ClusterInputManager.asset
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\ProjectSettings\DynamicsManager.asset
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\ProjectSettings\EditorSettings.asset
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\ProjectSettings\GraphicsSettings.asset
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\ProjectSettings\InputManager.asset
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\ProjectSettings\NavMeshAreas.asset
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\ProjectSettings\NetworkManager.asset
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\ProjectSettings\Physics2DSettings.asset
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\ProjectSettings\ProjectSettings.asset
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\ProjectSettings\ProjectVersion.txt
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\ProjectSettings\QualitySettings.asset
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\ProjectSettings\TagManager.asset
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\ProjectSettings\TimeManager.asset
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\ProjectSettings\UnityConnectSettings.asset
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\UnityPackageManager\manifest.json
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Demo.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Mapping.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Prefab.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Sound.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\JamsCenter\Recycle.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Demo\Demo_FingersBoard.unity
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Demo\Demo_FingersBoard.unity.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Demo\Script.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Mapping\EloiMappping.txt
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Mapping\EloiMappping.txt.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Mapping\EloiMapppingComplexe.txt
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Mapping\EloiMapppingComplexe.txt.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Prefab\FingerDetection.prefab
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Prefab\FingerDetection.prefab.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Prefab\Panel_Finger.prefab
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Prefab\Panel_Finger.prefab.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Prefab\UI.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\ConfigFingersBoard.cs
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\ConfigFingersBoard.cs.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\ExerciceMirrorTyping.cs
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\ExerciceMirrorTyping.cs.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\FB_MorseDetection.cs
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\FB_MorseDetection.cs.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\FB_NotifyFingerState.cs
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\FB_NotifyFingerState.cs.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\FB_UI_Finger.cs
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\FB_UI_Finger.cs.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\FB_UI_FingersBoard.cs
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\FB_UI_FingersBoard.cs.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\FB_UI_Keymap.cs
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\FB_UI_Keymap.cs.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\FB_UI_KeymapFingerInfo.cs
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\FB_UI_KeymapFingerInfo.cs.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\FingersBoardInterface.cs
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\FingersBoardInterface.cs.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\FingersBoardToAction.cs
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\FingersBoardToAction.cs.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\FingersBoardToKeyboard.cs
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\FingersBoardToKeyboard.cs.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\KeymapSwitcher.cs
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\KeymapSwitcher.cs.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\ListenToFingerMorseCode.cs
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\ListenToFingerMorseCode.cs.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\ListenToFingerPression.cs
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\ListenToFingerPression.cs.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\Morse.cs
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\Morse.cs.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\PlaySoundOnMorseDetected.cs
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\PlaySoundOnMorseDetected.cs.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\StartAndJoinFingersBoardUI.cs
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\StartAndJoinFingersBoardUI.cs.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\SwitchKeyMapAtStart.cs
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script\SwitchKeyMapAtStart.cs.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Sound\Long001.ogg
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Sound\Long001.ogg.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Sound\Long002.ogg
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Sound\Long002.ogg.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Sound\Long003.ogg
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Sound\Long003.ogg.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Sound\Short001.ogg
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Sound\Short001.ogg.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Sound\Short001.ogg.sfk
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Sound\Short001.ogg.sfk.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Sound\Short002.ogg
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Sound\Short002.ogg.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Sound\Short003.ogg
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Sound\Short003.ogg.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Sound\TouchDown.ogg
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Sound\TouchDown.ogg.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Sound\TouchUp.ogg
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Sound\TouchUp.ogg.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\JamsCenter\Recycle\EnumDictionary.cs
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\JamsCenter\Recycle\EnumDictionary.cs.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\JamsCenter\Recycle\ListenTo.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\JamsCenter\Recycle\Network.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\JamsCenter\Recycle\UnitySpecific.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\JamsCenter\Recycle\VirtualKeyboard.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Prefab\UI\Panel_FingerInfo.prefab
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Prefab\UI\Panel_FingerInfo.prefab.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Prefab\UI\Panel_MorseInfo.prefab
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Prefab\UI\Panel_MorseInfo.prefab.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\JamsCenter\Recycle\ListenTo\KeyCodeListener.cs
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\JamsCenter\Recycle\ListenTo\KeyCodeListener.cs.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\JamsCenter\Recycle\ListenTo\ListenToInputField.cs
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\JamsCenter\Recycle\ListenTo\ListenToInputField.cs.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\JamsCenter\Recycle\ListenTo\ListenToUnityInput.cs
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\JamsCenter\Recycle\ListenTo\ListenToUnityInput.cs.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\JamsCenter\Recycle\ListenTo\ListenToUnityKeyCode.cs
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\JamsCenter\Recycle\ListenTo\ListenToUnityKeyCode.cs.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\JamsCenter\Recycle\Network\NetworkUsersName.cs
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\JamsCenter\Recycle\Network\NetworkUsersName.cs.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\JamsCenter\Recycle\UnitySpecific\AnitSleep.cs
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\JamsCenter\Recycle\UnitySpecific\AnitSleep.cs.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\JamsCenter\Recycle\UnitySpecific\ButtonPlus.cs
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\JamsCenter\Recycle\UnitySpecific\ButtonPlus.cs.meta
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\JamsCenter\Recycle\VirtualKeyboard\OpenVirtualKeyboard.cs
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\JamsCenter\Recycle\VirtualKeyboard\OpenVirtualKeyboard.cs.meta
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md

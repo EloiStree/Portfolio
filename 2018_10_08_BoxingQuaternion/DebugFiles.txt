@@ -1,0 +1,63 @@
+Relative Path:G:\HistoryShowcase\2018_10_08_BoxingQuaternion
+\Code\README.md
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Boxing Quaternion.csproj
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Boxing Quaternion.sln
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\BoxingQuaternion.meta
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\EloiStree.meta
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\HandFacingHelmetToStatus.cs
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\HandFacingHelmetToStatus.cs.meta
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\HeadAsRoot.cs
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\HeadAsRoot.cs.meta
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\HeadAsRootMirorred.cs
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\HeadAsRootMirorred.cs.meta
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\HeadAsRootMirroredCalibrated.cs
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\HeadAsRootMirroredCalibrated.cs.meta
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\InputTrackerLocalViewer.cs
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\InputTrackerLocalViewer.cs.meta
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\ProjectSettings\AudioManager.asset
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\ProjectSettings\ClusterInputManager.asset
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\ProjectSettings\DynamicsManager.asset
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\ProjectSettings\EditorSettings.asset
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\ProjectSettings\GraphicsSettings.asset
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\ProjectSettings\InputManager.asset
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\ProjectSettings\NavMeshAreas.asset
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\ProjectSettings\NetworkManager.asset
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\ProjectSettings\Physics2DSettings.asset
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\ProjectSettings\ProjectSettings.asset
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\ProjectSettings\ProjectVersion.txt
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\ProjectSettings\QualitySettings.asset
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\ProjectSettings\TagManager.asset
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\ProjectSettings\TimeManager.asset
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\ProjectSettings\UnityConnectSettings.asset
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\UnityPackageManager\manifest.json
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\BoxingQuaternion\Scene.meta
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\EloiStree\Gizmo.meta
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\BoxingQuaternion\Scene\BoxingQuaternion.unity
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\BoxingQuaternion\Scene\BoxingQuaternion.unity.meta
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\EloiStree\Gizmo\3D_GizmoPrefab.prefab
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\EloiStree\Gizmo\3D_GizmoPrefab.prefab.meta
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\EloiStree\Gizmo\Gizmo_Named.prefab
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\EloiStree\Gizmo\Gizmo_Named.prefab.meta
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\EloiStree\Gizmo\Models.meta
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\EloiStree\Gizmo\Models\3D_Gizmo.blend
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\EloiStree\Gizmo\Models\3D_Gizmo.blend.meta
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\EloiStree\Gizmo\Models\3D_Gizmo.blend1
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\EloiStree\Gizmo\Models\3D_Gizmo.blend1.meta
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\EloiStree\Gizmo\Models\3D_Gizmo.fbx
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\EloiStree\Gizmo\Models\3D_Gizmo.fbx.meta
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\EloiStree\Gizmo\Models\3D_Gizmo.mtl
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\EloiStree\Gizmo\Models\3D_Gizmo.mtl.meta
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\EloiStree\Gizmo\Models\Materials.meta
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\EloiStree\Gizmo\Models\UV_3D_Gizmo 1.png
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\EloiStree\Gizmo\Models\UV_3D_Gizmo 1.png.meta
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\EloiStree\Gizmo\Models\UV_3D_Gizmo.png
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\EloiStree\Gizmo\Models\UV_3D_Gizmo.png.meta
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\EloiStree\Gizmo\Models\Materials\UV_3D_Gizmo 1.mat
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\EloiStree\Gizmo\Models\Materials\UV_3D_Gizmo 1.mat.meta
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\EloiStree\Gizmo\Models\Materials\UV_3D_Gizmo.mat
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\EloiStree\Gizmo\Models\Materials\UV_3D_Gizmo.mat.meta
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md

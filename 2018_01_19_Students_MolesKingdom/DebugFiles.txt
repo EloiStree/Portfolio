@@ -1,0 +1,6 @@
+Relative Path:G:\HistoryShowcase\2018_01_19_Students_MolesKingdom
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md

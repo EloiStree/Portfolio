@@ -1,0 +1,6 @@
+Relative Path:G:\HistoryShowcase\2017_07_04_Students_CapitainSousPression
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md

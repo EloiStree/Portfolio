@@ -2,6 +2,10 @@
   
 -------------------------   
 
+  <[2012_02_12_Nuage](2012_02_12_Nuage\readme.md) | [2012_06_26_24HNatationLanParty](2012_06_26_24HNatationLanParty\readme.md)>
+  
+-------------------------   
+
 [![Icon Img](icon.png)](icon.png)  
 [![Preview Img](preview.png)](preview.png)   No additional information yet.  Is it working ?
   

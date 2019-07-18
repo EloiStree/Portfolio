@@ -1,0 +1,7 @@
+Relative Path:G:\HistoryShowcase\2017_12_16_EditorExploration
+\Code\RecycleAndDelete_2017_12_17_ExplorEditor.zip
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md

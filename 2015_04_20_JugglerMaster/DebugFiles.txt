@@ -1,0 +1,6 @@
+Relative Path:G:\HistoryShowcase\2015_04_20_JugglerMaster
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md

@@ -2,6 +2,10 @@
   
 -------------------------   
 
+  <[2015_10_23_BlindLittleGirl](2015_10_23_BlindLittleGirl\readme.md) | [2015_11_10_CointVR](2015_11_10_CointVR\readme.md)>
+  
+-------------------------   
+
 [![Icon Img](icon.png)](icon.png)  
 [![Preview Img](preview.png)](preview.png)   No additional information yet.
   

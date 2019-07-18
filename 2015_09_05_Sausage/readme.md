@@ -2,6 +2,10 @@
   
 -------------------------   
 
+  <[2015_08_15_HakobioVR](2015_08_15_HakobioVR\readme.md) | [2015_09_11_PechaKuchaTraining](2015_09_11_PechaKuchaTraining\readme.md)>
+  
+-------------------------   
+
 [![Icon Img](icon.png)](icon.png)  
 [![Preview Img](preview.png)](preview.png)   No additional information yet.
   

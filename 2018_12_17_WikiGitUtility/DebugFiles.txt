@@ -1,0 +1,308 @@
+Relative Path:G:\HistoryShowcase\2018_12_17_WikiGitUtility
+\Code\WikiGitUtility\README.md
+\Code\WikiGitUtility\UnityCode\dd.png
+\Code\WikiGitUtility\UnityCode\Unity.Analytics.DataPrivacy.csproj
+\Code\WikiGitUtility\UnityCode\Unity.Analytics.DataPrivacy.Player.csproj
+\Code\WikiGitUtility\UnityCode\Unity.CollabProxy.Editor.csproj
+\Code\WikiGitUtility\UnityCode\Unity.PackageManagerUI.Editor.csproj
+\Code\WikiGitUtility\UnityCode\Unity.TextMeshPro.csproj
+\Code\WikiGitUtility\UnityCode\Unity.TextMeshPro.Editor.csproj
+\Code\WikiGitUtility\UnityCode\Unity.TextMeshPro.Player.csproj
+\Code\WikiGitUtility\UnityCode\UnityCode.csproj
+\Code\WikiGitUtility\UnityCode\UnityCode.Player.csproj
+\Code\WikiGitUtility\UnityCode\UnityCode.sln
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\UnityCrashHandler64.exe
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\UnityPlayer.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility.exe
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\WinPixEventRuntime.dll
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility.meta
+\Code\WikiGitUtility\UnityCode\Assets\WSATestCertificate.pfx
+\Code\WikiGitUtility\UnityCode\Assets\WSATestCertificate.pfx.meta
+\Code\WikiGitUtility\UnityCode\Logs\Packages-Update.log
+\Code\WikiGitUtility\UnityCode\Packages\manifest.json
+\Code\WikiGitUtility\UnityCode\ProjectSettings\AudioManager.asset
+\Code\WikiGitUtility\UnityCode\ProjectSettings\ClusterInputManager.asset
+\Code\WikiGitUtility\UnityCode\ProjectSettings\DynamicsManager.asset
+\Code\WikiGitUtility\UnityCode\ProjectSettings\EditorSettings.asset
+\Code\WikiGitUtility\UnityCode\ProjectSettings\GraphicsSettings.asset
+\Code\WikiGitUtility\UnityCode\ProjectSettings\InputManager.asset
+\Code\WikiGitUtility\UnityCode\ProjectSettings\NavMeshAreas.asset
+\Code\WikiGitUtility\UnityCode\ProjectSettings\NetworkManager.asset
+\Code\WikiGitUtility\UnityCode\ProjectSettings\Physics2DSettings.asset
+\Code\WikiGitUtility\UnityCode\ProjectSettings\PresetManager.asset
+\Code\WikiGitUtility\UnityCode\ProjectSettings\ProjectSettings.asset
+\Code\WikiGitUtility\UnityCode\ProjectSettings\ProjectVersion.txt
+\Code\WikiGitUtility\UnityCode\ProjectSettings\QualitySettings.asset
+\Code\WikiGitUtility\UnityCode\ProjectSettings\TagManager.asset
+\Code\WikiGitUtility\UnityCode\ProjectSettings\TimeManager.asset
+\Code\WikiGitUtility\UnityCode\ProjectSettings\UnityConnectSettings.asset
+\Code\WikiGitUtility\UnityCode\ProjectSettings\VFXManager.asset
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\app.info
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\boot.config
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\globalgamemanagers
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\globalgamemanagers.assets
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\level0
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\level0.resS
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\ScreenSelector.png
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\sharedassets0.assets
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\sharedassets0.assets.resS
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Assets.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Prefab.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Scenes.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script.meta
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\MonoBleedingEdge\EmbedRuntime\MonoPosixHelper.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\Assembly-CSharp.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\Mono.Security.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\mscorlib.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\netstandard.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\System.ComponentModel.Composition.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\System.Configuration.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\System.Core.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\System.Data.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\System.Diagnostics.StackTrace.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\System.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\System.Drawing.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\System.EnterpriseServices.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\System.Globalization.Extensions.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\System.IO.Compression.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\System.IO.Compression.FileSystem.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\System.Net.Http.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\System.Numerics.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\System.Runtime.Serialization.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\System.Runtime.Serialization.Xml.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\System.ServiceModel.Internals.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\System.Transactions.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\System.Xml.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\System.Xml.Linq.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\System.Xml.XPath.XDocument.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\Unity.Analytics.DataPrivacy.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\Unity.Analytics.StandardEvents.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\Unity.Analytics.Tracker.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\Unity.TextMeshPro.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.AccessibilityModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.AccessibilityModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.AIModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.AIModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.AnimationModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.AnimationModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.ARModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.ARModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.AssetBundleModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.AssetBundleModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.AudioModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.AudioModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.BaselibModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.BaselibModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.ClothModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.ClothModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.ClusterInputModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.ClusterInputModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.ClusterRendererModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.ClusterRendererModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.CoreModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.CoreModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.CrashReportingModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.CrashReportingModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.DirectorModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.DirectorModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.FileSystemHttpModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.FileSystemHttpModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.GameCenterModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.GameCenterModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.GridModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.GridModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.HotReloadModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.HotReloadModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.ImageConversionModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.ImageConversionModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.IMGUIModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.IMGUIModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.InputModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.InputModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.JSONSerializeModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.JSONSerializeModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.LocalizationModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.LocalizationModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.Networking.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.ParticleSystemModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.ParticleSystemModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.PerformanceReportingModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.PerformanceReportingModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.Physics2DModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.Physics2DModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.PhysicsModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.PhysicsModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.ProfilerModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.ProfilerModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.ScreenCaptureModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.ScreenCaptureModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.SharedInternalsModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.SharedInternalsModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.SpatialTracking.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.SpriteMaskModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.SpriteMaskModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.SpriteShapeModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.SpriteShapeModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.StreamingModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.StreamingModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.StyleSheetsModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.StyleSheetsModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.SubstanceModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.SubstanceModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.TerrainModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.TerrainModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.TerrainPhysicsModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.TextCoreModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.TextCoreModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.TextRenderingModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.TextRenderingModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.TilemapModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.TilemapModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.Timeline.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.TimelineModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.TimelineModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.TLSModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.TLSModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.UI.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.UIElementsModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.UIElementsModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.UIModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.UIModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.UmbraModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.UmbraModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.UNETModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.UNETModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.UnityAnalyticsModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.UnityConnectModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.UnityConnectModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.UnityTestProtocolModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.UnityWebRequestAudioModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.UnityWebRequestModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.UnityWebRequestModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.UnityWebRequestTextureModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.UnityWebRequestWWWModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.VehiclesModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.VehiclesModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.VFXModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.VFXModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.VideoModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.VideoModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.VRModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.VRModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.WindModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.WindModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.XRModule.dll
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Managed\UnityEngine.XRModule.xml
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Resources\unity default resources
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\Wiki Git Utility_Data\Resources\unity_builtin_extra
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Assets\2D.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Prefab\PanelImageLinkToWebPage.prefab
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Prefab\PanelImageLinkToWebPage.prefab.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Scenes\SampleScene.unity
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Scenes\SampleScene.unity.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\CouldBeRecycle.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\DataUrlToPNG.cs
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\DataUrlToPNG.cs.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\DownloadMarkdownImage.cs
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\DownloadMarkdownImage.cs.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\FindAndReplaceImageGlobalToLocal.cs
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\FindAndReplaceImageGlobalToLocal.cs.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\FindImagesInMarkdownText.cs
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\FindImagesInMarkdownText.cs.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\FindMarkdownFiles.cs
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\FindMarkdownFiles.cs.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\Interface.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\LoadAllImagesInProjectLocaly.cs
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\LoadAllImagesInProjectLocaly.cs.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\SaveInputAsPlayerPref.cs
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\SaveInputAsPlayerPref.cs.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\UI_Input_MarkdownWrapper.cs
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\UI_Input_MarkdownWrapper.cs.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\UI_MarkdownGenerator_Table.cs
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\UI_MarkdownGenerator_Table.cs.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\UI_MarkDownImageEdit.cs
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\UI_MarkDownImageEdit.cs.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\UI_PageManager.cs
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\UI_PageManager.cs.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\UI_UrlToMarkdownText.cs
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\UI_UrlToMarkdownText.cs.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\UI_WikiGitDownloader.cs
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\UI_WikiGitDownloader.cs.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\YoutubeThumbnail.cs
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\YoutubeThumbnail.cs.meta
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\MonoBleedingEdge\etc\mono\browscap.ini
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\MonoBleedingEdge\etc\mono\config
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Assets\2D\DoTheThing.png
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Assets\2D\DoTheThing.png.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Assets\2D\EmoIcon.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Assets\2D\Icon.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Assets\2D\Thumbnail.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\CouldBeRecycle\Clipboard.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\CouldBeRecycle\DragDrop.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\CouldBeRecycle\Markdown.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\CouldBeRecycle\Noitify.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\CouldBeRecycle\OpenURL.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\Interface\WikiGitUtility.cs
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\Interface\WikiGitUtility.cs.meta
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\MonoBleedingEdge\etc\mono\2.0\machine.config
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\MonoBleedingEdge\etc\mono\2.0\settings.map
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\MonoBleedingEdge\etc\mono\2.0\web.config
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\MonoBleedingEdge\etc\mono\4.0\machine.config
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\MonoBleedingEdge\etc\mono\4.0\settings.map
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\MonoBleedingEdge\etc\mono\4.0\web.config
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\MonoBleedingEdge\etc\mono\4.5\machine.config
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\MonoBleedingEdge\etc\mono\4.5\settings.map
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\MonoBleedingEdge\etc\mono\4.5\web.config
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\MonoBleedingEdge\etc\mono\mconfig\config.xml
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Assets\2D\EmoIcon\Smiley.png
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Assets\2D\EmoIcon\Smiley.png.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Assets\2D\Icon\ApplicationPattern_WikiGitUtility 1.png
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Assets\2D\Icon\ApplicationPattern_WikiGitUtility 1.png.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Assets\2D\Icon\ApplicationPattern_WikiGitUtility.png
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Assets\2D\Icon\ApplicationPattern_WikiGitUtility.png.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Assets\2D\Icon\ApplicationPattern_WikiGitUtilityTransparent.png
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Assets\2D\Icon\ApplicationPattern_WikiGitUtilityTransparent.png.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Assets\2D\Icon\image.png
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Assets\2D\Icon\image.png.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Assets\2D\Icon\youtube.png
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Assets\2D\Icon\youtube.png.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Assets\2D\Thumbnail\2018_12_17_WikiGitUtilityV1.png
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Assets\2D\Thumbnail\2018_12_17_WikiGitUtilityV1.png.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\CouldBeRecycle\Clipboard\ClipboardMono.cs
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\CouldBeRecycle\Clipboard\ClipboardMono.cs.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\CouldBeRecycle\DragDrop\B83.Win32.cs
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\CouldBeRecycle\DragDrop\B83.Win32.cs.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\CouldBeRecycle\DragDrop\DragAndDrpo.unity
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\CouldBeRecycle\DragDrop\DragAndDrpo.unity.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\CouldBeRecycle\DragDrop\FileDragAndDrop.cs
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\CouldBeRecycle\DragDrop\FileDragAndDrop.cs.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\CouldBeRecycle\DragDrop\UI_OnFileDropped.cs
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\CouldBeRecycle\DragDrop\UI_OnFileDropped.cs.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\CouldBeRecycle\Markdown\MarkdownMono.cs
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\CouldBeRecycle\Markdown\MarkdownMono.cs.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\CouldBeRecycle\Noitify\NotificationUI.cs
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\CouldBeRecycle\Noitify\NotificationUI.cs.meta
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\CouldBeRecycle\OpenURL\OpenURL.cs
+\Code\WikiGitUtility\UnityCode\Assets\WikiGitUtility\Script\CouldBeRecycle\OpenURL\OpenURL.cs.meta
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
+\Release\2018_12_19_WikiGitUtility\2018_12_19_WikiGitUtility\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md

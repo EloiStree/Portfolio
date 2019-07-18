@@ -1,0 +1,6 @@
+Relative Path:G:\HistoryShowcase\2017_12_04_Katamari
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md

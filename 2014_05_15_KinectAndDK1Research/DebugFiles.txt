@@ -1,0 +1,6 @@
+Relative Path:G:\HistoryShowcase\2014_05_15_KinectAndDK1Research
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md

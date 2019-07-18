@@ -1,0 +1,6 @@
+Relative Path:G:\HistoryShowcase\2018_10_14_GitMarkdownCloneWiki
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md

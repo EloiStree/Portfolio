@@ -1,0 +1,36 @@
+Relative Path:G:\HistoryShowcase\2018_09_06_PatreonSlashAndWatermark
+\Code
+\Created
+\Images
+\Release
+\Unstored
+\Video
+\Code\2018_09_06_PatreonSlashAndWatermark
+\Created\2D
+\Created\3D
+\Created\CoolCode
+\Created\Gist
+\Created\PSD
+\Created\Refactorable
+\Images\360
+\Images\Image
+\Images\Photo
+\Images\Representative
+\Images\Screenshot
+\Release\Current
+\Release\Previous
+\Video\Edited
+\Video\Links
+\Video\Raw
+\Code\2018_09_06_PatreonSlashAndWatermark\Package
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\ProjectSettings
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\UnityPackageManager
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\License
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\Script
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\SplashScene
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\Watermark

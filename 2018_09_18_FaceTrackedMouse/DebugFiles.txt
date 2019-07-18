@@ -1,0 +1,283 @@
+Relative Path:G:\HistoryShowcase\2018_09_18_FaceTrackedMouse
+\Code\2018_09_18_FaceTrackedMouse\README.md
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Face Tracked Mouse.csproj
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Face Tracked Mouse.Editor.csproj
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Face Tracked Mouse.sln
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Unity.PackageManagerUI.Editor.csproj
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Unity.TextMeshPro.csproj
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Unity.TextMeshPro.Editor.csproj
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\UnityEditor.StandardEvents.csproj
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\DebugDrawLine.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\DebugDrawLine.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\FaceTrackedMouse.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtilityAccess.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtilityAccess.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MoveMouseOnArRotation.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MoveMouseOnArRotation.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Resources.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\StreamingAssets.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\UI_CaptureMonitor.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\UI_CaptureMonitor.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\UI_Monitor.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\UI_Monitor.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\UI_MonitorsSystem.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\UI_MonitorsSystem.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\UnityMonitorListener.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\UnityMonitorListener.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Packages\manifest.json
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\ProjectSettings\AudioManager.asset
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\ProjectSettings\ClusterInputManager.asset
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\ProjectSettings\DynamicsManager.asset
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\ProjectSettings\EditorSettings.asset
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\ProjectSettings\GraphicsSettings.asset
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\ProjectSettings\InputManager.asset
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\ProjectSettings\NavMeshAreas.asset
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\ProjectSettings\NetworkManager.asset
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\ProjectSettings\NetworkManager.asset.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\ProjectSettings\Physics2DSettings.asset
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\ProjectSettings\PresetManager.asset
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\ProjectSettings\ProjectSettings.asset
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\ProjectSettings\ProjectVersion.txt
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\ProjectSettings\QualitySettings.asset
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\ProjectSettings\TagManager.asset
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\ProjectSettings\TimeManager.asset
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\ProjectSettings\UnityConnectSettings.asset
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\QCAR\somedata16
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\FaceTrackedMouse\Scene.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\MouseUtility.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\MouseUtility.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\MoveMouseTest.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\MoveMouseTest.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\Prefab.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Resources\VuforiaConfiguration.asset
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Resources\VuforiaConfiguration.asset.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\StreamingAssets\Vuforia.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Resources.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\Editor.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\Textures.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\WASD Studio Tools.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\FaceTrackedMouse\Scene\Exemple.unity
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\FaceTrackedMouse\Scene\Exemple.unity.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\FaceTrackedMouse\Scene\Exemple2.unity
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\FaceTrackedMouse\Scene\Exemple2.unity.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\README.md
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\README.md.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WinInputSimulationUtility.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WinInputSimulationUtility.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\Prefab\PänelMonitorSystem.prefab
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\Prefab\PänelMonitorSystem.prefab.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\StreamingAssets\Vuforia\AR_DECK_VUFORIA_DB.dat
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\StreamingAssets\Vuforia\AR_DECK_VUFORIA_DB.dat.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\StreamingAssets\Vuforia\AR_DECK_VUFORIA_DB.xml
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\StreamingAssets\Vuforia\AR_DECK_VUFORIA_DB.xml.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Resources\VuforiaConfiguration.asset
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Resources\VuforiaConfiguration.asset.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\Editor\WASD Studio Tools.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\Textures\GUI.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\WASD Studio Tools\WaterMark.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\WASD Studio Tools\WindowTools.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\IInputDeviceStateAdaptor.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\IInputDeviceStateAdaptor.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\IInputMessageDispatcher.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\IInputMessageDispatcher.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\IInputSimulator.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\IInputSimulator.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\IKeyboardSimulator.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\IKeyboardSimulator.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\IMouseSimulator.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\IMouseSimulator.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\InputSimulator.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\InputSimulator.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\KeyboardSimulator.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\KeyboardSimulator.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\MouseButton.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\MouseButton.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\MouseSimulator.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\MouseSimulator.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\Native.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\Properties.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\WindowsInput.nuspec
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\WindowsInput.nuspec.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\WindowsInput.snk
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\WindowsInput.snk.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\WindowsInputDeviceStateAdaptor.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\WindowsInputDeviceStateAdaptor.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\WindowsInputMessageDispatcher.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\WindowsInputMessageDispatcher.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\Editor\WASD Studio Tools\WaterMarkLogoEditor.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\Editor\WASD Studio Tools\WaterMarkLogoEditor.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\Textures\GUI\WasdWMLogo.png
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\Textures\GUI\WasdWMLogo.png.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\WASD Studio Tools\WaterMark\Prefabs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\WASD Studio Tools\WaterMark\Scripts.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\WASD Studio Tools\WindowTools\Prefabs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\WASD Studio Tools\WindowTools\ReadMe WindowTools.txt
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\WASD Studio Tools\WindowTools\ReadMe WindowTools.txt.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\WASD Studio Tools\WindowTools\Scenes.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\WASD Studio Tools\WindowTools\Scripts.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\Native\HARDWAREINPUT.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\Native\HARDWAREINPUT.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\Native\INPUT.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\Native\INPUT.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\Native\InputType.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\Native\InputType.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\Native\KEYBDINPUT.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\Native\KEYBDINPUT.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\Native\KeyboardFlag.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\Native\KeyboardFlag.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\Native\MouseFlag.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\Native\MouseFlag.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\Native\MOUSEINPUT.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\Native\MOUSEINPUT.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\Native\MOUSEKEYBDHARDWAREINPUT.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\Native\MOUSEKEYBDHARDWAREINPUT.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\Native\NativeMethods.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\Native\NativeMethods.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\Native\VirtualKeyCode.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\Native\VirtualKeyCode.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\Native\XButton.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\Native\XButton.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\Properties\AssemblyInfo.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\Properties\AssemblyInfo.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\WASD Studio Tools\WaterMark\Prefabs\WASD Logo Watermark.prefab
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\WASD Studio Tools\WaterMark\Prefabs\WASD Logo Watermark.prefab.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\WASD Studio Tools\WaterMark\Scripts\WaterMarkLogo.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\WASD Studio Tools\WaterMark\Scripts\WaterMarkLogo.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\WASD Studio Tools\WindowTools\Prefabs\WindowTools.prefab
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\WASD Studio Tools\WindowTools\Prefabs\WindowTools.prefab.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\WASD Studio Tools\WindowTools\Scenes\WindowToolsScene.unity
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\WASD Studio Tools\WindowTools\Scenes\WindowToolsScene.unity.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\WASD Studio Tools\WindowTools\Scripts\BorderlessWindow.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\WASD Studio Tools\WindowTools\Scripts\BorderlessWindow.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\WASD Studio Tools\WindowTools\Scripts\ExampleOfUse.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\WASD Studio Tools\WindowTools\Scripts\ExampleOfUse.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\WASD Studio Tools\WindowTools\Scripts\WindowTools.cs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\WASD Studio Tools\WindowTools\Scripts\WindowTools.cs.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Artists_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Artists_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Back_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Back_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Club_10_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Club_10_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Club_1_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Club_1_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Club_2_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Club_2_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Club_3_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Club_3_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Club_4_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Club_4_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Club_5_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Club_5_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Club_6_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Club_6_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Club_7_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Club_7_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Club_8_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Club_8_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Club_9_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Club_9_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Club_J_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Club_J_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Club_K_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Club_K_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Club_Q_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Club_Q_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Diamond_10_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Diamond_10_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Diamond_1_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Diamond_1_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Diamond_2_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Diamond_2_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Diamond_3_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Diamond_3_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Diamond_4_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Diamond_4_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Diamond_5_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Diamond_5_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Diamond_6_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Diamond_6_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Diamond_7_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Diamond_7_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Diamond_8_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Diamond_8_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Diamond_9_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Diamond_9_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Diamond_J_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Diamond_J_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Diamond_K_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Diamond_K_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Diamond_Q_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Diamond_Q_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Heart_10_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Heart_10_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Heart_1_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Heart_1_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Heart_2_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Heart_2_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Heart_3_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Heart_3_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Heart_4_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Heart_4_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Heart_5_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Heart_5_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Heart_6_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Heart_6_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Heart_7_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Heart_7_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Heart_8_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Heart_8_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Heart_9_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Heart_9_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Heart_J_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Heart_J_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Heart_K_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Heart_K_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Heart_Q_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Heart_Q_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Index_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Index_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\JokerBlack_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\JokerBlack_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\JokerRed_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\JokerRed_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Spare_10_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Spare_10_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Spare_1_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Spare_1_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Spare_2_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Spare_2_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Spare_3_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Spare_3_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Spare_4_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Spare_4_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Spare_5_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Spare_5_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Spare_6_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Spare_6_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Spare_7_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Spare_7_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Spare_8_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Spare_8_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Spare_9_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Spare_9_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Spare_J_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Spare_J_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Spare_K_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Spare_K_scaled.jpg.meta
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Spare_Q_scaled.jpg
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB\Spare_Q_scaled.jpg.meta
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md

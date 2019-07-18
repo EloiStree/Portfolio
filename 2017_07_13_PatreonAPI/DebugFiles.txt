@@ -1,0 +1,6 @@
+Relative Path:G:\HistoryShowcase\2017_07_13_PatreonAPI
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md

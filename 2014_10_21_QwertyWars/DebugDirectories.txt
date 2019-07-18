@@ -1,0 +1,194 @@
+Relative Path:G:\HistoryShowcase\2014_10_21_QwertyWars
+\Code
+\Created
+\Images
+\Release
+\Unstored
+\Video
+\Code\2014_10_30_QuertyWars
+\Created\2D
+\Created\3D
+\Created\CoolCode
+\Created\Gist
+\Created\PSD
+\Created\Refactorable
+\Images\360
+\Images\Image
+\Images\Photo
+\Images\Representative
+\Images\Screenshot
+\Release\Current
+\Release\Previous
+\Video\Edited
+\Video\Links
+\Video\Raw
+\Code\2014_10_30_QuertyWars\Assets
+\Code\2014_10_30_QuertyWars\obj
+\Code\2014_10_30_QuertyWars\ProjectSettings
+\Code\2014_10_30_QuertyWars\Assets\deep space skybox
+\Code\2014_10_30_QuertyWars\Assets\Editor
+\Code\2014_10_30_QuertyWars\Assets\Explosif
+\Code\2014_10_30_QuertyWars\Assets\Flight Control
+\Code\2014_10_30_QuertyWars\Assets\iMG Explosion FX
+\Code\2014_10_30_QuertyWars\Assets\MicControl
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack
+\Code\2014_10_30_QuertyWars\Assets\Standard Assets
+\Code\2014_10_30_QuertyWars\Assets\Target
+\Code\2014_10_30_QuertyWars\Assets\Toon Character Pack
+\Code\2014_10_30_QuertyWars\Assets\_QuertyWars
+\Code\2014_10_30_QuertyWars\obj\Debug
+\Code\2014_10_30_QuertyWars\Assets\Editor\Image Effects
+\Code\2014_10_30_QuertyWars\Assets\Explosif\Explosion
+\Code\2014_10_30_QuertyWars\Assets\Explosif\Model
+\Code\2014_10_30_QuertyWars\Assets\Flight Control\Drone Folder
+\Code\2014_10_30_QuertyWars\Assets\Flight Control\Flight Controler 2
+\Code\2014_10_30_QuertyWars\Assets\Flight Control\Skybox
+\Code\2014_10_30_QuertyWars\Assets\iMG Explosion FX\Materials
+\Code\2014_10_30_QuertyWars\Assets\iMG Explosion FX\Prefabs
+\Code\2014_10_30_QuertyWars\Assets\iMG Explosion FX\Textures
+\Code\2014_10_30_QuertyWars\Assets\iMG Explosion FX\_Source
+\Code\2014_10_30_QuertyWars\Assets\MicControl\C# version
+\Code\2014_10_30_QuertyWars\Assets\MicControl\Editor
+\Code\2014_10_30_QuertyWars\Assets\MicControl\example
+\Code\2014_10_30_QuertyWars\Assets\MicControl\Javascript version (original)
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Other
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Prefabs
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Scripts
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Shaders
+\Code\2014_10_30_QuertyWars\Assets\Standard Assets\Image Effects (Pro Only)
+\Code\2014_10_30_QuertyWars\Assets\Toon Character Pack\Animations (Mechanim Tutorial)
+\Code\2014_10_30_QuertyWars\Assets\Toon Character Pack\Body Masks
+\Code\2014_10_30_QuertyWars\Assets\Toon Character Pack\Controllers
+\Code\2014_10_30_QuertyWars\Assets\Toon Character Pack\Materials
+\Code\2014_10_30_QuertyWars\Assets\Toon Character Pack\Models
+\Code\2014_10_30_QuertyWars\Assets\Toon Character Pack\MyControl
+\Code\2014_10_30_QuertyWars\Assets\Toon Character Pack\Prefabs
+\Code\2014_10_30_QuertyWars\Assets\Toon Character Pack\Scenes
+\Code\2014_10_30_QuertyWars\Assets\Toon Character Pack\Scripts
+\Code\2014_10_30_QuertyWars\Assets\Toon Character Pack\Shaders
+\Code\2014_10_30_QuertyWars\Assets\Toon Character Pack\Textures
+\Code\2014_10_30_QuertyWars\Assets\Toon Character Pack\Toon Animations
+\Code\2014_10_30_QuertyWars\Assets\_QuertyWars\Drone
+\Code\2014_10_30_QuertyWars\Assets\_QuertyWars\Enemies
+\Code\2014_10_30_QuertyWars\Assets\_QuertyWars\Laser
+\Code\2014_10_30_QuertyWars\Assets\_QuertyWars\Materials
+\Code\2014_10_30_QuertyWars\Assets\_QuertyWars\Portal
+\Code\2014_10_30_QuertyWars\Assets\_QuertyWars\Rocket
+\Code\2014_10_30_QuertyWars\Assets\_QuertyWars\Shield
+\Code\2014_10_30_QuertyWars\Assets\_QuertyWars\Turret
+\Code\2014_10_30_QuertyWars\Assets\_QuertyWars\UFO
+\Code\2014_10_30_QuertyWars\obj\Debug\TempPE
+\Code\2014_10_30_QuertyWars\Assets\Explosif\Model\Materials
+\Code\2014_10_30_QuertyWars\Assets\Flight Control\Drone Folder\Cheap Sky-Box
+\Code\2014_10_30_QuertyWars\Assets\Flight Control\Drone Folder\Drone Materials
+\Code\2014_10_30_QuertyWars\Assets\Flight Control\Drone Folder\Extra
+\Code\2014_10_30_QuertyWars\Assets\Flight Control\Drone Folder\FBX Models
+\Code\2014_10_30_QuertyWars\Assets\Flight Control\Drone Folder\Flight Prefabs
+\Code\2014_10_30_QuertyWars\Assets\Flight Control\Drone Folder\Flight Scripts
+\Code\2014_10_30_QuertyWars\Assets\Flight Control\Drone Folder\Particles
+\Code\2014_10_30_QuertyWars\Assets\Flight Control\Flight Controler 2\Materials
+\Code\2014_10_30_QuertyWars\Assets\Flight Control\Flight Controler 2\Models
+\Code\2014_10_30_QuertyWars\Assets\Flight Control\Flight Controler 2\Prefabs
+\Code\2014_10_30_QuertyWars\Assets\Flight Control\Flight Controler 2\Scripts
+\Code\2014_10_30_QuertyWars\Assets\Flight Control\Flight Controler 2\Textures
+\Code\2014_10_30_QuertyWars\Assets\iMG Explosion FX\Materials\Explosions
+\Code\2014_10_30_QuertyWars\Assets\iMG Explosion FX\Materials\MISC_FX
+\Code\2014_10_30_QuertyWars\Assets\iMG Explosion FX\Prefabs\Explosions
+\Code\2014_10_30_QuertyWars\Assets\iMG Explosion FX\Prefabs\Fire
+\Code\2014_10_30_QuertyWars\Assets\iMG Explosion FX\Prefabs\Smoke
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Buffs
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Environment
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Projectiles
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Scene
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Share
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Shots
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Other\Anim
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Other\Buff8
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Other\Portal
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Other\Robot Kyle
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Prefabs\Buffs
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Prefabs\Environment
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Prefabs\Projectiles
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Prefabs\Shots
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Scripts\Demo
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Scripts\Prefabs
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Scripts\Share
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Shaders\Distortion
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Shaders\Matrix
+\Code\2014_10_30_QuertyWars\Assets\Standard Assets\Image Effects (Pro Only)\_Sources
+\Code\2014_10_30_QuertyWars\Assets\Toon Character Pack\Animations (Mechanim Tutorial)\DudeAvatar
+\Code\2014_10_30_QuertyWars\Assets\Toon Character Pack\Animations (Mechanim Tutorial)\Materials
+\Code\2014_10_30_QuertyWars\Assets\Toon Character Pack\Materials\_Characters
+\Code\2014_10_30_QuertyWars\Assets\Toon Character Pack\Prefabs\_Characters
+\Code\2014_10_30_QuertyWars\Assets\Toon Character Pack\Textures\_Characters
+\Code\2014_10_30_QuertyWars\Assets\Toon Character Pack\Toon Animations\Animations
+\Code\2014_10_30_QuertyWars\Assets\_QuertyWars\Enemies\Jarvis
+\Code\2014_10_30_QuertyWars\Assets\_QuertyWars\Enemies\Sphere
+\Code\2014_10_30_QuertyWars\Assets\_QuertyWars\Turret\Material
+\Code\2014_10_30_QuertyWars\Assets\_QuertyWars\Turret\Prefab
+\Code\2014_10_30_QuertyWars\Assets\_QuertyWars\Turret\Script
+\Code\2014_10_30_QuertyWars\Assets\_QuertyWars\UFO\Materials
+\Code\2014_10_30_QuertyWars\Assets\_QuertyWars\UFO\Texture
+\Code\2014_10_30_QuertyWars\Assets\Flight Control\Drone Folder\Drone Materials\Materials
+\Code\2014_10_30_QuertyWars\Assets\Flight Control\Drone Folder\FBX Models\Materials
+\Code\2014_10_30_QuertyWars\Assets\Flight Control\Flight Controler 2\Materials\Jet Materials
+\Code\2014_10_30_QuertyWars\Assets\Flight Control\Flight Controler 2\Models\Materials
+\Code\2014_10_30_QuertyWars\Assets\Flight Control\Flight Controler 2\Textures\Jet Textures
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Buffs\ElectricShield
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Buffs\FireForceShield
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Buffs\FireParticlesExplosion
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Buffs\FireShield
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Buffs\ForceField
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Buffs\ForceShield
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Buffs\FrostShield
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Buffs\GreenParticlesBuff
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Buffs\GreenPortal
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Buffs\HoneycombShield
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Buffs\WaterBall
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Buffs\WaterShield
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Environment\Fire
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Environment\Portals
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Projectiles\BlackFireball1
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Projectiles\BlueFireBall1
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Projectiles\BlueFireball2
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Projectiles\BlueFireball3
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Projectiles\ElectricBall1
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Projectiles\Fireball1
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Projectiles\Fireball2
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Projectiles\Firebolt1
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Projectiles\FireMeteor1
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Projectiles\Frostbolt1
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Projectiles\FrostMeteor1
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Projectiles\GreenFireball1
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Projectiles\PurpleFireball1
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Share\Particles
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Shots\Shot1
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Shots\Shot2
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Shots\Shot3
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Other\Robot Kyle\Materials
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Other\Robot Kyle\Model
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Other\Robot Kyle\Raw Mocap Data
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Other\Robot Kyle\Textures
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Prefabs\Buffs\Mobile
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Prefabs\Environment\Fire
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Prefabs\Environment\Portals
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Prefabs\Projectiles\Mobile
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Prefabs\Shots\Mobile
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Scripts\Prefabs\Balls
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Scripts\Prefabs\Buffs
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Scripts\Prefabs\Shots
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Shaders\Distortion\Free
+\Code\2014_10_30_QuertyWars\Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders
+\Code\2014_10_30_QuertyWars\Assets\Toon Character Pack\Animations (Mechanim Tutorial)\DudeAvatar\Materials
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Environment\Fire\Fire1
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Environment\Fire\Fire2
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Environment\Fire\Fire3
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Environment\Fire\Fire4
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Environment\Portals\Portal1
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Materials\Environment\Portals\Portal2
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Other\Robot Kyle\Raw Mocap Data\Animations
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Prefabs\Environment\Fire\Mobile
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Prefabs\Environment\Portals\Mobile
+\Code\2014_10_30_QuertyWars\Assets\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares
+\Code\2014_10_30_QuertyWars\Assets\Realistic Effects Pack\Other\Robot Kyle\Raw Mocap Data\Animations\Idle

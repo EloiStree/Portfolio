@@ -1,0 +1,6 @@
+Relative Path:G:\HistoryShowcase\2016_10_26_Lamoova
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md

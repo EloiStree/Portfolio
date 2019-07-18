@@ -2,6 +2,10 @@
   
 -------------------------   
 
+  <[2017_12_06_ReignsLike](2017_12_06_ReignsLike\readme.md) | [2017_12_16_EditorExploration](2017_12_16_EditorExploration\readme.md)>
+  
+-------------------------   
+
 [![Icon Img](icon.png)](icon.png)  
 [![Preview Img](preview.png)](preview.png)   No additional information yet.
   

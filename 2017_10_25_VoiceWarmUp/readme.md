@@ -2,6 +2,10 @@
   
 -------------------------   
 
+  <[2017_10_22_YourIdeaIsShitRingTone](2017_10_22_YourIdeaIsShitRingTone\readme.md) | [2017_11_11_Museomix](2017_11_11_Museomix\readme.md)>
+  
+-------------------------   
+
 [![Icon Img](icon.png)](icon.png)  
 [![Preview Img](preview.png)](preview.png)   No additional information yet.
   

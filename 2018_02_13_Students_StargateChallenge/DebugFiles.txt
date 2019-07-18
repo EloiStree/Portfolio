@@ -1,0 +1,6 @@
+Relative Path:G:\HistoryShowcase\2018_02_13_Students_StargateChallenge
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md

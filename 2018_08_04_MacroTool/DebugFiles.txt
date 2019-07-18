@@ -1,0 +1,769 @@
+Relative Path:G:\HistoryShowcase\2018_08_04_MacroTool
+\Video\2018-08-18 17-41-29.flv
+\Code\2018_08_04_MacroTool\Project Wiki.url
+\Code\2018_08_04_MacroTool\README.md
+\Code\2018_08_04_MacroTool\WhyThisProject.jpg
+\Code\2018_08_04_MacroTool\Macro Tool\Macro Tool.csproj
+\Code\2018_08_04_MacroTool\Macro Tool\Macro Tool.Editor.csproj
+\Code\2018_08_04_MacroTool\Macro Tool\Macro Tool.sln
+\Code\2018_08_04_MacroTool\Macro Tool\Unity.Analytics.DataPrivacy.csproj
+\Code\2018_08_04_MacroTool\Macro Tool\Unity.CollabProxy.Editor.csproj
+\Code\2018_08_04_MacroTool\Macro Tool\Unity.PackageManagerUI.Editor.csproj
+\Code\2018_08_04_MacroTool\Macro Tool\Unity.TextMeshPro.csproj
+\Code\2018_08_04_MacroTool\Macro Tool\Unity.TextMeshPro.Editor.csproj
+\Code\2018_08_04_MacroTool\FunToCodeLater\Morse\abz8Km8_700b.jpg
+\Code\2018_08_04_MacroTool\FunToCodeLater\Morse\abzMB4r_460s.jpg
+\Code\2018_08_04_MacroTool\FunToCodeLater\Morse\aDzx9px_460s.jpg
+\Code\2018_08_04_MacroTool\FunToCodeLater\Morse\aeMKBRq_460sv.mp4
+\Code\2018_08_04_MacroTool\FunToCodeLater\Morse\aWMmjQq_460s_v2.jpg
+\Code\2018_08_04_MacroTool\FunToCodeLater\Morse\aXXXzGD_460s_v1.jpg
+\Code\2018_08_04_MacroTool\FunToCodeLater\Morse\aYgnDWw_460svvp9.webm
+\Code\2018_08_04_MacroTool\FunToCodeLater\SignLanguageApp\a1oy3NY_700b.jpg
+\Code\2018_08_04_MacroTool\Idea\10FingerMorse\10FingerMorse.txt
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Canvas.prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Canvas.prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Delete.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\eToolBox.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\InputText.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\InputText.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\ListenToText.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\ListenToText.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NeedKeystrokeUtility.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NeedKeystrokeUtility.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Packages\manifest.json
+\Code\2018_08_04_MacroTool\Macro Tool\ProjectSettings\AudioManager.asset
+\Code\2018_08_04_MacroTool\Macro Tool\ProjectSettings\ClusterInputManager.asset
+\Code\2018_08_04_MacroTool\Macro Tool\ProjectSettings\DynamicsManager.asset
+\Code\2018_08_04_MacroTool\Macro Tool\ProjectSettings\EditorSettings.asset
+\Code\2018_08_04_MacroTool\Macro Tool\ProjectSettings\GraphicsSettings.asset
+\Code\2018_08_04_MacroTool\Macro Tool\ProjectSettings\InputManager.asset
+\Code\2018_08_04_MacroTool\Macro Tool\ProjectSettings\NavMeshAreas.asset
+\Code\2018_08_04_MacroTool\Macro Tool\ProjectSettings\NetworkManager.asset
+\Code\2018_08_04_MacroTool\Macro Tool\ProjectSettings\Physics2DSettings.asset
+\Code\2018_08_04_MacroTool\Macro Tool\ProjectSettings\PresetManager.asset
+\Code\2018_08_04_MacroTool\Macro Tool\ProjectSettings\ProjectSettings.asset
+\Code\2018_08_04_MacroTool\Macro Tool\ProjectSettings\ProjectVersion.txt
+\Code\2018_08_04_MacroTool\Macro Tool\ProjectSettings\QualitySettings.asset
+\Code\2018_08_04_MacroTool\Macro Tool\ProjectSettings\TagManager.asset
+\Code\2018_08_04_MacroTool\Macro Tool\ProjectSettings\TimeManager.asset
+\Code\2018_08_04_MacroTool\Macro Tool\ProjectSettings\UnityConnectSettings.asset
+\Code\2018_08_04_MacroTool\Macro Tool\UnityPackageManager\manifest.json
+\Code\2018_08_04_MacroTool\Research\Format\81QsAbziT8L._SL1500_.jpg
+\Code\2018_08_04_MacroTool\Research\Pattern\keyboard-101-russian.svg
+\Code\2018_08_04_MacroTool\Research\Pattern\keyboard-101-us.svg
+\Code\2018_08_04_MacroTool\Research\Pattern\keyboard-102-uk.svg
+\Code\2018_08_04_MacroTool\Research\Pattern\keyboard-103-korean.svg
+\Code\2018_08_04_MacroTool\Research\Pattern\keyboard-104-brazilian.svg
+\Code\2018_08_04_MacroTool\Research\Pattern\keyboard-106-japanese.svg
+\Code\2018_08_04_MacroTool\Research\Pattern\keyboard-sections.svg
+\Code\2018_08_04_MacroTool\Research\PossibilitiesOfUse\MacroUtilityUsePossibility.PNG
+\Code\2018_08_04_MacroTool\Research\PrintMachine\azio-mk-retro-clavier-usb-machine-a-ecrire-prix.jpg
+\Code\2018_08_04_MacroTool\Research\PrintMachine\d27ef64411ba13ce8845919d42b4498e.jpg
+\Code\2018_08_04_MacroTool\Research\PrintMachine\machine-ecrire-brother-grise-01.jpg
+\Code\2018_08_04_MacroTool\Research\PrintMachine\usb-machine-a-ecrire-clavier-original.jpg
+\Code\2018_08_04_MacroTool\Research\Unicode\unicode-in-a-spiral-lucida-sans1.jpg
+\Code\2018_08_04_MacroTool\Tools\KeyboardKeyViewer\KbdEdit - Demo version.url
+\Code\2018_08_04_MacroTool\Tools\KeyboardKeyViewer\KbdEditDemo.exe
+\Code\2018_08_04_MacroTool\Tools\KeyboardKeyViewer\KbdEditDemoX64.exe
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Delete\dd.unity
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Delete\dd.unity.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Delete\Delete_Click.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Delete\Delete_Click.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Delete\User32Test.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Delete\User32Test.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\License.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\eToolBox\Script.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\FTL_CrewGroupSelection.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\FTL_CrewGroupSelection.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Scene.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Scene.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Documentation.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\MacroStorage.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Editor.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Scene.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Script.meta
+\Code\2018_08_04_MacroTool\Research\Games\FTL\Engine.PNG
+\Code\2018_08_04_MacroTool\Research\Games\FTL\FTL1.PNG
+\Code\2018_08_04_MacroTool\Research\Games\FTL\FTL2.PNG
+\Code\2018_08_04_MacroTool\Research\Games\FTL\FTL3.PNG
+\Code\2018_08_04_MacroTool\Research\Games\FTL\FTL4.PNG
+\Code\2018_08_04_MacroTool\Research\Games\FTL\GoToPosition.PNG
+\Code\2018_08_04_MacroTool\Research\Games\FTL\Medbay.PNG
+\Code\2018_08_04_MacroTool\Research\Games\FTL\Medic.PNG
+\Code\2018_08_04_MacroTool\Research\Games\FTL\Oxygen.PNG
+\Code\2018_08_04_MacroTool\Research\Games\FTL\SavePositin.PNG
+\Code\2018_08_04_MacroTool\Research\Games\FTL\Shield.PNG
+\Code\2018_08_04_MacroTool\Research\Games\FTL\Weapon.PNG
+\Code\2018_08_04_MacroTool\Research\Pattern\Apple\keyboard-laptop-mac.svg
+\Code\2018_08_04_MacroTool\Research\Pattern\Apple\keyboard-laptop.svg
+\Code\2018_08_04_MacroTool\Research\Pattern\Apple\keyboard-mac (1).svg
+\Code\2018_08_04_MacroTool\Research\Pattern\Apple\keyboard-mac.svg
+\Code\2018_08_04_MacroTool\Research\Pattern\Asian\functional-row-a.svg
+\Code\2018_08_04_MacroTool\Research\Pattern\ControlPad\control-pad.svg
+\Code\2018_08_04_MacroTool\Research\Pattern\Numpad\numpad.svg
+\Code\2018_08_04_MacroTool\Research\Pattern\WritingSystem\keyboard-codes-alphanum1.svg
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\License\Find me on Discord.url
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\License\Find me on Discord.url.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\License\Find me on Patreon.url
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\License\Find me on Patreon.url.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\License\READ_ME_LICENSE.txt
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\License\READ_ME_LICENSE.txt.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\Script.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\SplashScene.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\Watermark.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\eToolBox\Script\CoolScript.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Prefab\Panel_EngineElement.prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Prefab\Panel_EngineElement.prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Prefab\Panel_GroupCrew.prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Prefab\Panel_GroupCrew.prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Prefab\Panel_PowerTouch.prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Prefab\Panel_PowerTouch.prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Prefab\Panel_Weapon .prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Prefab\Panel_Weapon .prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Scene\Demo_FTL.unity
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Scene\Demo_FTL.unity.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Prefab\Keyboard.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Prefab\Network.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Prefab\Resources.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Scene\Enum.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Scene\InputSimulator.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Scene\Keyboard.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Scene\KeyStroke.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Scene\Network.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\0. Public.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\2. Demo.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\7. Interproject.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\8. Tools.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\9. Unstore.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Demo.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Scene.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Documentation\List.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\MacroStorage\CallNotePad.txt
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\MacroStorage\CallNotePad.txt.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\MacroStorage\CallOBS.txt
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\MacroStorage\CallOBS.txt.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\MacroStorage\LastMacro 1.txt
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\MacroStorage\LastMacro 1.txt.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\MacroStorage\LastMacro.txt
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\MacroStorage\LastMacro.txt.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\MacroStorage\TestMonAmi.txt
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\MacroStorage\TestMonAmi.txt.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Editor\AutoLaunch.bat
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Editor\AutoLaunch.bat.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Editor\KillAll.bat
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Editor\KillAll.bat.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Prefab\NetworkAutoLoad.prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Prefab\NetworkAutoLoad.prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Prefab\PlayerInfo.prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Prefab\PlayerInfo.prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Prefab\SetPositionWindow.prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Prefab\SetPositionWindow.prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Scene\0. DesignBy.unity
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Scene\0. DesignBy.unity.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Scene\1. ResourceScene.unity
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Scene\1. ResourceScene.unity.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Scene\2. ChooseNetworkSystem.unity
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Scene\2. ChooseNetworkSystem.unity.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Scene\3a. HostManager.unity
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Scene\3a. HostManager.unity.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Scene\3b. LobbyManager.unity
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Scene\3b. LobbyManager.unity.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Scene\4a. HostOnline.unity
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Scene\4a. HostOnline.unity.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Scene\5a. HostOffline.unity
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Scene\5a. HostOffline.unity.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Script\AutoConnectUtility.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Script\AutoConnectUtility.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Script\AutoHostNetworkDiscovery.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Script\AutoHostNetworkDiscovery.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Script\DebugSceneLoader.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Script\DebugSceneLoader.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Script\MonoBehaviourEvent.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Script\MonoBehaviourEvent.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Script\NetworkAutoLoad.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Script\NetworkAutoLoad.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Script\NetworkDestroyer.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Script\NetworkDestroyer.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Script\ParamsToWindowPosition.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Script\ParamsToWindowPosition.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Script\ParamsWindow.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Script\ParamsWindow.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Script\SceneLoader.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Script\SceneLoader.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Script\SetEveryPlayerReady.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Script\SetEveryPlayerReady.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Script\SyncPlayerInfo.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Script\SyncPlayerInfo.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\Script\AutoLoadScene.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\Script\AutoLoadScene.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\Script\EloiPatreonWatermark.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\Script\EloiPatreonWatermark.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\Script\OpenBrowser.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\Script\OpenBrowser.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\Script\PlatformActivator.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\Script\PlatformActivator.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\Script\RatioPanelSwitcher.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\Script\RatioPanelSwitcher.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\SplashScene\Canvas_SpalshScreen.prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\SplashScene\Canvas_SpalshScreen.prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\SplashScene\PatreonLogo.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\SplashScene\PatreonLogo.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\SplashScene\ProfielCircle.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\SplashScene\ProfielCircle.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\SplashScene\SplashScene.unity
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\SplashScene\SplashScene.unity.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\Watermark\Canvas_EloiStree_FairReturn.prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\Watermark\Canvas_EloiStree_FairReturn.prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\Watermark\FairReturn.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\Watermark\FairReturn.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\Watermark\FairReturn.psd
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\Watermark\FairReturn.psd.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\Watermark\Watermark.unity
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\Watermark\Watermark.unity.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\Watermark\WatermarkAutoGenerated.prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\Watermark\WatermarkAutoGenerated.prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\eToolBox\Script\CoolScript\Editor.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\ArtilleryBeamCircle (1).png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\ArtilleryBeamCircle (1).png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\ArtilleryBeamCircle.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\ArtilleryBeamCircle.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\ArtilleryBeamSymbol (1).png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\ArtilleryBeamSymbol (1).png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\ArtilleryBeamSymbol.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\ArtilleryBeamSymbol.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\BackupBatteryCircle.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\BackupBatteryCircle.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\BackupBatterySymbol.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\BackupBatterySymbol.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\CloakingCircle.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\CloakingCircle.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\CloakingSymbol.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\CloakingSymbol.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\CloneBayCircle.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\CloneBayCircle.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\CloneBaySymbol.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\CloneBaySymbol.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\CloseDoor.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\CloseDoor.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\Config.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\Config.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\CrewTeleporterCircle.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\CrewTeleporterCircle.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\CrewTeleporterSymbol.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\CrewTeleporterSymbol.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\DoorSystemCircle.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\DoorSystemCircle.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\DoorSystemSymbol.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\DoorSystemSymbol.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\DroneControlCircle.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\DroneControlCircle.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\DroneControlSymbol.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\DroneControlSymbol.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\DroneTitle.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\DroneTitle.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\Engi1.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\Engi1.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\EnginesCircle.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\EnginesCircle.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\EnginesSymbol.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\EnginesSymbol.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\HackingCircle.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\HackingCircle.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\HackingSymbol.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\HackingSymbol.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\Jump.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\Jump.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\MaleHuman1.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\MaleHuman1.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\Mantis2.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\Mantis2.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\MedbayCircle.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\MedbayCircle.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\MedbaySymbol.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\MedbaySymbol.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\MindControlCircle.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\MindControlCircle.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\MindControlSymbol.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\MindControlSymbol.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\OpenDoor.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\OpenDoor.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\OxygenCircle.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\OxygenCircle.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\OxygenSymbol.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\OxygenSymbol.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\Pause.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\Pause.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\PilotingCircle.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\PilotingCircle.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\PilotingSymbol.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\PilotingSymbol.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\Rockmen2.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\Rockmen2.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\SensorsCircle.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\SensorsCircle.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\SensorsSymbol.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\SensorsSymbol.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\ShieldsCircle.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\ShieldsCircle.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\ShieldsSymbol.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\ShieldsSymbol.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\Ship.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\Ship.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\TeamMove.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\TeamMove.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\TeamRecord.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\TeamRecord.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\WeaponControlCircle.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\WeaponControlCircle.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\WeaponControlSymbol.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\WeaponControlSymbol.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\WeaponTitle.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\WeaponTitle.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\Zoltan2.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\Zoltan2.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\ZoneWeapon.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\ZoneWeapon.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\ZoneWeapons.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D\ZoneWeapons.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Prefab\Keyboard\Keyboard State.prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Prefab\Keyboard\Keyboard State.prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Prefab\Network\Prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Prefab\Resources\KeystrokeUtilitySingleton.prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Prefab\Resources\KeystrokeUtilitySingleton.prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Scene\Enum\Demo_DisplayEnum.unity
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Scene\Enum\Demo_DisplayEnum.unity.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Scene\InputSimulator\Demo_FunWithInSim.unity
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Scene\InputSimulator\Demo_FunWithInSim.unity.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Scene\Keyboard\Demo_KeyboardState.unity
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Scene\Keyboard\Demo_KeyboardState.unity.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Scene\KeyStroke\Demo_KeyStrokeUtility.unity
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Scene\KeyStroke\Demo_KeyStrokeUtility.unity.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Scene\Network\Scene.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\0. Public\KeyBindingTable.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\0. Public\KeyBindingTable.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\0. Public\KeystrokeHistoryDebug.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\0. Public\KeystrokeHistoryDebug.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\0. Public\KeystrokeUtility.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\0. Public\KeystrokeUtility.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\0. Public\Listener.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\0. Public\Mono.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\Keyboard.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\Network.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\SetAndroidAsTransmetterAllTime.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\SetAndroidAsTransmetterAllTime.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\SetNetworkAsTransmetterAtStart.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\SetNetworkAsTransmetterAtStart.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\2. Demo\Demo_DisplayEnumAsText.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\2. Demo\Demo_DisplayEnumAsText.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\2. Demo\Demo_TypeWithKeystrokeUtility.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\2. Demo\Demo_TypeWithKeystrokeUtility.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\2. Demo\InputSimulator.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\2. Demo\UI.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\7. Interproject\AnitSleep.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\7. Interproject\AnitSleep.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\7. Interproject\BlocNote.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\7. Interproject\BlocNote.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\7. Interproject\ButtonPlus.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\7. Interproject\ButtonPlus.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\7. Interproject\EnumDictionary.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\7. Interproject\EnumDictionary.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\7. Interproject\InputFieldPlus.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\7. Interproject\InputFieldPlus.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\8. Tools\OpenMobileVirtualKeyboard.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\8. Tools\OpenMobileVirtualKeyboard.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\9. Unstore\ButtonTogglePlus.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\9. Unstore\ButtonTogglePlus.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\9. Unstore\ButtonToKeyStroke.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\9. Unstore\ButtonToKeyStroke.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\9. Unstore\ButtonToKeyStrokeSequence.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\9. Unstore\ButtonToKeyStrokeSequence.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\9. Unstore\ButtonTouchesSequence.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\9. Unstore\ButtonTouchesSequence.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\9. Unstore\Demo_SwitchTransmissionType.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\9. Unstore\Demo_SwitchTransmissionType.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\9. Unstore\Demo_TouchToNetwork.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\9. Unstore\Demo_TouchToNetwork.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\9. Unstore\KeyStrokeRequestToWindowVirtualKeyboard.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\9. Unstore\KeyStrokeRequestToWindowVirtualKeyboard.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\9. Unstore\KeystrokeUtilityListener.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\9. Unstore\KeystrokeUtilityListener.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\9. Unstore\SetAsRepresentativeKeyboard.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\9. Unstore\SetAsRepresentativeKeyboard.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\9. Unstore\UI_KeyboardStateViewer.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\9. Unstore\UI_KeyboardStateViewer.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\9. Unstore\UI_NetworkUsersState.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\9. Unstore\UI_NetworkUsersState.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\9. Unstore\UI_UserNetworkState.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\9. Unstore\UI_UserNetworkState.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\9. Unstore\UnityKeyboardState.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\9. Unstore\UnityKeyboardState.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\9. Unstore\WindowVirtualKeyboard.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\9. Unstore\WindowVirtualKeyboard.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Prefab\Experiment_NumPadToMacro.prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Prefab\Experiment_NumPadToMacro.prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Scene\DemoDraft_MacroMaker.unity
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Scene\DemoDraft_MacroMaker.unity.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Scene\Demo_MacroMaker.unity
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Scene\Demo_MacroMaker.unity.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Scene\Experiment_NumpadToMacro.unity
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Scene\Experiment_NumpadToMacro.unity.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Scene\Experiment_RecordKeyStroke.unity
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Scene\Experiment_RecordKeyStroke.unity.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script\2. Demo.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script\8. Tools.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script\9. Unstore.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Documentation\List\CharToKeyCodeUnityList.txt
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Documentation\List\CharToKeyCodeUnityList.txt.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Documentation\List\KeyCodeList.txt
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Documentation\List\KeyCodeList.txt.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Documentation\List\LanguageC.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Documentation\List\LanguageCharacter.txt
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Documentation\List\LanguageCharacter.txt.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Documentation\List\VirtualKeyCodeList.txt
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Documentation\List\VirtualKeyCodeList.txt.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Documentation.txt
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Documentation.txt.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Fonts.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Instruction.txt
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Instruction.txt.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Prefabs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Scripts.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Sprites.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\Editor.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\Textures.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\eToolBox\Script\CoolScript\Editor\LoadSceneOnPressingPlay.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\eToolBox\Script\CoolScript\Editor\LoadSceneOnPressingPlay.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\README.md
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\README.md.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WinInputSimulationUtility.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WinInputSimulationUtility.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Prefab\Network\Prefab\AppUser.prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Prefab\Network\Prefab\AppUser.prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Prefab\Network\Prefab\UI.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Scene\Network\Scene\Demo_KeyStrokeUtility.unity
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Scene\Network\Scene\Demo_KeyStrokeUtility.unity.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Scene\Network\Scene\LaunchUNet.unity
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Scene\Network\Scene\LaunchUNet.unity.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Scene\Network\Scene\OfflineUNet.unity
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Scene\Network\Scene\OfflineUNet.unity.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\0. Public\Listener\Keyboard.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\0. Public\Listener\Native.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\0. Public\Mono\KeyStrokeUtilityMonoAccess.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\0. Public\Mono\KeyStrokeUtilityMonoAccess.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\Keyboard\NetworkKeyboardState.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\Keyboard\NetworkKeyboardState.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\Network\Demo.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\Network\KeystrokeNetworkBehaviour.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\Network\KeystrokeNetworkBehaviour.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\Network\NetworkListenerToLocalKeystroke.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\Network\NetworkListenerToLocalKeystroke.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\Network\Tools.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\Network\Window.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\2. Demo\InputSimulator\DemoInSim_HackInput.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\2. Demo\InputSimulator\DemoInSim_HackInput.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\2. Demo\InputSimulator\DemoInSim_IsOnAndIsDown.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\2. Demo\InputSimulator\DemoInSim_IsOnAndIsDown.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\2. Demo\InputSimulator\DemoInSim_ModifiedKeyStroke.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\2. Demo\InputSimulator\DemoInSim_ModifiedKeyStroke.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\2. Demo\InputSimulator\DemoInSim_TextEntry.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\2. Demo\InputSimulator\DemoInSim_TextEntry.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\2. Demo\InputSimulator\DemoInSim_TextEntryUnicode.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\2. Demo\InputSimulator\DemoInSim_TextEntryUnicode.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\2. Demo\UI\UI_KeyStrokeUtilityDebug.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\2. Demo\UI\UI_KeyStrokeUtilityDebug.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script\2. Demo\Experiment_NumpadToMacro.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script\2. Demo\Experiment_NumpadToMacro.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script\2. Demo\Experiment_NumpadToWritingText.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script\2. Demo\Experiment_NumpadToWritingText.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script\9. Unstore\ConvertToAbstractKey.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script\9. Unstore\ConvertToAbstractKey.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script\9. Unstore\ConvertUnityKeyToAbstractKey.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script\9. Unstore\ConvertUnityKeyToAbstractKey.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script\9. Unstore\DemoUI_ContextMenu.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script\9. Unstore\DemoUI_ContextMenu.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script\9. Unstore\MacroHolder.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script\9. Unstore\MacroHolder.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script\9. Unstore\MacroHolderToVirtualKeyNetwork.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script\9. Unstore\MacroHolderToVirtualKeyNetwork.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script\9. Unstore\MacroStorage.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script\9. Unstore\MacroStorage.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script\9. Unstore\MacroUtility.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script\9. Unstore\MacroUtility.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script\9. Unstore\RecordBindingKey.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script\9. Unstore\RecordBindingKey.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script\9. Unstore\RecordBindKeyToDebugView.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script\9. Unstore\RecordBindKeyToDebugView.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script\9. Unstore\RecordVirtualKeyCode.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script\9. Unstore\RecordVirtualKeyCode.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script\9. Unstore\RecordVirtualMouse.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script\9. Unstore\RecordVirtualMouse.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Fonts\OpenSans.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Prefabs\LobbyManager.prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Prefabs\LobbyManager.prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Prefabs\NewIcons.prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Prefabs\NewIcons.prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Prefabs\PlayerInfo.prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Prefabs\PlayerInfo.prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Prefabs\ServerInfoEntry.prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Prefabs\ServerInfoEntry.prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Prefabs\ServerNameGroup.prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Prefabs\ServerNameGroup.prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Materials.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Models.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Prefabs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Scenes.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Scripts.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Textures.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Scripts\DraggablePanel.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Scripts\DraggablePanel.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Scripts\EventSystemChecker.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Scripts\EventSystemChecker.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Scripts\Lobby.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Sprites\AddSprite.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Sprites\AddSprite.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Sprites\ButtonSprite.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Sprites\ButtonSprite.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Sprites\InfoPanelSprite.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Sprites\InfoPanelSprite.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Sprites\InputFieldSprite.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Sprites\InputFieldSprite.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Sprites\LocalSprite.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Sprites\LocalSprite.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Sprites\RemoteSprite.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Sprites\RemoteSprite.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Sprites\RemoveSprite.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Sprites\RemoveSprite.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\Editor\WASD Studio Tools.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\Textures\GUI.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WaterMark.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WindowTools.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\IInputDeviceStateAdaptor.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\IInputDeviceStateAdaptor.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\IInputMessageDispatcher.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\IInputMessageDispatcher.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\IInputSimulator.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\IInputSimulator.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\IKeyboardSimulator.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\IKeyboardSimulator.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\IMouseSimulator.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\IMouseSimulator.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\InputSimulator.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\InputSimulator.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\KeyboardSimulator.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\KeyboardSimulator.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\MouseButton.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\MouseButton.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\MouseSimulator.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\MouseSimulator.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\Native.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\Properties.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\WindowsInput.nuspec
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\WindowsInput.nuspec.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\WindowsInput.snk
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\WindowsInput.snk.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\WindowsInputDeviceStateAdaptor.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\WindowsInputDeviceStateAdaptor.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\WindowsInputMessageDispatcher.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\WindowsInputMessageDispatcher.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Prefab\Network\Prefab\UI\NetButton_Macro.prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Prefab\Network\Prefab\UI\NetButton_Macro.prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Prefab\Network\Prefab\UI\NetButton_ReleaseAll.prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Prefab\Network\Prefab\UI\NetButton_ReleaseAll.prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Prefab\Network\Prefab\UI\NetButton_xx.prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Prefab\Network\Prefab\UI\NetButton_xx.prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Prefab\Network\Prefab\UI\NetToggle_xx.prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Prefab\Network\Prefab\UI\NetToggle_xx.prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Prefab\Network\Prefab\UI\NetworkInput_CharacterToVirtualInput.prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Prefab\Network\Prefab\UI\NetworkInput_CharacterToVirtualInput.prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\0. Public\Listener\Keyboard\KeyboardKeyListener.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\0. Public\Listener\Keyboard\KeyboardKeyListener.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\0. Public\Listener\Keyboard\KeyboardKeyListenerDebug.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\0. Public\Listener\Keyboard\KeyboardKeyListenerDebug.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\0. Public\Listener\Keyboard\WindowKeyboardKeyListener.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\0. Public\Listener\Keyboard\WindowKeyboardKeyListener.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\0. Public\Listener\Native\ListenToInputField.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\0. Public\Listener\Native\ListenToInputField.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\0. Public\Listener\Native\ListenToUnityInput.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\0. Public\Listener\Native\ListenToUnityInput.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\0. Public\Listener\Native\ListenToUnityKeyCode.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\0. Public\Listener\Native\ListenToUnityKeyCode.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\0. Public\Listener\Native\ListenToWindowKeyCode.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\0. Public\Listener\Native\ListenToWindowKeyCode.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\Network\Demo\Demo_KeyCodeToNetwork.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\Network\Demo\Demo_KeyCodeToNetwork.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\Network\Demo\Demo_SendRandomNetworkStroke.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\Network\Demo\Demo_SendRandomNetworkStroke.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\Network\Tools\NetworkDeviceInfo.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\Network\Tools\NetworkDeviceInfo.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\Network\Tools\NetworkUsersName.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\Network\Tools\NetworkUsersName.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\Network\Window\BroadcastVirtualKey.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\Network\Window\BroadcastVirtualKey.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\Network\Window\VirtualKeyboardTransmitter.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\Network\Window\VirtualKeyboardTransmitter.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\Network\Window\VirtualKeyToNetwork.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\Network\Window\VirtualKeyToNetwork.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Fonts\OpenSans\License!.txt
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Fonts\OpenSans\License!.txt.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Fonts\OpenSans\OpenSansBold.ttf
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Fonts\OpenSans\OpenSansBold.ttf.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Fonts\OpenSans\OpenSansLight.ttf
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Fonts\OpenSans\OpenSansLight.ttf.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Fonts\OpenSans\OpenSansRegular.ttf
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Fonts\OpenSans\OpenSansRegular.ttf.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Fonts\OpenSans\OpenSansSemibold.ttf
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Fonts\OpenSans\OpenSansSemibold.ttf.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Materials\FlyerAsteroid.mat
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Materials\FlyerAsteroid.mat.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Materials\FlyerPlayership.mat
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Materials\FlyerPlayership.mat.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Materials\ParticleAfterburner.mat
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Materials\ParticleAfterburner.mat.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Materials\WhiteSmooth.mat
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Materials\WhiteSmooth.mat.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Materials\WhiteUnlit.mat
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Materials\WhiteUnlit.mat.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Models\Asteroid01.fbx
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Models\Asteroid01.fbx.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Models\FlyerAsteroidB.fbx
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Models\FlyerAsteroidB.fbx.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Models\LaserBolt.fbx
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Models\LaserBolt.fbx.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Models\Materials.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Models\Spaceship.fbx
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Models\Spaceship.fbx.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Prefabs\BigAsteroid.prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Prefabs\BigAsteroid.prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Prefabs\SmallAsteroid.prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Prefabs\SmallAsteroid.prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Prefabs\Spaceship.prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Prefabs\Spaceship.prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Prefabs\SpaceshipBullet.prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Prefabs\SpaceshipBullet.prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Scenes\NetworkLobby.unity
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Scenes\NetworkLobby.unity.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Scenes\NetworkSpaceship.unity
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Scenes\NetworkSpaceship.unity.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Scripts\NetworkAsteroid.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Scripts\NetworkAsteroid.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Scripts\NetworkGameManager.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Scripts\NetworkGameManager.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Scripts\NetworkLobbyHook.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Scripts\NetworkLobbyHook.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Scripts\NetworkSpaceship.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Scripts\NetworkSpaceship.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Scripts\NetworkSpaceshipBullet.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Scripts\NetworkSpaceshipBullet.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Textures\FlyerAsteroidEmissive.tif
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Textures\FlyerAsteroidEmissive.tif.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Textures\FlyerPlayershipAlbedo.tif
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Textures\FlyerPlayershipAlbedo.tif.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Textures\FlyerPlayershipEmission.tif
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Textures\FlyerPlayershipEmission.tif.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Textures\FlyerPlayershipOcclusion.tif
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Textures\FlyerPlayershipOcclusion.tif.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Scripts\Lobby\LobbyCountdownPanel.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Scripts\Lobby\LobbyCountdownPanel.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Scripts\Lobby\LobbyHook.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Scripts\Lobby\LobbyHook.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Scripts\Lobby\LobbyInfoPanel.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Scripts\Lobby\LobbyInfoPanel.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Scripts\Lobby\LobbyMainMenu.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Scripts\Lobby\LobbyMainMenu.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Scripts\Lobby\LobbyManager.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Scripts\Lobby\LobbyManager.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Scripts\Lobby\LobbyPlayer.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Scripts\Lobby\LobbyPlayer.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Scripts\Lobby\LobbyPlayerList.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Scripts\Lobby\LobbyPlayerList.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Scripts\Lobby\LobbyServerEntry.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Scripts\Lobby\LobbyServerEntry.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Scripts\Lobby\LobbyServerList.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Scripts\Lobby\LobbyServerList.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Scripts\Lobby\LobbyTopPanel.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Scripts\Lobby\LobbyTopPanel.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\Editor\WASD Studio Tools\WaterMarkLogoEditor.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\Editor\WASD Studio Tools\WaterMarkLogoEditor.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\Textures\GUI\WasdWMLogo.png
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\Textures\GUI\WasdWMLogo.png.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WaterMark\Prefabs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WaterMark\Scripts.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WindowTools\Prefabs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WindowTools\ReadMe WindowTools.txt
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WindowTools\ReadMe WindowTools.txt.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WindowTools\Scenes.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WindowTools\Scripts.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\Native\HARDWAREINPUT.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\Native\HARDWAREINPUT.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\Native\INPUT.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\Native\INPUT.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\Native\InputType.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\Native\InputType.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\Native\KEYBDINPUT.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\Native\KEYBDINPUT.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\Native\KeyboardFlag.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\Native\KeyboardFlag.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\Native\MouseFlag.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\Native\MouseFlag.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\Native\MOUSEINPUT.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\Native\MOUSEINPUT.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\Native\MOUSEKEYBDHARDWAREINPUT.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\Native\MOUSEKEYBDHARDWAREINPUT.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\Native\NativeMethods.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\Native\NativeMethods.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\Native\VirtualKeyCode.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\Native\VirtualKeyCode.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\Native\XButton.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\Native\XButton.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\Properties\AssemblyInfo.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\Properties\AssemblyInfo.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Models\Materials\Asteroid.mat
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Models\Materials\Asteroid.mat.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Models\Materials\SpaceshipGlow.mat
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Models\Materials\SpaceshipGlow.mat.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Models\Materials\SpaceshipHull.mat
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Models\Materials\SpaceshipHull.mat.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WaterMark\Prefabs\WASD Logo Watermark.prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WaterMark\Prefabs\WASD Logo Watermark.prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WaterMark\Scripts\WaterMarkLogo.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WaterMark\Scripts\WaterMarkLogo.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WindowTools\Prefabs\WindowTools.prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WindowTools\Prefabs\WindowTools.prefab.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WindowTools\Scenes\WindowToolsScene.unity
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WindowTools\Scenes\WindowToolsScene.unity.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WindowTools\Scripts\BorderlessWindow.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WindowTools\Scripts\BorderlessWindow.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WindowTools\Scripts\ExampleOfUse.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WindowTools\Scripts\ExampleOfUse.cs.meta
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WindowTools\Scripts\WindowTools.cs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WindowTools\Scripts\WindowTools.cs.meta
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md

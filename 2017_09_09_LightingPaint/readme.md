@@ -2,6 +2,10 @@
   
 -------------------------   
 
+  <[2017_09_08_PaintingJamE2](2017_09_08_PaintingJamE2\readme.md) | [2017_09_09_NerfGunScan](2017_09_09_NerfGunScan\readme.md)>
+  
+-------------------------   
+
 [![Icon Img](icon.png)](icon.png)  
 [![Preview Img](preview.png)](preview.png)   No additional information yet.
   

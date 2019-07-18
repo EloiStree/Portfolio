@@ -1,0 +1,257 @@
+Relative Path:G:\HistoryShowcase\2015_09_11_PechaKuchaTraining
+\Code\Assembly-CSharp-vs.csproj
+\Code\Assembly-CSharp.csproj
+\Code\PechaKucha Training-csharp.sln
+\Code\PechaKucha Training-csharp.v12.suo
+\Code\PechaKucha Training.sln
+\Code\SourceCode.csproj
+\Code\SourceCode.sln
+\Code\Unity.Analytics.DataPrivacy.csproj
+\Code\Unity.CollabProxy.Editor.csproj
+\Code\Unity.PackageManagerUI.Editor.csproj
+\Code\Unity.TextMeshPro.csproj
+\Code\Unity.TextMeshPro.Editor.csproj
+\Code\Assets\2D.meta
+\Code\Assets\ActivateOnPechaKuchaEnd.cs
+\Code\Assets\ActivateOnPechaKuchaEnd.cs.meta
+\Code\Assets\DEL_MoveLeft.cs
+\Code\Assets\DEL_MoveLeft.cs.meta
+\Code\Assets\DisableOnCommand.cs
+\Code\Assets\DisableOnCommand.cs.meta
+\Code\Assets\DisplayTexture.cs
+\Code\Assets\DisplayTexture.cs.meta
+\Code\Assets\ImportPechaKuchaFromFolder.cs
+\Code\Assets\ImportPechaKuchaFromFolder.cs.meta
+\Code\Assets\InitPechaLogicWithSelected.cs
+\Code\Assets\InitPechaLogicWithSelected.cs.meta
+\Code\Assets\KeyboardManager.cs
+\Code\Assets\KeyboardManager.cs.meta
+\Code\Assets\LoadSlide.cs
+\Code\Assets\LoadSlide.cs.meta
+\Code\Assets\LoadWhenImported.cs
+\Code\Assets\LoadWhenImported.cs.meta
+\Code\Assets\Logic_PechaKucha.cs
+\Code\Assets\Logic_PechaKucha.cs.meta
+\Code\Assets\Logic_PechaSelector.cs
+\Code\Assets\Logic_PechaSelector.cs.meta
+\Code\Assets\PechaKucha.cs
+\Code\Assets\PechaKucha.cs.meta
+\Code\Assets\PechaKucha.json
+\Code\Assets\PechaKucha.json.meta
+\Code\Assets\PechaKuchaDataMono.cs
+\Code\Assets\PechaKuchaDataMono.cs.meta
+\Code\Assets\PechaStarter.cs
+\Code\Assets\PechaStarter.cs.meta
+\Code\Assets\Police.meta
+\Code\Assets\Prefab.meta
+\Code\Assets\QuickScript.meta
+\Code\Assets\Resources.meta
+\Code\Assets\SaveLoadPechaKucha.cs
+\Code\Assets\SaveLoadPechaKucha.cs.meta
+\Code\Assets\Scene.meta
+\Code\Assets\UI_PechaKucha.cs
+\Code\Assets\UI_PechaKucha.cs.meta
+\Code\Assets\UI_PechaSelectorSimple.cs
+\Code\Assets\UI_PechaSelectorSimple.cs.meta
+\Code\Logs\Packages-Update.log
+\Code\Packages\manifest.json
+\Code\PechaKucha\0.png
+\Code\PechaKucha\1.png
+\Code\PechaKucha\10.png
+\Code\PechaKucha\11.png
+\Code\PechaKucha\12.png
+\Code\PechaKucha\13.png
+\Code\PechaKucha\14.png
+\Code\PechaKucha\15.png
+\Code\PechaKucha\16.png
+\Code\PechaKucha\17.png
+\Code\PechaKucha\18.png
+\Code\PechaKucha\19.png
+\Code\PechaKucha\2.png
+\Code\PechaKucha\3.png
+\Code\PechaKucha\4.png
+\Code\PechaKucha\5.png
+\Code\PechaKucha\6.png
+\Code\PechaKucha\7.png
+\Code\PechaKucha\8.png
+\Code\PechaKucha\9.png
+\Code\PechaKucha\PechaKucha.json
+\Code\PechaKucha20x20\01.jpg
+\Code\PechaKucha20x20\02.jpg
+\Code\PechaKucha20x20\03.jpg
+\Code\PechaKucha20x20\04.jpg
+\Code\PechaKucha20x20\05.jpg
+\Code\PechaKucha20x20\06.jpg
+\Code\PechaKucha20x20\07.jpg
+\Code\PechaKucha20x20\08.jpg
+\Code\PechaKucha20x20\09.jpg
+\Code\PechaKucha20x20\10.jpg
+\Code\PechaKucha20x20\11.jpg
+\Code\PechaKucha20x20\12.jpg
+\Code\PechaKucha20x20\13.jpg
+\Code\PechaKucha20x20\14.jpg
+\Code\PechaKucha20x20\15.jpg
+\Code\PechaKucha20x20\16.jpg
+\Code\PechaKucha20x20\17.jpg
+\Code\PechaKucha20x20\18.jpg
+\Code\PechaKucha20x20\19.jpg
+\Code\PechaKucha20x20\20.jpg
+\Code\ProjectSettings\AudioManager.asset
+\Code\ProjectSettings\ClusterInputManager.asset
+\Code\ProjectSettings\DynamicsManager.asset
+\Code\ProjectSettings\EditorSettings.asset
+\Code\ProjectSettings\GraphicsSettings.asset
+\Code\ProjectSettings\InputManager.asset
+\Code\ProjectSettings\NavMeshAreas.asset
+\Code\ProjectSettings\NetworkManager.asset
+\Code\ProjectSettings\Physics2DSettings.asset
+\Code\ProjectSettings\PresetManager.asset
+\Code\ProjectSettings\ProjectSettings.asset
+\Code\ProjectSettings\ProjectVersion.txt
+\Code\ProjectSettings\QualitySettings.asset
+\Code\ProjectSettings\TagManager.asset
+\Code\ProjectSettings\TimeManager.asset
+\Code\ProjectSettings\UnityConnectSettings.asset
+\Code\ProjectSettings\VFXManager.asset
+\Code\Assets\2D\abstract triangle wallpaper35183.jpg
+\Code\Assets\2D\abstract triangle wallpaper35183.jpg.meta
+\Code\Assets\2D\BigTriangle.png
+\Code\Assets\2D\BigTriangle.png.meta
+\Code\Assets\2D\EndSlideEscapeMenu.png
+\Code\Assets\2D\EndSlideEscapeMenu.png.meta
+\Code\Assets\2D\Pause.png
+\Code\Assets\2D\Pause.png.meta
+\Code\Assets\2D\Save.png
+\Code\Assets\2D\Save.png.meta
+\Code\Assets\2D\SlideTopRight.png
+\Code\Assets\2D\SlideTopRight.png.meta
+\Code\Assets\2D\spriteBlack.png
+\Code\Assets\2D\spriteBlack.png.meta
+\Code\Assets\2D\spriteWhite.png
+\Code\Assets\2D\spriteWhite.png.meta
+\Code\Assets\2D\textureBlack.png
+\Code\Assets\2D\textureBlack.png.meta
+\Code\Assets\2D\textureTranspare.png
+\Code\Assets\2D\textureTranspare.png.meta
+\Code\Assets\2D\textureWhite.png
+\Code\Assets\2D\textureWhite.png.meta
+\Code\Assets\2D\TimerLeftBotBG.png
+\Code\Assets\2D\TimerLeftBotBG.png.meta
+\Code\Assets\2D\TimerPourcentBG.png
+\Code\Assets\2D\TimerPourcentBG.png.meta
+\Code\Assets\2D\Triangle.png
+\Code\Assets\2D\Triangle.png.meta
+\Code\Assets\2D\TriangleLeft.png
+\Code\Assets\2D\TriangleLeft.png.meta
+\Code\Assets\2D\TriangleRight.png
+\Code\Assets\2D\TriangleRight.png.meta
+\Code\Assets\Police\Piloton G.ttf
+\Code\Assets\Police\Piloton G.ttf.meta
+\Code\Assets\Police\Piloton.ttf
+\Code\Assets\Police\Piloton.ttf.meta
+\Code\Assets\Prefab\Field.meta
+\Code\Assets\Prefab\PechaStarter.prefab
+\Code\Assets\Prefab\PechaStarter.prefab.meta
+\Code\Assets\QuickScript\Activator.meta
+\Code\Assets\QuickScript\AntiSleep.cs
+\Code\Assets\QuickScript\AntiSleep.cs.meta
+\Code\Assets\QuickScript\CameraChoose.cs
+\Code\Assets\QuickScript\CameraChoose.cs.meta
+\Code\Assets\QuickScript\DisableOnStopLooking.cs
+\Code\Assets\QuickScript\DisableOnStopLooking.cs.meta
+\Code\Assets\QuickScript\DoNotDestroyAtLoad.cs
+\Code\Assets\QuickScript\DoNotDestroyAtLoad.cs.meta
+\Code\Assets\QuickScript\EscapeToScene.cs
+\Code\Assets\QuickScript\EscapeToScene.cs.meta
+\Code\Assets\QuickScript\IntTextIncreaser.cs
+\Code\Assets\QuickScript\IntTextIncreaser.cs.meta
+\Code\Assets\QuickScript\LifeTime.cs
+\Code\Assets\QuickScript\LifeTime.cs.meta
+\Code\Assets\QuickScript\LoadScene.cs
+\Code\Assets\QuickScript\LoadScene.cs.meta
+\Code\Assets\QuickScript\PoolGenerator.cs
+\Code\Assets\QuickScript\PoolGenerator.cs.meta
+\Code\Assets\QuickScript\QuickRotate.cs
+\Code\Assets\QuickScript\QuickRotate.cs.meta
+\Code\Assets\Resources\PechaKucha.meta
+\Code\Assets\Resources\PechaKucha20x20.meta
+\Code\Assets\Resources\Slide.meta
+\Code\Assets\Scene\CreditLoading.unity
+\Code\Assets\Scene\CreditLoading.unity.meta
+\Code\Assets\Scene\ImportRessources.unity
+\Code\Assets\Scene\ImportRessources.unity.meta
+\Code\Assets\Scene\MainMenu.unity
+\Code\Assets\Scene\MainMenu.unity.meta
+\Code\Assets\Scene\SlideShow.unity
+\Code\Assets\Scene\SlideShow.unity.meta
+\Code\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+\Code\.gradle\4.6\fileHashes\fileHashes.lock
+\Code\.gradle\4.6\taskHistory\taskHistory.lock
+\Code\Assets\Prefab\Field\InputField_Word1.prefab
+\Code\Assets\Prefab\Field\InputField_Word1.prefab.meta
+\Code\Assets\QuickScript\Activator\EventActivator.cs
+\Code\Assets\QuickScript\Activator\EventActivator.cs.meta
+\Code\Assets\Resources\PechaKucha\GameJam.meta
+\Code\Assets\Resources\PechaKucha20x20\01.jpg
+\Code\Assets\Resources\PechaKucha20x20\01.jpg.meta
+\Code\Assets\Resources\PechaKucha20x20\02.jpg
+\Code\Assets\Resources\PechaKucha20x20\02.jpg.meta
+\Code\Assets\Resources\PechaKucha20x20\03.jpg
+\Code\Assets\Resources\PechaKucha20x20\03.jpg.meta
+\Code\Assets\Resources\PechaKucha20x20\04.jpg
+\Code\Assets\Resources\PechaKucha20x20\04.jpg.meta
+\Code\Assets\Resources\PechaKucha20x20\05.jpg
+\Code\Assets\Resources\PechaKucha20x20\05.jpg.meta
+\Code\Assets\Resources\PechaKucha20x20\06.jpg
+\Code\Assets\Resources\PechaKucha20x20\06.jpg.meta
+\Code\Assets\Resources\PechaKucha20x20\07.jpg
+\Code\Assets\Resources\PechaKucha20x20\07.jpg.meta
+\Code\Assets\Resources\PechaKucha20x20\08.jpg
+\Code\Assets\Resources\PechaKucha20x20\08.jpg.meta
+\Code\Assets\Resources\PechaKucha20x20\09.jpg
+\Code\Assets\Resources\PechaKucha20x20\09.jpg.meta
+\Code\Assets\Resources\PechaKucha20x20\10.jpg
+\Code\Assets\Resources\PechaKucha20x20\10.jpg.meta
+\Code\Assets\Resources\PechaKucha20x20\11.jpg
+\Code\Assets\Resources\PechaKucha20x20\11.jpg.meta
+\Code\Assets\Resources\PechaKucha20x20\12.jpg
+\Code\Assets\Resources\PechaKucha20x20\12.jpg.meta
+\Code\Assets\Resources\PechaKucha20x20\13.jpg
+\Code\Assets\Resources\PechaKucha20x20\13.jpg.meta
+\Code\Assets\Resources\PechaKucha20x20\14.jpg
+\Code\Assets\Resources\PechaKucha20x20\14.jpg.meta
+\Code\Assets\Resources\PechaKucha20x20\15.jpg
+\Code\Assets\Resources\PechaKucha20x20\15.jpg.meta
+\Code\Assets\Resources\PechaKucha20x20\16.jpg
+\Code\Assets\Resources\PechaKucha20x20\16.jpg.meta
+\Code\Assets\Resources\PechaKucha20x20\17.jpg
+\Code\Assets\Resources\PechaKucha20x20\17.jpg.meta
+\Code\Assets\Resources\PechaKucha20x20\18.jpg
+\Code\Assets\Resources\PechaKucha20x20\18.jpg.meta
+\Code\Assets\Resources\PechaKucha20x20\19.jpg
+\Code\Assets\Resources\PechaKucha20x20\19.jpg.meta
+\Code\Assets\Resources\PechaKucha20x20\20.jpg
+\Code\Assets\Resources\PechaKucha20x20\20.jpg.meta
+\Code\Assets\Resources\PechaKucha\GameJam\slide (0).jpg
+\Code\Assets\Resources\PechaKucha\GameJam\slide (0).jpg.meta
+\Code\Assets\Resources\PechaKucha\GameJam\slide (1).png
+\Code\Assets\Resources\PechaKucha\GameJam\slide (1).png.meta
+\Code\Assets\Resources\PechaKucha\GameJam\slide (2).jpg
+\Code\Assets\Resources\PechaKucha\GameJam\slide (2).jpg.meta
+\Code\Assets\Resources\PechaKucha\GameJam\slide (3).jpg
+\Code\Assets\Resources\PechaKucha\GameJam\slide (3).jpg.meta
+\Code\Assets\Resources\PechaKucha\GameJam\slide (4).jpg
+\Code\Assets\Resources\PechaKucha\GameJam\slide (4).jpg.meta
+\Code\Assets\Resources\PechaKucha\GameJam\slide (5).jpg
+\Code\Assets\Resources\PechaKucha\GameJam\slide (5).jpg.meta
+\Code\Assets\Resources\PechaKucha\GameJam\slide (6).jpg
+\Code\Assets\Resources\PechaKucha\GameJam\slide (6).jpg.meta
+\Code\Assets\Resources\PechaKucha\GameJam\slide (7).jpg
+\Code\Assets\Resources\PechaKucha\GameJam\slide (7).jpg.meta
+\Code\Assets\Resources\PechaKucha\GameJam\slide (8).jpg
+\Code\Assets\Resources\PechaKucha\GameJam\slide (8).jpg.meta
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md

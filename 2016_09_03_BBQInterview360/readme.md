@@ -2,6 +2,10 @@
   
 -------------------------   
 
+  <[2016_08_30_OutsideWalk](2016_08_30_OutsideWalk\readme.md) | [2016_09_10_KinectViewerForOBS](2016_09_10_KinectViewerForOBS\readme.md)>
+  
+-------------------------   
+
 [![Icon Img](icon.png)](icon.png)  
 [![Preview Img](preview.png)](preview.png)   No additional information yet.
   

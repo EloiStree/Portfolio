@@ -2,6 +2,10 @@
   
 -------------------------   
 
+  <[2018_09_22_TypingGod](2018_09_22_TypingGod\readme.md) | [2018_10_07_KISS4](2018_10_07_KISS4\readme.md)>
+  
+-------------------------   
+
 [![Icon Img](icon.png)](icon.png)  
 [![Preview Img](preview.png)](preview.png)   No additional information yet.
   

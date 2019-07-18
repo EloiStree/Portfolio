@@ -2,6 +2,10 @@
   
 -------------------------   
 
+  <[2019_05_03_justrubikcube](2019_05_03_justrubikcube\readme.md) | [2019_05_23_CodeAndQuestEveryDay](2019_05_23_CodeAndQuestEveryDay\readme.md)>
+  
+-------------------------   
+
 [![Icon Img](icon.png)](icon.png)  
 [![Preview Img](preview.png)](preview.png)   No additional information yet.
   

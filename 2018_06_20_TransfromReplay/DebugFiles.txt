@@ -1,0 +1,6 @@
+Relative Path:G:\HistoryShowcase\2018_06_20_TransfromReplay
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md

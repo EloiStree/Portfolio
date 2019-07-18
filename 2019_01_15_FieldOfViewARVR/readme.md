@@ -2,6 +2,10 @@
   
 -------------------------   
 
+  <[2019_01_13_JamsCountdown](2019_01_13_JamsCountdown\readme.md) | [2019_01_15_NSFW_Randomizer](2019_01_15_NSFW_Randomizer\readme.md)>
+  
+-------------------------   
+
 [![Icon Img](icon.png)](icon.png)  
 [![Preview Img](preview.png)](preview.png)   No additional information yet.
   

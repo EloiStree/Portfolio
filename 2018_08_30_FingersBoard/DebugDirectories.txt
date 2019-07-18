@@ -1,0 +1,47 @@
+Relative Path:G:\HistoryShowcase\2018_08_30_FingersBoard
+\Code
+\Created
+\Images
+\Release
+\Unstored
+\Video
+\Code\2018_08_30_FingersBoard
+\Created\2D
+\Created\3D
+\Created\CoolCode
+\Created\Gist
+\Created\PSD
+\Created\Refactorable
+\Images\360
+\Images\Image
+\Images\Photo
+\Images\Representative
+\Images\Screenshot
+\Release\Current
+\Release\Previous
+\Video\Edited
+\Video\Links
+\Video\Raw
+\Code\2018_08_30_FingersBoard\Export
+\Code\2018_08_30_FingersBoard\FingersBoard
+\Code\2018_08_30_FingersBoard\Market
+\Code\2018_08_30_FingersBoard\Package
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board
+\Code\2018_08_30_FingersBoard\Market\OverviewOfOthers
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\ProjectSettings
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\UnityPackageManager
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\JamsCenter
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Demo
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Mapping
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Prefab
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Script
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Sound
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\JamsCenter\Recycle
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Demo\Script
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\FingersBoard\Prefab\UI
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\JamsCenter\Recycle\ListenTo
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\JamsCenter\Recycle\Network
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\JamsCenter\Recycle\UnitySpecific
+\Code\2018_08_30_FingersBoard\FingersBoard\Fingers Board\Assets\JamsCenter\Recycle\VirtualKeyboard

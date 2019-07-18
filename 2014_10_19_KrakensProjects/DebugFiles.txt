@@ -1,0 +1,978 @@
+Relative Path:G:\HistoryShowcase\2014_10_19_KrakensProjects
+\Code\HydraExport.unitypackage
+\Code\GrapCubeV1HydraFront\Assembly-CSharp-Editor-vs.csproj
+\Code\GrapCubeV1HydraFront\Assembly-CSharp-Editor.csproj
+\Code\GrapCubeV1HydraFront\Assembly-CSharp-firstpass-vs.csproj
+\Code\GrapCubeV1HydraFront\Assembly-CSharp-firstpass.csproj
+\Code\GrapCubeV1HydraFront\Assembly-CSharp-vs.csproj
+\Code\GrapCubeV1HydraFront\Assembly-CSharp.csproj
+\Code\GrapCubeV1HydraFront\Assembly-UnityScript-firstpass-vs.unityproj
+\Code\GrapCubeV1HydraFront\Assembly-UnityScript-firstpass.unityproj
+\Code\GrapCubeV1HydraFront\GrapCube-csharp.sln
+\Code\GrapCubeV1HydraFront\GrapCube-csharp.v12.suo
+\Code\GrapCubeV1HydraFront\GrapCube.sln
+\Code\GrapCubeV1HydraFront\GrapCubeV1HydraFront-csharp.sln
+\Code\GrapCubeV1HydraFront\GrapCubeV1HydraFront-csharp.v12.suo
+\Code\GrapCubeV1HydraFront\GrapCubeV1HydraFront.sln
+\Code\GrapCubeV2FixeDistance_Wrong\Assembly-CSharp-Editor-vs.csproj
+\Code\GrapCubeV2FixeDistance_Wrong\Assembly-CSharp-Editor.csproj
+\Code\GrapCubeV2FixeDistance_Wrong\Assembly-CSharp-firstpass-vs.csproj
+\Code\GrapCubeV2FixeDistance_Wrong\Assembly-CSharp-firstpass.csproj
+\Code\GrapCubeV2FixeDistance_Wrong\Assembly-CSharp-vs.csproj
+\Code\GrapCubeV2FixeDistance_Wrong\Assembly-CSharp.csproj
+\Code\GrapCubeV2FixeDistance_Wrong\Assembly-UnityScript-firstpass-vs.unityproj
+\Code\GrapCubeV2FixeDistance_Wrong\Assembly-UnityScript-firstpass.unityproj
+\Code\GrapCubeV2FixeDistance_Wrong\GrapCube-csharp.sln
+\Code\GrapCubeV2FixeDistance_Wrong\GrapCube-csharp.v12.suo
+\Code\GrapCubeV2FixeDistance_Wrong\GrapCube.sln
+\Code\GrapCubeV2FixeDistance_Wrong\GrapCubeV2-csharp.sln
+\Code\GrapCubeV2FixeDistance_Wrong\GrapCubeV2-csharp.v12.suo
+\Code\GrapCubeV2FixeDistance_Wrong\GrapCubeV2.sln
+\Code\GrapCubeV2HydraFixedBody\Assembly-CSharp-Editor-vs.csproj
+\Code\GrapCubeV2HydraFixedBody\Assembly-CSharp-Editor.csproj
+\Code\GrapCubeV2HydraFixedBody\Assembly-CSharp-firstpass-vs.csproj
+\Code\GrapCubeV2HydraFixedBody\Assembly-CSharp-firstpass.csproj
+\Code\GrapCubeV2HydraFixedBody\Assembly-CSharp-vs.csproj
+\Code\GrapCubeV2HydraFixedBody\Assembly-CSharp.csproj
+\Code\GrapCubeV2HydraFixedBody\Assembly-UnityScript-firstpass-vs.unityproj
+\Code\GrapCubeV2HydraFixedBody\Assembly-UnityScript-firstpass.unityproj
+\Code\GrapCubeV2HydraFixedBody\GrapCube-csharp.sln
+\Code\GrapCubeV2HydraFixedBody\GrapCube-csharp.v12.suo
+\Code\GrapCubeV2HydraFixedBody\GrapCube.sln
+\Code\GrapCubeV2HydraFixedBody\GrapCubeV2HydraFixedBody-csharp.sln
+\Code\GrapCubeV2HydraFixedBody\GrapCubeV2HydraFixedBody.sln
+\Code\OculusUnityIntegration\LICENSE.txt
+\Code\OculusUnityIntegration\OculusUnityIntegration.unitypackage
+\Code\OculusUnityIntegration\OculusUnityIntegrationTuscanyDemo.unitypackage
+\Code\OculusUnityIntegration\READ_ME_FIRST.txt
+\Code\OculusUnityIntegration\Release_Notes.txt
+\Code\GrapCubeV1HydraFront\Assets\Grabbable.cs
+\Code\GrapCubeV1HydraFront\Assets\Grabbable.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\Grabber.cs
+\Code\GrapCubeV1HydraFront\Assets\Grabber.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\GrabbleByOne.cs
+\Code\GrapCubeV1HydraFront\Assets\GrabbleByOne.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\GrabbleByTwo.cs
+\Code\GrapCubeV1HydraFront\Assets\GrabbleByTwo.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\HydraGrap.cs
+\Code\GrapCubeV1HydraFront\Assets\HydraGrap.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\HydraMove.cs
+\Code\GrapCubeV1HydraFront\Assets\HydraMove.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\HydraRotation.cs
+\Code\GrapCubeV1HydraFront\Assets\HydraRotation.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\HydraToHand.cs
+\Code\GrapCubeV1HydraFront\Assets\HydraToHand.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\IGrabbable.cs
+\Code\GrapCubeV1HydraFront\Assets\IGrabbable.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\ITrackedPointRecords.cs
+\Code\GrapCubeV1HydraFront\Assets\ITrackedPointRecords.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\KeepHandsBlowHead.cs
+\Code\GrapCubeV1HydraFront\Assets\KeepHandsBlowHead.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\New Terrain.asset
+\Code\GrapCubeV1HydraFront\Assets\New Terrain.asset.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR.meta
+\Code\GrapCubeV1HydraFront\Assets\Plugins.meta
+\Code\GrapCubeV1HydraFront\Assets\Prefab.meta
+\Code\GrapCubeV1HydraFront\Assets\RotateWhenOutOfAngle.cs
+\Code\GrapCubeV1HydraFront\Assets\RotateWhenOutOfAngle.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput.meta
+\Code\GrapCubeV1HydraFront\Assets\Standard Assets.meta
+\Code\GrapCubeV1HydraFront\Assets\TrackedPointRecords.cs
+\Code\GrapCubeV1HydraFront\Assets\TrackedPointRecords.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube.meta
+\Code\GrapCubeV1HydraFront\ProjectSettings\AudioManager.asset
+\Code\GrapCubeV1HydraFront\ProjectSettings\DynamicsManager.asset
+\Code\GrapCubeV1HydraFront\ProjectSettings\EditorSettings.asset
+\Code\GrapCubeV1HydraFront\ProjectSettings\GraphicsSettings.asset
+\Code\GrapCubeV1HydraFront\ProjectSettings\InputManager.asset
+\Code\GrapCubeV1HydraFront\ProjectSettings\NavMeshLayers.asset
+\Code\GrapCubeV1HydraFront\ProjectSettings\NetworkManager.asset
+\Code\GrapCubeV1HydraFront\ProjectSettings\Physics2DSettings.asset
+\Code\GrapCubeV1HydraFront\ProjectSettings\ProjectSettings.asset
+\Code\GrapCubeV1HydraFront\ProjectSettings\QualitySettings.asset
+\Code\GrapCubeV1HydraFront\ProjectSettings\TagManager.asset
+\Code\GrapCubeV1HydraFront\ProjectSettings\TimeManager.asset
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Grabbable.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Grabbable.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Grabber.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Grabber.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\GrabbleByOne.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\GrabbleByOne.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\GrabbleByTwo.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\GrabbleByTwo.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\HydraGrap.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\HydraGrap.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\HydraMove.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\HydraMove.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\HydraRotation.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\HydraRotation.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\HydraToHand.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\HydraToHand.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\IGrabbable.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\IGrabbable.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\ITrackedPointRecords.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\ITrackedPointRecords.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\KeepHandsBlowHead.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\KeepHandsBlowHead.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\New Terrain.asset
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\New Terrain.asset.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Plugins.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Prefab.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\RotateWhenOutOfAngle.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\RotateWhenOutOfAngle.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Standard Assets.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\TrackedPointRecords.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\TrackedPointRecords.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube.meta
+\Code\GrapCubeV2FixeDistance_Wrong\ProjectSettings\AudioManager.asset
+\Code\GrapCubeV2FixeDistance_Wrong\ProjectSettings\DynamicsManager.asset
+\Code\GrapCubeV2FixeDistance_Wrong\ProjectSettings\EditorSettings.asset
+\Code\GrapCubeV2FixeDistance_Wrong\ProjectSettings\GraphicsSettings.asset
+\Code\GrapCubeV2FixeDistance_Wrong\ProjectSettings\InputManager.asset
+\Code\GrapCubeV2FixeDistance_Wrong\ProjectSettings\NavMeshLayers.asset
+\Code\GrapCubeV2FixeDistance_Wrong\ProjectSettings\NetworkManager.asset
+\Code\GrapCubeV2FixeDistance_Wrong\ProjectSettings\Physics2DSettings.asset
+\Code\GrapCubeV2FixeDistance_Wrong\ProjectSettings\ProjectSettings.asset
+\Code\GrapCubeV2FixeDistance_Wrong\ProjectSettings\QualitySettings.asset
+\Code\GrapCubeV2FixeDistance_Wrong\ProjectSettings\TagManager.asset
+\Code\GrapCubeV2FixeDistance_Wrong\ProjectSettings\TimeManager.asset
+\Code\GrapCubeV2HydraFixedBody\Assets\Grabbable.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\Grabbable.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Grabber.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\Grabber.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\GrabbleByOne.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\GrabbleByOne.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\GrabbleByTwo.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\GrabbleByTwo.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\HydraGrap.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\HydraGrap.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\HydraMove.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\HydraMove.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\HydraRotation.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\HydraRotation.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\HydraToHand.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\HydraToHand.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\IGrabbable.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\IGrabbable.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\ITrackedPointRecords.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\ITrackedPointRecords.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\KeepHandsBlowHead.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\KeepHandsBlowHead.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\New Terrain.asset
+\Code\GrapCubeV2HydraFixedBody\Assets\New Terrain.asset.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Plugins.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Prefab.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\RotateWhenOutOfAngle.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\RotateWhenOutOfAngle.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Standard Assets.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\TrackedPointRecords.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\TrackedPointRecords.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube.meta
+\Code\GrapCubeV2HydraFixedBody\ProjectSettings\AudioManager.asset
+\Code\GrapCubeV2HydraFixedBody\ProjectSettings\DynamicsManager.asset
+\Code\GrapCubeV2HydraFixedBody\ProjectSettings\EditorSettings.asset
+\Code\GrapCubeV2HydraFixedBody\ProjectSettings\GraphicsSettings.asset
+\Code\GrapCubeV2HydraFixedBody\ProjectSettings\InputManager.asset
+\Code\GrapCubeV2HydraFixedBody\ProjectSettings\NavMeshLayers.asset
+\Code\GrapCubeV2HydraFixedBody\ProjectSettings\NetworkManager.asset
+\Code\GrapCubeV2HydraFixedBody\ProjectSettings\Physics2DSettings.asset
+\Code\GrapCubeV2HydraFixedBody\ProjectSettings\ProjectSettings.asset
+\Code\GrapCubeV2HydraFixedBody\ProjectSettings\QualitySettings.asset
+\Code\GrapCubeV2HydraFixedBody\ProjectSettings\TagManager.asset
+\Code\GrapCubeV2HydraFixedBody\ProjectSettings\TimeManager.asset
+\Code\OculusUnityIntegration\Documentation\OculusUnityIntegrationGuide.pdf
+\Code\OculusUnityIntegration\Documentation\Oculus_Best_Practices_Guide.pdf
+\Code\OculusUnityIntegration\Documentation\Oculus_Developer_Guide.pdf
+\Code\OculusUnityIntegration\Documentation\Oculus_Health_and_Safety_Warnings.pdf
+\Code\GrapCubeV1HydraFront\Assets\OVR\Editor.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Materials.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\OVRImageEffects.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Prefabs.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Resources.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Scenes.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Scripts.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Shaders.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Textures.meta
+\Code\GrapCubeV1HydraFront\Assets\Plugins\donotdelete.txt
+\Code\GrapCubeV1HydraFront\Assets\Plugins\donotdelete.txt.meta
+\Code\GrapCubeV1HydraFront\Assets\Plugins\OculusPlugin.bundle.meta
+\Code\GrapCubeV1HydraFront\Assets\Plugins\OculusPlugin.dll
+\Code\GrapCubeV1HydraFront\Assets\Plugins\OculusPlugin.dll.meta
+\Code\GrapCubeV1HydraFront\Assets\Plugins\sixense.dll
+\Code\GrapCubeV1HydraFront\Assets\Plugins\sixense.dll.meta
+\Code\GrapCubeV1HydraFront\Assets\Plugins\x86_64.meta
+\Code\GrapCubeV1HydraFront\Assets\Prefab\HandsController.prefab
+\Code\GrapCubeV1HydraFront\Assets\Prefab\HandsController.prefab.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\Prefab.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\Scripts.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\SixenseInput.prefab
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\SixenseInput.prefab.meta
+\Code\GrapCubeV1HydraFront\Assets\Standard Assets\Character Controllers.meta
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Box.meta
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Rayman.meta
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Scene.meta
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Shelf.meta
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\TrackedPoint.meta
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Zone.meta
+\Code\GrapCubeV1HydraFront\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Editor.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Materials.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\OVRImageEffects.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Prefabs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Resources.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Scenes.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Scripts.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Shaders.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Textures.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Plugins\donotdelete.txt
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Plugins\donotdelete.txt.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Plugins\OculusPlugin.bundle.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Plugins\OculusPlugin.dll
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Plugins\OculusPlugin.dll.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Plugins\sixense.dll
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Plugins\sixense.dll.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Plugins\x86_64.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Prefab\HandsController.prefab
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Prefab\HandsController.prefab.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\Prefab.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\Scripts.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\SixenseInput.prefab
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\SixenseInput.prefab.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Standard Assets\Character Controllers.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Box.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Rayman.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Scene.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Shelf.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\TrackedPoint.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Zone.meta
+\Code\GrapCubeV2FixeDistance_Wrong\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Editor.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Materials.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\OVRImageEffects.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Prefabs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Resources.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Scenes.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Scripts.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Shaders.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Textures.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Plugins\donotdelete.txt
+\Code\GrapCubeV2HydraFixedBody\Assets\Plugins\donotdelete.txt.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Plugins\OculusPlugin.bundle.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Plugins\OculusPlugin.dll
+\Code\GrapCubeV2HydraFixedBody\Assets\Plugins\OculusPlugin.dll.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Plugins\sixense.dll
+\Code\GrapCubeV2HydraFixedBody\Assets\Plugins\sixense.dll.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Plugins\x86_64.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Prefab\HandsController.prefab
+\Code\GrapCubeV2HydraFixedBody\Assets\Prefab\HandsController.prefab.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\Prefab.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\Scripts.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\SixenseInput.prefab
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\SixenseInput.prefab.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Standard Assets\Character Controllers.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Box.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Rayman.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Scene.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Shelf.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\TrackedPoint.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Zone.meta
+\Code\GrapCubeV2HydraFixedBody\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+\Code\GrapCubeV1HydraFront\Assets\OVR\Editor\OculusUnityPatcher_32.exe
+\Code\GrapCubeV1HydraFront\Assets\OVR\Editor\OculusUnityPatcher_32.exe.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Editor\OculusUnityPatcher_64.exe
+\Code\GrapCubeV1HydraFront\Assets\OVR\Editor\OculusUnityPatcher_64.exe.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Editor\OVRCameraControllerEditor.cs
+\Code\GrapCubeV1HydraFront\Assets\OVR\Editor\OVRCameraControllerEditor.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Editor\OVRDeviceEditor.cs
+\Code\GrapCubeV1HydraFront\Assets\OVR\Editor\OVRDeviceEditor.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Editor\OVREditorGUIUtility.cs
+\Code\GrapCubeV1HydraFront\Assets\OVR\Editor\OVREditorGUIUtility.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Editor\OVRPlayerControllerEditor.cs
+\Code\GrapCubeV1HydraFront\Assets\OVR\Editor\OVRPlayerControllerEditor.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Editor\OVRPrefabs.cs
+\Code\GrapCubeV1HydraFront\Assets\OVR\Editor\OVRPrefabs.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Editor\OVRShimLoader.cs
+\Code\GrapCubeV1HydraFront\Assets\OVR\Editor\OVRShimLoader.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Editor\OVRUGUIEditor.cs
+\Code\GrapCubeV1HydraFront\Assets\OVR\Editor\OVRUGUIEditor.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Materials\CubeMaterial.mat
+\Code\GrapCubeV1HydraFront\Assets\OVR\Materials\CubeMaterial.mat.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Materials\GUIHUD.mat
+\Code\GrapCubeV1HydraFront\Assets\OVR\Materials\GUIHUD.mat.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Materials\MagHUDRef.mat
+\Code\GrapCubeV1HydraFront\Assets\OVR\Materials\MagHUDRef.mat.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Materials\MagHUDTracked.mat
+\Code\GrapCubeV1HydraFront\Assets\OVR\Materials\MagHUDTracked.mat.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Materials\TextShader3D.mat
+\Code\GrapCubeV1HydraFront\Assets\OVR\Materials\TextShader3D.mat.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Prefabs\OVRCameraController.prefab
+\Code\GrapCubeV1HydraFront\Assets\OVR\Prefabs\OVRCameraController.prefab.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Prefabs\OVRPlayerController.prefab
+\Code\GrapCubeV1HydraFront\Assets\OVR\Prefabs\OVRPlayerController.prefab.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Resources\DINPro-Bold.otf
+\Code\GrapCubeV1HydraFront\Assets\OVR\Resources\DINPro-Bold.otf.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Resources\OVRGuiObjectMain.prefab
+\Code\GrapCubeV1HydraFront\Assets\OVR\Resources\OVRGuiObjectMain.prefab.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Resources\OVRMagCompass.prefab
+\Code\GrapCubeV1HydraFront\Assets\OVR\Resources\OVRMagCompass.prefab.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Resources\OVRMagReference.prefab
+\Code\GrapCubeV1HydraFront\Assets\OVR\Resources\OVRMagReference.prefab.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Resources\OVRVisionGuideMessage.prefab
+\Code\GrapCubeV1HydraFront\Assets\OVR\Resources\OVRVisionGuideMessage.prefab.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Scenes\Cubes.unity
+\Code\GrapCubeV1HydraFront\Assets\OVR\Scenes\Cubes.unity.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Scripts\OVRCamera.cs
+\Code\GrapCubeV1HydraFront\Assets\OVR\Scripts\OVRCamera.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Scripts\OVRCameraController.cs
+\Code\GrapCubeV1HydraFront\Assets\OVR\Scripts\OVRCameraController.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Scripts\OVRCrosshair.cs
+\Code\GrapCubeV1HydraFront\Assets\OVR\Scripts\OVRCrosshair.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Scripts\OVRDevice.cs
+\Code\GrapCubeV1HydraFront\Assets\OVR\Scripts\OVRDevice.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Scripts\OVRGamepadController.cs
+\Code\GrapCubeV1HydraFront\Assets\OVR\Scripts\OVRGamepadController.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Scripts\OVRGridCube.cs
+\Code\GrapCubeV1HydraFront\Assets\OVR\Scripts\OVRGridCube.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Scripts\OVRGUI.cs
+\Code\GrapCubeV1HydraFront\Assets\OVR\Scripts\OVRGUI.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Scripts\OVRHmd.cs
+\Code\GrapCubeV1HydraFront\Assets\OVR\Scripts\OVRHmd.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Scripts\OVRMainMenu.cs
+\Code\GrapCubeV1HydraFront\Assets\OVR\Scripts\OVRMainMenu.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Scripts\OVRPlayerController.cs
+\Code\GrapCubeV1HydraFront\Assets\OVR\Scripts\OVRPlayerController.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Scripts\OVRPresetManager.cs
+\Code\GrapCubeV1HydraFront\Assets\OVR\Scripts\OVRPresetManager.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Scripts\OVRUGUI.cs
+\Code\GrapCubeV1HydraFront\Assets\OVR\Scripts\OVRUGUI.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Scripts\OVRUtils.cs
+\Code\GrapCubeV1HydraFront\Assets\OVR\Scripts\OVRUtils.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Scripts\OVRVisionGuide.cs
+\Code\GrapCubeV1HydraFront\Assets\OVR\Scripts\OVRVisionGuide.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Shaders\OVRGUIShader.shader
+\Code\GrapCubeV1HydraFront\Assets\OVR\Shaders\OVRGUIShader.shader.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Shaders\TextShader3D.shader
+\Code\GrapCubeV1HydraFront\Assets\OVR\Shaders\TextShader3D.shader.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Textures\Black.png
+\Code\GrapCubeV1HydraFront\Assets\OVR\Textures\Black.png.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Textures\CircleCrossHair.png
+\Code\GrapCubeV1HydraFront\Assets\OVR\Textures\CircleCrossHair.png.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Textures\Crosshair.tga
+\Code\GrapCubeV1HydraFront\Assets\OVR\Textures\Crosshair.tga.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Textures\Icons.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Textures\Logos.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Textures\Tuscany_OculusCube.tga
+\Code\GrapCubeV1HydraFront\Assets\OVR\Textures\Tuscany_OculusCube.tga.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Textures\UIBackground.psd
+\Code\GrapCubeV1HydraFront\Assets\OVR\Textures\UIBackground.psd.meta
+\Code\GrapCubeV1HydraFront\Assets\Plugins\OculusPlugin.bundle\Contents.meta
+\Code\GrapCubeV1HydraFront\Assets\Plugins\x86_64\OculusPlugin.dll
+\Code\GrapCubeV1HydraFront\Assets\Plugins\x86_64\OculusPlugin.dll.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Models.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Scripts.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\SixenseHands.unity
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\SixenseHands.unity.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\SixenseInputTest.unity
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\SixenseInputTest.unity.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\Prefab\Hand - Left.prefab
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\Prefab\Hand - Left.prefab.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\Prefab\Hand - Right.prefab
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\Prefab\Hand - Right.prefab.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\Scripts\SixenseInput.cs
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\Scripts\SixenseInput.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\Scripts\SixensePlugin.cs
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\Scripts\SixensePlugin.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\Standard Assets\Character Controllers\3rd Person Controller.prefab
+\Code\GrapCubeV1HydraFront\Assets\Standard Assets\Character Controllers\3rd Person Controller.prefab.meta
+\Code\GrapCubeV1HydraFront\Assets\Standard Assets\Character Controllers\First Person Controller.prefab
+\Code\GrapCubeV1HydraFront\Assets\Standard Assets\Character Controllers\First Person Controller.prefab.meta
+\Code\GrapCubeV1HydraFront\Assets\Standard Assets\Character Controllers\Sources.meta
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Box\4588804541_0cbb496ee8_z.jpg
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Box\4588804541_0cbb496ee8_z.jpg.meta
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Box\Box.prefab
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Box\Box.prefab.meta
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Box\Materials.meta
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Box\WoodPlanksBare0102_6_L.jpg
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Box\WoodPlanksBare0102_6_L.jpg.meta
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Box\WoodPlanksBare0102_6_L_NRM.jpg
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Box\WoodPlanksBare0102_6_L_NRM.jpg.meta
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Rayman\PurpleRayman.mat
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Rayman\PurpleRayman.mat.meta
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Rayman\WhiteRayman.mat
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Rayman\WhiteRayman.mat.meta
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Scene\GrapCube.unity
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Scene\GrapCube.unity.meta
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Shelf\Materials.meta
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Shelf\shelving.fbx
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Shelf\shelving.fbx.meta
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Shelf\shelving.tga
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Shelf\shelving.tga.meta
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\TrackedPoint\ITrackedPoint.cs
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\TrackedPoint\ITrackedPoint.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\TrackedPoint\TrackedPoint.cs
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\TrackedPoint\TrackedPoint.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Zone\MoveZoneActivator.cs
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Zone\MoveZoneActivator.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Zone\RotationZoneActivator.cs
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Zone\RotationZoneActivator.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Zone\Utils.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Editor\OculusUnityPatcher_32.exe
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Editor\OculusUnityPatcher_32.exe.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Editor\OculusUnityPatcher_64.exe
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Editor\OculusUnityPatcher_64.exe.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Editor\OVRCameraControllerEditor.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Editor\OVRCameraControllerEditor.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Editor\OVRDeviceEditor.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Editor\OVRDeviceEditor.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Editor\OVREditorGUIUtility.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Editor\OVREditorGUIUtility.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Editor\OVRPlayerControllerEditor.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Editor\OVRPlayerControllerEditor.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Editor\OVRPrefabs.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Editor\OVRPrefabs.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Editor\OVRShimLoader.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Editor\OVRShimLoader.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Editor\OVRUGUIEditor.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Editor\OVRUGUIEditor.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Materials\CubeMaterial.mat
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Materials\CubeMaterial.mat.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Materials\GUIHUD.mat
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Materials\GUIHUD.mat.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Materials\MagHUDRef.mat
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Materials\MagHUDRef.mat.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Materials\MagHUDTracked.mat
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Materials\MagHUDTracked.mat.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Materials\TextShader3D.mat
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Materials\TextShader3D.mat.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Prefabs\OVRCameraController.prefab
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Prefabs\OVRCameraController.prefab.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Prefabs\OVRPlayerController.prefab
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Prefabs\OVRPlayerController.prefab.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Resources\DINPro-Bold.otf
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Resources\DINPro-Bold.otf.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Resources\OVRGuiObjectMain.prefab
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Resources\OVRGuiObjectMain.prefab.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Resources\OVRMagCompass.prefab
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Resources\OVRMagCompass.prefab.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Resources\OVRMagReference.prefab
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Resources\OVRMagReference.prefab.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Resources\OVRVisionGuideMessage.prefab
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Resources\OVRVisionGuideMessage.prefab.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Scenes\Cubes.unity
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Scenes\Cubes.unity.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Scripts\OVRCamera.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Scripts\OVRCamera.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Scripts\OVRCameraController.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Scripts\OVRCameraController.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Scripts\OVRCrosshair.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Scripts\OVRCrosshair.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Scripts\OVRDevice.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Scripts\OVRDevice.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Scripts\OVRGamepadController.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Scripts\OVRGamepadController.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Scripts\OVRGridCube.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Scripts\OVRGridCube.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Scripts\OVRGUI.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Scripts\OVRGUI.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Scripts\OVRHmd.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Scripts\OVRHmd.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Scripts\OVRMainMenu.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Scripts\OVRMainMenu.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Scripts\OVRPlayerController.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Scripts\OVRPlayerController.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Scripts\OVRPresetManager.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Scripts\OVRPresetManager.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Scripts\OVRUGUI.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Scripts\OVRUGUI.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Scripts\OVRUtils.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Scripts\OVRUtils.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Scripts\OVRVisionGuide.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Scripts\OVRVisionGuide.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Shaders\OVRGUIShader.shader
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Shaders\OVRGUIShader.shader.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Shaders\TextShader3D.shader
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Shaders\TextShader3D.shader.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Textures\Black.png
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Textures\Black.png.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Textures\CircleCrossHair.png
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Textures\CircleCrossHair.png.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Textures\Crosshair.tga
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Textures\Crosshair.tga.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Textures\Icons.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Textures\Logos.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Textures\Tuscany_OculusCube.tga
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Textures\Tuscany_OculusCube.tga.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Textures\UIBackground.psd
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Textures\UIBackground.psd.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Plugins\OculusPlugin.bundle\Contents.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Plugins\x86_64\OculusPlugin.dll
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Plugins\x86_64\OculusPlugin.dll.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Models.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Scripts.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\SixenseHands.unity
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\SixenseHands.unity.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\SixenseInputTest.unity
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\SixenseInputTest.unity.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\Prefab\Hand - Left.prefab
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\Prefab\Hand - Left.prefab.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\Prefab\Hand - Right.prefab
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\Prefab\Hand - Right.prefab.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\Scripts\SixenseInput.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\Scripts\SixenseInput.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\Scripts\SixensePlugin.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\Scripts\SixensePlugin.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Standard Assets\Character Controllers\3rd Person Controller.prefab
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Standard Assets\Character Controllers\3rd Person Controller.prefab.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Standard Assets\Character Controllers\First Person Controller.prefab
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Standard Assets\Character Controllers\First Person Controller.prefab.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Standard Assets\Character Controllers\Sources.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Box\4588804541_0cbb496ee8_z.jpg
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Box\4588804541_0cbb496ee8_z.jpg.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Box\Box.prefab
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Box\Box.prefab.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Box\Materials.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Box\WoodPlanksBare0102_6_L.jpg
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Box\WoodPlanksBare0102_6_L.jpg.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Box\WoodPlanksBare0102_6_L_NRM.jpg
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Box\WoodPlanksBare0102_6_L_NRM.jpg.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Rayman\PurpleRayman.mat
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Rayman\PurpleRayman.mat.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Rayman\WhiteRayman.mat
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Rayman\WhiteRayman.mat.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Scene\GrapCube.unity
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Scene\GrapCube.unity.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Shelf\Materials.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Shelf\shelving.fbx
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Shelf\shelving.fbx.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Shelf\shelving.tga
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Shelf\shelving.tga.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\TrackedPoint\ITrackedPoint.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\TrackedPoint\ITrackedPoint.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\TrackedPoint\TrackedPoint.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\TrackedPoint\TrackedPoint.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Zone\MoveZoneActivator.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Zone\MoveZoneActivator.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Zone\RotationZoneActivator.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Zone\RotationZoneActivator.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Zone\Utils.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Editor\OculusUnityPatcher_32.exe
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Editor\OculusUnityPatcher_32.exe.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Editor\OculusUnityPatcher_64.exe
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Editor\OculusUnityPatcher_64.exe.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Editor\OVRCameraControllerEditor.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Editor\OVRCameraControllerEditor.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Editor\OVRDeviceEditor.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Editor\OVRDeviceEditor.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Editor\OVREditorGUIUtility.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Editor\OVREditorGUIUtility.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Editor\OVRPlayerControllerEditor.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Editor\OVRPlayerControllerEditor.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Editor\OVRPrefabs.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Editor\OVRPrefabs.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Editor\OVRShimLoader.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Editor\OVRShimLoader.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Editor\OVRUGUIEditor.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Editor\OVRUGUIEditor.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Materials\CubeMaterial.mat
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Materials\CubeMaterial.mat.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Materials\GUIHUD.mat
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Materials\GUIHUD.mat.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Materials\MagHUDRef.mat
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Materials\MagHUDRef.mat.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Materials\MagHUDTracked.mat
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Materials\MagHUDTracked.mat.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Materials\TextShader3D.mat
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Materials\TextShader3D.mat.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Prefabs\OVRCameraController.prefab
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Prefabs\OVRCameraController.prefab.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Prefabs\OVRPlayerController.prefab
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Prefabs\OVRPlayerController.prefab.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Resources\DINPro-Bold.otf
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Resources\DINPro-Bold.otf.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Resources\OVRGuiObjectMain.prefab
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Resources\OVRGuiObjectMain.prefab.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Resources\OVRMagCompass.prefab
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Resources\OVRMagCompass.prefab.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Resources\OVRMagReference.prefab
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Resources\OVRMagReference.prefab.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Resources\OVRVisionGuideMessage.prefab
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Resources\OVRVisionGuideMessage.prefab.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Scenes\Cubes.unity
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Scenes\Cubes.unity.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Scripts\OVRCamera.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Scripts\OVRCamera.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Scripts\OVRCameraController.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Scripts\OVRCameraController.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Scripts\OVRCrosshair.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Scripts\OVRCrosshair.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Scripts\OVRDevice.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Scripts\OVRDevice.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Scripts\OVRGamepadController.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Scripts\OVRGamepadController.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Scripts\OVRGridCube.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Scripts\OVRGridCube.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Scripts\OVRGUI.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Scripts\OVRGUI.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Scripts\OVRHmd.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Scripts\OVRHmd.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Scripts\OVRMainMenu.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Scripts\OVRMainMenu.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Scripts\OVRPlayerController.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Scripts\OVRPlayerController.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Scripts\OVRPresetManager.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Scripts\OVRPresetManager.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Scripts\OVRUGUI.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Scripts\OVRUGUI.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Scripts\OVRUtils.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Scripts\OVRUtils.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Scripts\OVRVisionGuide.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Scripts\OVRVisionGuide.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Shaders\OVRGUIShader.shader
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Shaders\OVRGUIShader.shader.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Shaders\TextShader3D.shader
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Shaders\TextShader3D.shader.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Textures\Black.png
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Textures\Black.png.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Textures\CircleCrossHair.png
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Textures\CircleCrossHair.png.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Textures\Crosshair.tga
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Textures\Crosshair.tga.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Textures\Icons.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Textures\Logos.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Textures\Tuscany_OculusCube.tga
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Textures\Tuscany_OculusCube.tga.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Textures\UIBackground.psd
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Textures\UIBackground.psd.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Plugins\OculusPlugin.bundle\Contents.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Plugins\x86_64\OculusPlugin.dll
+\Code\GrapCubeV2HydraFixedBody\Assets\Plugins\x86_64\OculusPlugin.dll.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Models.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Scripts.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\SixenseHands.unity
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\SixenseHands.unity.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\SixenseInputTest.unity
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\SixenseInputTest.unity.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\Prefab\Hand - Left.prefab
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\Prefab\Hand - Left.prefab.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\Prefab\Hand - Right.prefab
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\Prefab\Hand - Right.prefab.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\Scripts\SixenseInput.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\Scripts\SixenseInput.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\Scripts\SixensePlugin.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\Scripts\SixensePlugin.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Standard Assets\Character Controllers\3rd Person Controller.prefab
+\Code\GrapCubeV2HydraFixedBody\Assets\Standard Assets\Character Controllers\3rd Person Controller.prefab.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Standard Assets\Character Controllers\First Person Controller.prefab
+\Code\GrapCubeV2HydraFixedBody\Assets\Standard Assets\Character Controllers\First Person Controller.prefab.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Standard Assets\Character Controllers\Sources.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Box\4588804541_0cbb496ee8_z.jpg
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Box\4588804541_0cbb496ee8_z.jpg.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Box\Box.prefab
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Box\Box.prefab.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Box\Materials.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Box\WoodPlanksBare0102_6_L.jpg
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Box\WoodPlanksBare0102_6_L.jpg.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Box\WoodPlanksBare0102_6_L_NRM.jpg
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Box\WoodPlanksBare0102_6_L_NRM.jpg.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Rayman\PurpleRayman.mat
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Rayman\PurpleRayman.mat.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Rayman\WhiteRayman.mat
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Rayman\WhiteRayman.mat.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Scene\GrapCube.unity
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Scene\GrapCube.unity.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Shelf\Materials.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Shelf\shelving.fbx
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Shelf\shelving.fbx.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Shelf\shelving.tga
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Shelf\shelving.tga.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\TrackedPoint\ITrackedPoint.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\TrackedPoint\ITrackedPoint.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\TrackedPoint\TrackedPoint.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\TrackedPoint\TrackedPoint.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Zone\MoveZoneActivator.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Zone\MoveZoneActivator.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Zone\RotationZoneActivator.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Zone\RotationZoneActivator.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Zone\Utils.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Textures\Icons\OculusIcon.png
+\Code\GrapCubeV1HydraFront\Assets\OVR\Textures\Icons\OculusIcon.png.meta
+\Code\GrapCubeV1HydraFront\Assets\OVR\Textures\Logos\OculusLogo.png
+\Code\GrapCubeV1HydraFront\Assets\OVR\Textures\Logos\OculusLogo.png.meta
+\Code\GrapCubeV1HydraFront\Assets\Plugins\OculusPlugin.bundle\Contents\Info.plist
+\Code\GrapCubeV1HydraFront\Assets\Plugins\OculusPlugin.bundle\Contents\Info.plist.meta
+\Code\GrapCubeV1HydraFront\Assets\Plugins\OculusPlugin.bundle\Contents\MacOS.meta
+\Code\GrapCubeV1HydraFront\Assets\Plugins\OculusPlugin.bundle\Contents\Resources.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Models\Hand.fbx
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Models\Hand.fbx.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Models\Hand@FisttoIdle.fbx
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Models\Hand@FisttoIdle.fbx.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Models\Hand@GripBalltoIdle.fbx
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Models\Hand@GripBalltoIdle.fbx.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Models\Hand@HoldBooktoIdle.fbx
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Models\Hand@HoldBooktoIdle.fbx.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Models\Hand@IdleLoop.fbx
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Models\Hand@IdleLoop.fbx.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Models\Hand@IdletoFist.fbx
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Models\Hand@IdletoFist.fbx.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Models\Hand@IdletoGripBall.fbx
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Models\Hand@IdletoGripBall.fbx.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Models\Hand@IdletoHoldBook.fbx
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Models\Hand@IdletoHoldBook.fbx.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Models\Hand@IdletoPoint.fbx
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Models\Hand@IdletoPoint.fbx.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Models\Hand@PointtoIdle.fbx
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Models\Hand@PointtoIdle.fbx.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Models\Materials.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Models\SixenseHandAnimator.controller
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Models\SixenseHandAnimator.controller.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Scripts\SixenseHand.cs
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Scripts\SixenseHand.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Scripts\SixenseHandsController.cs
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Scripts\SixenseHandsController.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Scripts\SixenseInputTest.cs
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Scripts\SixenseInputTest.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Scripts\SixenseObjectController.cs
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Scripts\SixenseObjectController.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter.meta
+\Code\GrapCubeV1HydraFront\Assets\Standard Assets\Character Controllers\Sources\Scripts.meta
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Box\Materials\4588804541_0cbb496ee8_z.mat
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Box\Materials\4588804541_0cbb496ee8_z.mat.meta
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Box\Materials\defaultMat.mat
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Box\Materials\defaultMat.mat.meta
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Box\Materials\No Name.mat
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Box\Materials\No Name.mat.meta
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Box\Materials\WoodPlanksBare0102_6_L.mat
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Box\Materials\WoodPlanksBare0102_6_L.mat.meta
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Shelf\Materials\outUV.mat
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Shelf\Materials\outUV.mat.meta
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Zone\Utils\Triangulation.cs
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Zone\Utils\Triangulation.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Zone\Utils\Utility.cs
+\Code\GrapCubeV1HydraFront\Assets\_GrapCube\Zone\Utils\Utility.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Textures\Icons\OculusIcon.png
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Textures\Icons\OculusIcon.png.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Textures\Logos\OculusLogo.png
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\OVR\Textures\Logos\OculusLogo.png.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Plugins\OculusPlugin.bundle\Contents\Info.plist
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Plugins\OculusPlugin.bundle\Contents\Info.plist.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Plugins\OculusPlugin.bundle\Contents\MacOS.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Plugins\OculusPlugin.bundle\Contents\Resources.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Models\Hand.fbx
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Models\Hand.fbx.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Models\Hand@FisttoIdle.fbx
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Models\Hand@FisttoIdle.fbx.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Models\Hand@GripBalltoIdle.fbx
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Models\Hand@GripBalltoIdle.fbx.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Models\Hand@HoldBooktoIdle.fbx
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Models\Hand@HoldBooktoIdle.fbx.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Models\Hand@IdleLoop.fbx
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Models\Hand@IdleLoop.fbx.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Models\Hand@IdletoFist.fbx
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Models\Hand@IdletoFist.fbx.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Models\Hand@IdletoGripBall.fbx
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Models\Hand@IdletoGripBall.fbx.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Models\Hand@IdletoHoldBook.fbx
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Models\Hand@IdletoHoldBook.fbx.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Models\Hand@IdletoPoint.fbx
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Models\Hand@IdletoPoint.fbx.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Models\Hand@PointtoIdle.fbx
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Models\Hand@PointtoIdle.fbx.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Models\Materials.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Models\SixenseHandAnimator.controller
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Models\SixenseHandAnimator.controller.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Scripts\SixenseHand.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Scripts\SixenseHand.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Scripts\SixenseHandsController.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Scripts\SixenseHandsController.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Scripts\SixenseInputTest.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Scripts\SixenseInputTest.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Scripts\SixenseObjectController.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Scripts\SixenseObjectController.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Standard Assets\Character Controllers\Sources\Scripts.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Box\Materials\4588804541_0cbb496ee8_z.mat
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Box\Materials\4588804541_0cbb496ee8_z.mat.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Box\Materials\defaultMat.mat
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Box\Materials\defaultMat.mat.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Box\Materials\No Name.mat
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Box\Materials\No Name.mat.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Box\Materials\WoodPlanksBare0102_6_L.mat
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Box\Materials\WoodPlanksBare0102_6_L.mat.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Shelf\Materials\outUV.mat
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Shelf\Materials\outUV.mat.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Zone\Utils\Triangulation.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Zone\Utils\Triangulation.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Zone\Utils\Utility.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\_GrapCube\Zone\Utils\Utility.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Textures\Icons\OculusIcon.png
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Textures\Icons\OculusIcon.png.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Textures\Logos\OculusLogo.png
+\Code\GrapCubeV2HydraFixedBody\Assets\OVR\Textures\Logos\OculusLogo.png.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Plugins\OculusPlugin.bundle\Contents\Info.plist
+\Code\GrapCubeV2HydraFixedBody\Assets\Plugins\OculusPlugin.bundle\Contents\Info.plist.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Plugins\OculusPlugin.bundle\Contents\MacOS.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Plugins\OculusPlugin.bundle\Contents\Resources.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Models\Hand.fbx
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Models\Hand.fbx.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Models\Hand@FisttoIdle.fbx
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Models\Hand@FisttoIdle.fbx.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Models\Hand@GripBalltoIdle.fbx
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Models\Hand@GripBalltoIdle.fbx.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Models\Hand@HoldBooktoIdle.fbx
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Models\Hand@HoldBooktoIdle.fbx.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Models\Hand@IdleLoop.fbx
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Models\Hand@IdleLoop.fbx.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Models\Hand@IdletoFist.fbx
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Models\Hand@IdletoFist.fbx.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Models\Hand@IdletoGripBall.fbx
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Models\Hand@IdletoGripBall.fbx.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Models\Hand@IdletoHoldBook.fbx
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Models\Hand@IdletoHoldBook.fbx.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Models\Hand@IdletoPoint.fbx
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Models\Hand@IdletoPoint.fbx.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Models\Hand@PointtoIdle.fbx
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Models\Hand@PointtoIdle.fbx.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Models\Materials.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Models\SixenseHandAnimator.controller
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Models\SixenseHandAnimator.controller.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Scripts\SixenseHand.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Scripts\SixenseHand.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Scripts\SixenseHandsController.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Scripts\SixenseHandsController.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Scripts\SixenseInputTest.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Scripts\SixenseInputTest.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Scripts\SixenseObjectController.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Scripts\SixenseObjectController.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Standard Assets\Character Controllers\Sources\Scripts.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Box\Materials\4588804541_0cbb496ee8_z.mat
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Box\Materials\4588804541_0cbb496ee8_z.mat.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Box\Materials\defaultMat.mat
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Box\Materials\defaultMat.mat.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Box\Materials\No Name.mat
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Box\Materials\No Name.mat.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Box\Materials\WoodPlanksBare0102_6_L.mat
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Box\Materials\WoodPlanksBare0102_6_L.mat.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Shelf\Materials\outUV.mat
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Shelf\Materials\outUV.mat.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Zone\Utils\Triangulation.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Zone\Utils\Triangulation.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Zone\Utils\Utility.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\_GrapCube\Zone\Utils\Utility.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\Plugins\OculusPlugin.bundle\Contents\MacOS\OculusPlugin
+\Code\GrapCubeV1HydraFront\Assets\Plugins\OculusPlugin.bundle\Contents\MacOS\OculusPlugin.meta
+\Code\GrapCubeV1HydraFront\Assets\Plugins\OculusPlugin.bundle\Contents\Resources\en.lproj.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Models\Materials\Hands_Diffuse.mat
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Models\Materials\Hands_Diffuse.mat.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Models\Materials\Hands_Diffuse.png
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Models\Materials\Hands_Diffuse.png.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Models\Materials\Hands_Normal.png
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Models\Materials\Hands_Normal.png.meta
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Models\Materials\Hands_Specular.png
+\Code\GrapCubeV1HydraFront\Assets\SixenseInput\DemoScenes\Models\Materials\Hands_Specular.png.meta
+\Code\GrapCubeV1HydraFront\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Constructor.FBX
+\Code\GrapCubeV1HydraFront\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Constructor.FBX.meta
+\Code\GrapCubeV1HydraFront\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Materials.meta
+\Code\GrapCubeV1HydraFront\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Textures.meta
+\Code\GrapCubeV1HydraFront\Assets\Standard Assets\Character Controllers\Sources\Scripts\CharacterMotor.js
+\Code\GrapCubeV1HydraFront\Assets\Standard Assets\Character Controllers\Sources\Scripts\CharacterMotor.js.meta
+\Code\GrapCubeV1HydraFront\Assets\Standard Assets\Character Controllers\Sources\Scripts\FPSInputController.js
+\Code\GrapCubeV1HydraFront\Assets\Standard Assets\Character Controllers\Sources\Scripts\FPSInputController.js.meta
+\Code\GrapCubeV1HydraFront\Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs
+\Code\GrapCubeV1HydraFront\Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs.meta
+\Code\GrapCubeV1HydraFront\Assets\Standard Assets\Character Controllers\Sources\Scripts\PlatformInputController.js
+\Code\GrapCubeV1HydraFront\Assets\Standard Assets\Character Controllers\Sources\Scripts\PlatformInputController.js.meta
+\Code\GrapCubeV1HydraFront\Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonCamera.js
+\Code\GrapCubeV1HydraFront\Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonCamera.js.meta
+\Code\GrapCubeV1HydraFront\Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonController.js
+\Code\GrapCubeV1HydraFront\Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonController.js.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Plugins\OculusPlugin.bundle\Contents\MacOS\OculusPlugin
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Plugins\OculusPlugin.bundle\Contents\MacOS\OculusPlugin.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Plugins\OculusPlugin.bundle\Contents\Resources\en.lproj.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Models\Materials\Hands_Diffuse.mat
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Models\Materials\Hands_Diffuse.mat.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Models\Materials\Hands_Diffuse.png
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Models\Materials\Hands_Diffuse.png.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Models\Materials\Hands_Normal.png
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Models\Materials\Hands_Normal.png.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Models\Materials\Hands_Specular.png
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\SixenseInput\DemoScenes\Models\Materials\Hands_Specular.png.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Constructor.FBX
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Constructor.FBX.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Materials.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Textures.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Standard Assets\Character Controllers\Sources\Scripts\CharacterMotor.js
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Standard Assets\Character Controllers\Sources\Scripts\CharacterMotor.js.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Standard Assets\Character Controllers\Sources\Scripts\FPSInputController.js
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Standard Assets\Character Controllers\Sources\Scripts\FPSInputController.js.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Standard Assets\Character Controllers\Sources\Scripts\PlatformInputController.js
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Standard Assets\Character Controllers\Sources\Scripts\PlatformInputController.js.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonCamera.js
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonCamera.js.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonController.js
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonController.js.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Plugins\OculusPlugin.bundle\Contents\MacOS\OculusPlugin
+\Code\GrapCubeV2HydraFixedBody\Assets\Plugins\OculusPlugin.bundle\Contents\MacOS\OculusPlugin.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Plugins\OculusPlugin.bundle\Contents\Resources\en.lproj.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Models\Materials\Hands_Diffuse.mat
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Models\Materials\Hands_Diffuse.mat.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Models\Materials\Hands_Diffuse.png
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Models\Materials\Hands_Diffuse.png.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Models\Materials\Hands_Normal.png
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Models\Materials\Hands_Normal.png.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Models\Materials\Hands_Specular.png
+\Code\GrapCubeV2HydraFixedBody\Assets\SixenseInput\DemoScenes\Models\Materials\Hands_Specular.png.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Constructor.FBX
+\Code\GrapCubeV2HydraFixedBody\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Constructor.FBX.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Materials.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Textures.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Standard Assets\Character Controllers\Sources\Scripts\CharacterMotor.js
+\Code\GrapCubeV2HydraFixedBody\Assets\Standard Assets\Character Controllers\Sources\Scripts\CharacterMotor.js.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Standard Assets\Character Controllers\Sources\Scripts\FPSInputController.js
+\Code\GrapCubeV2HydraFixedBody\Assets\Standard Assets\Character Controllers\Sources\Scripts\FPSInputController.js.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs
+\Code\GrapCubeV2HydraFixedBody\Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Standard Assets\Character Controllers\Sources\Scripts\PlatformInputController.js
+\Code\GrapCubeV2HydraFixedBody\Assets\Standard Assets\Character Controllers\Sources\Scripts\PlatformInputController.js.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonCamera.js
+\Code\GrapCubeV2HydraFixedBody\Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonCamera.js.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonController.js
+\Code\GrapCubeV2HydraFixedBody\Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonController.js.meta
+\Code\GrapCubeV1HydraFront\Assets\Plugins\OculusPlugin.bundle\Contents\Resources\en.lproj\InfoPlist.strings
+\Code\GrapCubeV1HydraFront\Assets\Plugins\OculusPlugin.bundle\Contents\Resources\en.lproj\InfoPlist.strings.meta
+\Code\GrapCubeV1HydraFront\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Materials\constructor_done.mat
+\Code\GrapCubeV1HydraFront\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Materials\constructor_done.mat.meta
+\Code\GrapCubeV1HydraFront\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Textures\constructor_diffuse.png
+\Code\GrapCubeV1HydraFront\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Textures\constructor_diffuse.png.meta
+\Code\GrapCubeV1HydraFront\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Textures\constructor_normals.png
+\Code\GrapCubeV1HydraFront\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Textures\constructor_normals.png.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Plugins\OculusPlugin.bundle\Contents\Resources\en.lproj\InfoPlist.strings
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Plugins\OculusPlugin.bundle\Contents\Resources\en.lproj\InfoPlist.strings.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Materials\constructor_done.mat
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Materials\constructor_done.mat.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Textures\constructor_diffuse.png
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Textures\constructor_diffuse.png.meta
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Textures\constructor_normals.png
+\Code\GrapCubeV2FixeDistance_Wrong\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Textures\constructor_normals.png.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Plugins\OculusPlugin.bundle\Contents\Resources\en.lproj\InfoPlist.strings
+\Code\GrapCubeV2HydraFixedBody\Assets\Plugins\OculusPlugin.bundle\Contents\Resources\en.lproj\InfoPlist.strings.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Materials\constructor_done.mat
+\Code\GrapCubeV2HydraFixedBody\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Materials\constructor_done.mat.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Textures\constructor_diffuse.png
+\Code\GrapCubeV2HydraFixedBody\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Textures\constructor_diffuse.png.meta
+\Code\GrapCubeV2HydraFixedBody\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Textures\constructor_normals.png
+\Code\GrapCubeV2HydraFixedBody\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Textures\constructor_normals.png.meta
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md

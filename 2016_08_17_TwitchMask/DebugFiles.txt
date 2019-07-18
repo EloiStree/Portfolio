@@ -1,0 +1,6 @@
+Relative Path:G:\HistoryShowcase\2016_08_17_TwitchMask
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md

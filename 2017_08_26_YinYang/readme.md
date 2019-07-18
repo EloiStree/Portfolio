@@ -2,6 +2,10 @@
   
 -------------------------   
 
+  <[2017_08_26_BBQJam2017](2017_08_26_BBQJam2017\readme.md) | [2017_09_01_ArNerfgunBattle](2017_09_01_ArNerfgunBattle\readme.md)>
+  
+-------------------------   
+
 [![Icon Img](icon.png)](icon.png)  
 [![Preview Img](preview.png)](preview.png)   No additional information yet.
   

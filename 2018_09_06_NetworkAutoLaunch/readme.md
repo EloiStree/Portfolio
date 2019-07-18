@@ -2,6 +2,10 @@
   
 -------------------------   
 
+  <[2018_09_02_KillTheKeyboard](2018_09_02_KillTheKeyboard\readme.md) | [2018_09_06_PatreonEloiWatermark](2018_09_06_PatreonEloiWatermark\readme.md)>
+  
+-------------------------   
+
 [![Icon Img](icon.png)](icon.png)  
 [![Preview Img](preview.png)](preview.png)   No additional information yet.
   

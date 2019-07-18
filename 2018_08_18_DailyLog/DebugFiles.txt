@@ -1,0 +1,6 @@
+Relative Path:G:\HistoryShowcase\2018_08_18_DailyLog
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md

@@ -1,0 +1,219 @@
+Relative Path:G:\HistoryShowcase\2014_05_15_KinectWalk
+\Code
+\Created
+\Images
+\Release
+\Unstored
+\Video
+\Code\Assets
+\Code\obj
+\Code\ProjectSettings
+\Created\2D
+\Created\3D
+\Created\CoolCode
+\Created\Gist
+\Created\PSD
+\Created\Refactorable
+\Images\360
+\Images\Image
+\Images\Photo
+\Images\Representative
+\Images\Screenshot
+\Release\Current
+\Release\Previous
+\Video\Edited
+\Video\Links
+\Video\Raw
+\Code\Assets\BoughtAsset
+\Code\Assets\GUI
+\Code\Assets\Kinect
+\Code\Assets\ManRigModele
+\Code\Assets\Plugins
+\Code\Assets\Prefab
+\Code\Assets\Standard Assets
+\Code\Assets\tools
+\Code\Assets\_PROGRESS_
+\Code\Assets\_WalkDemo_
+\Code\Assets\__Good__
+\Code\obj\Debug
+\Code\Assets\BoughtAsset\Explosif
+\Code\Assets\BoughtAsset\Fence Construction Kit
+\Code\Assets\BoughtAsset\iMG Explosion FX
+\Code\Assets\BoughtAsset\Tree
+\Code\Assets\Kinect\Asset
+\Code\Assets\Kinect\Demo
+\Code\Assets\Kinect\KinectScripts
+\Code\Assets\Kinect\Materials
+\Code\Assets\Kinect\PlaymakerKinectActions
+\Code\Assets\Kinect\Recordings
+\Code\Assets\Kinect\Scene
+\Code\Assets\Kinect\Script
+\Code\Assets\Kinect\Scripts
+\Code\Assets\ManRigModele\Rayman 3
+\Code\Assets\ManRigModele\Taiki
+\Code\Assets\Plugins\Metro
+\Code\Assets\Plugins\x86
+\Code\Assets\Plugins\x86_64
+\Code\Assets\Standard Assets\Character Controllers
+\Code\Assets\Standard Assets\Skyboxes
+\Code\Assets\Standard Assets\Terrain Assets
+\Code\Assets\Standard Assets\Windows
+\Code\Assets\tools\Code
+\Code\Assets\tools\Custumization
+\Code\Assets\tools\Resources
+\Code\Assets\tools\WillBeAssimilated
+\Code\Assets\_PROGRESS_\WalkPattern
+\Code\Assets\_WalkDemo_\scene
+\Code\Assets\__Good__\WalkByStep
+\Code\obj\Debug\TempPE
+\Code\Assets\BoughtAsset\Explosif\Materials
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes
+\Code\Assets\BoughtAsset\Fence Construction Kit\Textures
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs
+\Code\Assets\BoughtAsset\iMG Explosion FX\Textures
+\Code\Assets\BoughtAsset\iMG Explosion FX\_Source
+\Code\Assets\BoughtAsset\Tree\V1
+\Code\Assets\BoughtAsset\Tree\V2
+\Code\Assets\Kinect\Asset\Materials
+\Code\Assets\Kinect\Asset\Prefabs
+\Code\Assets\Kinect\Asset\Shaders
+\Code\Assets\Kinect\Asset\Textures
+\Code\Assets\Kinect\Demo\AvatarsDemo
+\Code\Assets\Kinect\Demo\GesturesDemo
+\Code\Assets\Kinect\Demo\OverlayDemo
+\Code\Assets\Kinect\KinectScripts\Extras
+\Code\Assets\Kinect\KinectScripts\Filters
+\Code\Assets\Kinect\Script\Kinect
+\Code\Assets\ManRigModele\Rayman 3\Materials
+\Code\Assets\ManRigModele\Taiki\Materials
+\Code\Assets\Standard Assets\Character Controllers\Sources
+\Code\Assets\Standard Assets\Skyboxes\Textures
+\Code\Assets\Standard Assets\Terrain Assets\Terrain Grass
+\Code\Assets\Standard Assets\Terrain Assets\Terrain Textures
+\Code\Assets\Standard Assets\Terrain Assets\Trees Ambient-Occlusion
+\Code\Assets\Standard Assets\Windows\Kinect
+\Code\Assets\tools\Code\EnumUsefull
+\Code\Assets\tools\Code\NewUnstoredScript
+\Code\Assets\tools\Code\QuickScript
+\Code\Assets\tools\Code\Tools
+\Code\Assets\tools\WillBeAssimilated\Camera
+\Code\Assets\tools\WillBeAssimilated\Cursor
+\Code\Assets\tools\WillBeAssimilated\Destroyer
+\Code\Assets\tools\WillBeAssimilated\GIF
+\Code\Assets\tools\WillBeAssimilated\Google
+\Code\Assets\tools\WillBeAssimilated\Level
+\Code\Assets\tools\WillBeAssimilated\Maybe
+\Code\Assets\tools\WillBeAssimilated\Menu3D
+\Code\Assets\tools\WillBeAssimilated\Move
+\Code\Assets\tools\WillBeAssimilated\MoveDetection
+\Code\Assets\tools\WillBeAssimilated\MoveObject
+\Code\Assets\tools\WillBeAssimilated\Sound
+\Code\Assets\tools\WillBeAssimilated\Utils
+\Code\Assets\tools\WillBeAssimilated\YesNo
+\Code\Assets\tools\WillBeAssimilated\Zone
+\Code\Assets\__Good__\WalkByStep\FeetToImprove
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Materials
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\Explosions
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\MISC_FX
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Explosions
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Fire
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Smoke
+\Code\Assets\BoughtAsset\Tree\V1\Materials
+\Code\Assets\BoughtAsset\Tree\V1\models
+\Code\Assets\BoughtAsset\Tree\V1\scene
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack
+\Code\Assets\Kinect\Asset\Prefabs\Keyboard
+\Code\Assets\Kinect\Asset\Prefabs\Materials
+\Code\Assets\Kinect\Demo\AvatarsDemo\PointMan
+\Code\Assets\Kinect\Demo\AvatarsDemo\Skyboxes
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels
+\Code\Assets\Kinect\Demo\GesturesDemo\Materials
+\Code\Assets\Kinect\Demo\GesturesDemo\Scripts
+\Code\Assets\Kinect\Demo\GesturesDemo\SlideTextures
+\Code\Assets\Kinect\Demo\OverlayDemo\Materials
+\Code\Assets\Kinect\Demo\OverlayDemo\Scripts
+\Code\Assets\Kinect\Script\Kinect\KinectImgControllers
+\Code\Assets\Kinect\Script\Kinect\KinectModelControllers
+\Code\Assets\Kinect\Script\Kinect\KinectWrapper
+\Code\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter
+\Code\Assets\Standard Assets\Character Controllers\Sources\Scripts
+\Code\Assets\Standard Assets\Skyboxes\Textures\DawnDusk
+\Code\Assets\Standard Assets\Skyboxes\Textures\Eerie
+\Code\Assets\Standard Assets\Skyboxes\Textures\MoonShine
+\Code\Assets\Standard Assets\Skyboxes\Textures\Overcast1
+\Code\Assets\Standard Assets\Skyboxes\Textures\Overcast2
+\Code\Assets\Standard Assets\Skyboxes\Textures\StarryNight
+\Code\Assets\Standard Assets\Skyboxes\Textures\Sunny2
+\Code\Assets\Standard Assets\Skyboxes\Textures\Sunny3
+\Code\Assets\Standard Assets\Terrain Assets\Trees Ambient-Occlusion\Palm
+\Code\Assets\tools\Code\Tools\Component
+\Code\Assets\tools\Code\Tools\GUI
+\Code\Assets\tools\Code\Tools\Input
+\Code\Assets\tools\Code\Tools\Measure
+\Code\Assets\tools\Code\Tools\MenuPosition
+\Code\Assets\tools\Code\Tools\PixelWork
+\Code\Assets\tools\Code\Tools\Refresher
+\Code\Assets\tools\Code\Tools\UnityPlus
+\Code\Assets\tools\Code\Tools\Utility
+\Code\Assets\tools\WillBeAssimilated\Cursor\Editor
+\Code\Assets\tools\WillBeAssimilated\Cursor\Exemple
+\Code\Assets\tools\WillBeAssimilated\Cursor\Material
+\Code\Assets\tools\WillBeAssimilated\Cursor\Prefab
+\Code\Assets\tools\WillBeAssimilated\Maybe\UsefullToClean
+\Code\Assets\tools\WillBeAssimilated\Move\Editor
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Cube
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Point
+\Code\Assets\tools\WillBeAssimilated\MoveObject\Editor
+\Code\Assets\tools\WillBeAssimilated\Sound\Editor
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Materials
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Models
+\Code\Assets\Kinect\Demo\AvatarsDemo\PointMan\ColorCube.fbm
+\Code\Assets\Kinect\Demo\AvatarsDemo\PointMan\Materials
+\Code\Assets\Kinect\Demo\AvatarsDemo\Skyboxes\Textures
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\Grid
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\U_Character
+\Code\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Materials
+\Code\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Textures
+\Code\Assets\Standard Assets\Terrain Assets\Trees Ambient-Occlusion\Palm\Materials
+\Code\Assets\tools\Code\Tools\GUI\BasicGUI
+\Code\Assets\tools\Code\Tools\GUI\Texture
+\Code\Assets\tools\Code\Tools\Input\MouseListener
+\Code\Assets\tools\Code\Tools\Input\X360Controller
+\Code\Assets\tools\Code\Tools\Measure\2D
+\Code\Assets\tools\Code\Tools\Measure\3D
+\Code\Assets\tools\Code\Tools\Measure\Coordinate
+\Code\Assets\tools\Code\Tools\Refresher\Editor
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Editor
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Hand
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Head
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Plus
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Cube\Editor
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Models\Materials
+\Code\Assets\Kinect\Demo\AvatarsDemo\Skyboxes\Textures\Sunny1
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\Grid\Materials
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\Grid\Textures
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\U_Character\Materials
+\Code\Assets\tools\Code\Tools\GUI\BasicGUI\Elements
+\Code\Assets\tools\Code\Tools\GUI\BasicGUI\WithZone
+\Code\Assets\tools\Code\Tools\GUI\Texture\Materials
+\Code\Assets\tools\Code\Tools\Input\MouseListener\Editor
+\Code\Assets\tools\Code\Tools\Input\X360Controller\Data
+\Code\Assets\tools\Code\Tools\Input\X360Controller\Facade
+\Code\Assets\tools\Code\Tools\Measure\2D\Editor
+\Code\Assets\tools\Code\Tools\Measure\3D\PointToPoint
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\BodyPosition
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\Editor
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\Example
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\Movement
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\Materials
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\textures
+\Code\Assets\tools\Code\Tools\Measure\3D\PointToPoint\Editor
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\84 trees.fbm
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\pines prefabs
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs

@@ -1,0 +1,87 @@
+Relative Path:G:\HistoryShowcase\2018_09_18_FaceTrackedMouse
+\Code
+\Created
+\Images
+\Release
+\Unstored
+\Video
+\Code\2018_09_18_FaceTrackedMouse
+\Created\2D
+\Created\3D
+\Created\CoolCode
+\Created\Gist
+\Created\PSD
+\Created\Refactorable
+\Images\360
+\Images\Image
+\Images\Photo
+\Images\Representative
+\Images\Screenshot
+\Release\Current
+\Release\Previous
+\Video\Edited
+\Video\Links
+\Video\Raw
+\Code\2018_09_18_FaceTrackedMouse\UnityCode
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Packages
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\ProjectSettings
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\QCAR
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Temp
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\FaceTrackedMouse
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Resources
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\StreamingAssets
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Packages\com.unity.package-manager-ui
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Packages\com.unity.standardevents
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Packages\com.unity.textmeshpro
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Temp\UnityVS_bin
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Temp\UnityVS_obj
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\FaceTrackedMouse\Scene
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\Prefab
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\StreamingAssets\Vuforia
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Resources
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\Editor
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\Textures
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\WASD Studio Tools
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Packages\com.unity.package-manager-ui\Editor
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Packages\com.unity.standardevents\Editor
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Packages\com.unity.textmeshpro\Scripts
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Temp\UnityVS_bin\Debug
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Temp\UnityVS_obj\Debug
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\Editor\WASD Studio Tools
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\Textures\GUI
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\WASD Studio Tools\WaterMark
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\WASD Studio Tools\WindowTools
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Packages\com.unity.package-manager-ui\Editor\Resources
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Packages\com.unity.package-manager-ui\Editor\Sources
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Packages\com.unity.textmeshpro\Scripts\Editor
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Packages\com.unity.textmeshpro\Scripts\Runtime
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Temp\UnityVS_obj\Debug\TempPE
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\Native
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\MouseUtility\#InputSimulator\WindowsInput\Properties
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\WASD Studio Tools\WaterMark\Prefabs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\WASD Studio Tools\WaterMark\Scripts
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\WASD Studio Tools\WindowTools\Prefabs
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\WASD Studio Tools\WindowTools\Scenes
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\WindowTool\WASD Studio Tools\WindowTools\Scripts
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Packages\com.unity.package-manager-ui\Editor\Resources\Styles
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Packages\com.unity.package-manager-ui\Editor\Resources\Templates
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Packages\com.unity.package-manager-ui\Editor\Sources\External
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Packages\com.unity.package-manager-ui\Editor\Sources\Services
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Packages\com.unity.package-manager-ui\Editor\Sources\UI
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Assets\Vuforia\Editor\Vuforia\ImageTargetTextures\AR_DECK_VUFORIA_DB
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Packages\com.unity.package-manager-ui\Editor\Sources\Services\Common
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Packages\com.unity.package-manager-ui\Editor\Sources\Services\Interfaces
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Packages\com.unity.package-manager-ui\Editor\Sources\Services\Packages
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Packages\com.unity.package-manager-ui\Editor\Sources\Services\Upm
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Packages\com.unity.package-manager-ui\Editor\Sources\UI\Common
+\Code\2018_09_18_FaceTrackedMouse\UnityCode\Face Tracked Mouse\Packages\com.unity.package-manager-ui\Editor\Sources\UI\Interfaces

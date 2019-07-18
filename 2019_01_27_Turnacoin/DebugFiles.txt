@@ -1,0 +1,72 @@
+Relative Path:G:\HistoryShowcase\2019_01_27_Turnacoin
+\Code\Code\README.md
+\Code\LightSensorArduino\LightSensorArduino.ino
+\Code\Code\Kevin\Bolletjes.ai
+\Code\Code\Kevin\dit-is-een-flipper.ai
+\Code\Code\Kevin\Eerste test levers.ai
+\Code\Unity\Small Coins Game\Assembly-CSharp-Editor.csproj
+\Code\Unity\Small Coins Game\Assembly-CSharp.csproj
+\Code\Unity\Small Coins Game\Small Coins Game.csproj
+\Code\Unity\Small Coins Game\Small Coins Game.Editor.csproj
+\Code\Unity\Small Coins Game\Small Coins Game.sln
+\Code\Unity\Small Coins Game\Unity.Analytics.DataPrivacy.csproj
+\Code\Unity\Small Coins Game\Unity.CollabProxy.Editor.csproj
+\Code\Unity\Small Coins Game\Unity.PackageManagerUI.Editor.csproj
+\Code\Unity\Small Coins Game\Unity.TextMeshPro.csproj
+\Code\Unity\Small Coins Game\Unity.TextMeshPro.Editor.csproj
+\Code\Code\Kevin\House\Achterplaat huis onder.sldprt
+\Code\Code\Kevin\House\Assem3.SLDASM
+\Code\Code\Kevin\House\Balke links boven schuin hoogst.sldprt
+\Code\Code\Kevin\House\Balkje links.sldprt
+\Code\Code\Kevin\House\Balkon.sldprt
+\Code\Code\Kevin\House\Basis component.sldprt
+\Code\Code\Kevin\House\Bolletje met cava radius.sldprt
+\Code\Code\Kevin\House\Bolletje met grote radius.sldprt
+\Code\Code\Kevin\House\Bovenste midden schuin.sldprt
+\Code\Code\Kevin\House\Bovenste rechts schuin.sldprt
+\Code\Code\Kevin\House\Flipper.sldprt
+\Code\Code\Kevin\House\Hendel middelste schuin.sldprt
+\Code\Code\Kevin\House\Hoogste lange balk.sldprt
+\Code\Code\Kevin\House\Klein obstakel.sldprt
+\Code\Code\Kevin\House\Minibolletje met cava radius.sldprt
+\Code\Code\Kevin\House\MiniRondje.sldprt
+\Code\Code\Kevin\House\Onderkant midden.sldprt
+\Code\Code\Kevin\House\Partbalkje aan balkon.sldprt
+\Code\Code\Kevin\House\Plexiglas.sldprt
+\Code\Code\Kevin\House\Rondje.sldprt
+\Code\Code\Kevin\House\Verticale balk.sldprt
+\Code\Code\Kevin\House\Vertikaal rechts.sldprt
+\Code\Unity\Small Coins Game\Assets\CoinsCounter.cs
+\Code\Unity\Small Coins Game\Assets\CoinsCounter.cs.meta
+\Code\Unity\Small Coins Game\Assets\DebugLog.cs
+\Code\Unity\Small Coins Game\Assets\DebugLog.cs.meta
+\Code\Unity\Small Coins Game\Assets\Plugins.meta
+\Code\Unity\Small Coins Game\Assets\ReceivedToInfo.cs
+\Code\Unity\Small Coins Game\Assets\ReceivedToInfo.cs.meta
+\Code\Unity\Small Coins Game\Assets\Scenes.meta
+\Code\Unity\Small Coins Game\Assets\SendCommandToGame.cs
+\Code\Unity\Small Coins Game\Assets\SendCommandToGame.cs.meta
+\Code\Unity\Small Coins Game\Assets\SmallCoinsGame.cs
+\Code\Unity\Small Coins Game\Assets\SmallCoinsGame.cs.meta
+\Code\Unity\Small Coins Game\Assets\UI_CoinsGame.cs
+\Code\Unity\Small Coins Game\Assets\UI_CoinsGame.cs.meta
+\Code\Unity\Small Coins Game\Assets\UI_CointCounter.cs
+\Code\Unity\Small Coins Game\Assets\UI_CointCounter.cs.meta
+\Code\Unity\Small Coins Game\Assets\Plugins\Android.meta
+\Code\Unity\Small Coins Game\Assets\Scenes\BorderBlack.png
+\Code\Unity\Small Coins Game\Assets\Scenes\BorderBlack.png.meta
+\Code\Unity\Small Coins Game\Assets\Scenes\BorderWhite.png
+\Code\Unity\Small Coins Game\Assets\Scenes\BorderWhite.png.meta
+\Code\Unity\Small Coins Game\Assets\Scenes\SampleScene.unity
+\Code\Unity\Small Coins Game\Assets\Scenes\SampleScene.unity.meta
+\Code\Unity\Small Coins Game\Assets\Scenes\SmallCoinsGame.unity
+\Code\Unity\Small Coins Game\Assets\Scenes\SmallCoinsGame.unity.meta
+\Code\Unity\Small Coins Game\.gradle\4.6\fileHashes\fileHashes.lock
+\Code\Unity\Small Coins Game\.gradle\4.6\taskHistory\taskHistory.lock
+\Code\Unity\Small Coins Game\Assets\Plugins\Android\AndroidManifest.xml
+\Code\Unity\Small Coins Game\Assets\Plugins\Android\AndroidManifest.xml.meta
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md

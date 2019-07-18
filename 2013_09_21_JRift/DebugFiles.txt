@@ -1,0 +1,6 @@
+Relative Path:G:\HistoryShowcase\2013_09_21_JRift
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md

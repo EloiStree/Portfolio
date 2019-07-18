@@ -1,0 +1,135 @@
+Relative Path:G:\HistoryShowcase\2019_05_03_justrubikcube
+\Code
+\Created
+\Images
+\Release
+\Unstored
+\Video
+\Code\Just Rubik Cube
+\Created\2D
+\Created\3D
+\Created\CoolCode
+\Created\Gist
+\Created\PSD
+\Created\Refactorable
+\Images\360
+\Images\Image
+\Images\Photo
+\Images\Representative
+\Images\Screenshot
+\Release\Current
+\Release\Previous
+\Video\Edited
+\Video\Links
+\Video\Raw
+\Code\Just Rubik Cube\Assets
+\Code\Just Rubik Cube\Logs
+\Code\Just Rubik Cube\obj
+\Code\Just Rubik Cube\Packages
+\Code\Just Rubik Cube\ProjectSettings
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube
+\Code\Just Rubik Cube\obj\Debug
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Editor
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime
+\Code\Just Rubik Cube\obj\Debug\TempPE
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Editor\ProjectInfo
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\ExtractAsPackage
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCubeDemo
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Editor\ProjectInfo\Editor
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\ExtractAsPackage\Alphabet
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\ExtractAsPackage\CodeTag
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\ExtractAsPackage\DebugDraw
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\ExtractAsPackage\Gizmo
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Assets
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Package
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Prefab
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Scene
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Script
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCubeDemo\Assets
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCubeDemo\Prefab
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCubeDemo\Scene
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCubeDemo\Script
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\ExtractAsPackage\Alphabet\3D
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\ExtractAsPackage\CodeTag\Exception
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\ExtractAsPackage\CodeTag\Tag
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\ExtractAsPackage\DebugDraw\Demo
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\ExtractAsPackage\DebugDraw\Script
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\ExtractAsPackage\Gizmo\Cartesian
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Assets\2D
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Assets\3D
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Package\RotationInput
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Package\RubikCubeAxis
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Prefab\2D
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Prefab\3D
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Prefab\Temp
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Scene\RubikCube
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Scene\SaveStage
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Scene\Tags
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Script\Enumarable
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Script\Events
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Script\RubikCubeInstance
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Script\RubikCubeMain
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Script\RubikCubePointer
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Script\RubikCubeTags
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCubeDemo\Assets\2D
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCubeDemo\Assets\3D
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCubeDemo\Assets\Audio
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCubeDemo\Assets\Material
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCubeDemo\Prefab\UI
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCubeDemo\Script\Unstored
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\ExtractAsPackage\Alphabet\3D\PixelBold
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\ExtractAsPackage\Gizmo\Cartesian\Type_1
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Assets\2D\Face
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Assets\3D\RiggedRubikCube
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Package\RotationInput\Demo
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Package\RotationInput\Prefab
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Package\RubikCubeAxis\2D
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Package\RubikCubeAxis\3D
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Package\RubikCubeAxis\Demo
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Package\RubikCubeAxis\Material
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Package\RubikCubeAxis\Prefab
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Prefab\2D\PlanarRubikCube
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Prefab\3D\CubeSaveState
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Prefab\3D\RotationAxisRepresentation
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Prefab\3D\SixFaceRubikCube
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCubeDemo\Assets\2D\Icon
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCubeDemo\Assets\2D\SolutionExample
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCubeDemo\Assets\3D\Sphere360
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCubeDemo\Assets\Audio\Music
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCubeDemo\Assets\Material\Unstored
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCubeDemo\Prefab\UI\CommunityReaction
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCubeDemo\Prefab\UI\ImportExport
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\ExtractAsPackage\Alphabet\3D\PixelBold\Material
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\ExtractAsPackage\Alphabet\3D\PixelBold\Mesh
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\ExtractAsPackage\Alphabet\3D\PixelBold\Prefab
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\ExtractAsPackage\Gizmo\Cartesian\Type_1\Materials
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\ExtractAsPackage\Gizmo\Cartesian\Type_1\Mesh
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\ExtractAsPackage\Gizmo\Cartesian\Type_1\Texture
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Assets\2D\Face\Sprite
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Assets\2D\Face\Texture
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Assets\3D\RiggedRubikCube\Materials
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Assets\3D\RiggedRubikCube\Mesh
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Assets\3D\RiggedRubikCube\Prefab
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Assets\3D\RiggedRubikCube\UV
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Package\RotationInput\Prefab\3D
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Package\RotationInput\Prefab\UI
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Package\RubikCubeAxis\2D\UV
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Package\RubikCubeAxis\3D\Mesh
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Package\RubikCubeAxis\3D\Raw
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Package\RubikCubeAxis\Material\SimpleColor
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Package\RubikCubeAxis\Material\UV
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Prefab\3D\RotationAxisRepresentation\Material
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Prefab\3D\RotationAxisRepresentation\Mesh
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Prefab\3D\RotationAxisRepresentation\Prefab
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Prefab\3D\SixFaceRubikCube\Materials
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Prefab\3D\SixFaceRubikCube\Mesh
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Prefab\3D\SixFaceRubikCube\Prefab
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Prefab\3D\SixFaceRubikCube\UV
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCubeDemo\Assets\2D\SolutionExample\Materials
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCubeDemo\Assets\Audio\Music\FromTheWeb
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\ExtractAsPackage\Alphabet\3D\PixelBold\Mesh\Raw
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Package\RotationInput\Prefab\3D\Interface
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Package\RotationInput\Prefab\UI\Interface
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Package\RubikCubeAxis\3D\Mesh\AxisOfRubikCube
+\Code\Just Rubik Cube\Assets\2019_05_03_justrubikcube\Runtime\JustRubikCube\Package\RubikCubeAxis\3D\Mesh\RubikCubeBoxWithUV

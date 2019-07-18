@@ -2,6 +2,10 @@
   
 -------------------------   
 
+  <[2014_05_15_KinectAndDK1Research](2014_05_15_KinectAndDK1Research\readme.md) | [2014_05_17_Minesweeper0H](2014_05_17_Minesweeper0H\readme.md)>
+  
+-------------------------   
+
 [![Icon Img](icon.png)](icon.png)  
 [![Preview Img](preview.png)](preview.png)   No additional information yet.
   

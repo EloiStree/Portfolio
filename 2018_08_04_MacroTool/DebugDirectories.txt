@@ -1,0 +1,176 @@
+Relative Path:G:\HistoryShowcase\2018_08_04_MacroTool
+\Code
+\Created
+\Images
+\Release
+\Unstored
+\Video
+\Code\2018_08_04_MacroTool
+\Code\MacroTool
+\Created\2D
+\Created\3D
+\Created\CoolCode
+\Created\Gist
+\Created\PSD
+\Created\Refactorable
+\Images\360
+\Images\Image
+\Images\Photo
+\Images\Representative
+\Images\Screenshot
+\Release\Current
+\Release\Previous
+\Video\Edited
+\Video\Links
+\Video\Raw
+\Code\2018_08_04_MacroTool\FunToCodeLater
+\Code\2018_08_04_MacroTool\Idea
+\Code\2018_08_04_MacroTool\Macro Tool
+\Code\2018_08_04_MacroTool\Package
+\Code\2018_08_04_MacroTool\Research
+\Code\2018_08_04_MacroTool\Tools
+\Code\2018_08_04_MacroTool\FunToCodeLater\Morse
+\Code\2018_08_04_MacroTool\FunToCodeLater\SignLanguageApp
+\Code\2018_08_04_MacroTool\Idea\10FingerMorse
+\Code\2018_08_04_MacroTool\Macro Tool\Assets
+\Code\2018_08_04_MacroTool\Macro Tool\Logs
+\Code\2018_08_04_MacroTool\Macro Tool\Packages
+\Code\2018_08_04_MacroTool\Macro Tool\ProjectSettings
+\Code\2018_08_04_MacroTool\Macro Tool\UnityPackageManager
+\Code\2018_08_04_MacroTool\Research\Format
+\Code\2018_08_04_MacroTool\Research\Games
+\Code\2018_08_04_MacroTool\Research\Pattern
+\Code\2018_08_04_MacroTool\Research\PossibilitiesOfUse
+\Code\2018_08_04_MacroTool\Research\PrintMachine
+\Code\2018_08_04_MacroTool\Research\Unicode
+\Code\2018_08_04_MacroTool\Tools\KeyboardKeyViewer
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Delete
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\eToolBox
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch
+\Code\2018_08_04_MacroTool\Macro Tool\Packages\com.unity.analytics
+\Code\2018_08_04_MacroTool\Macro Tool\Packages\com.unity.collab-proxy
+\Code\2018_08_04_MacroTool\Macro Tool\Packages\com.unity.package-manager-ui
+\Code\2018_08_04_MacroTool\Macro Tool\Packages\com.unity.textmeshpro
+\Code\2018_08_04_MacroTool\Research\Games\FTL
+\Code\2018_08_04_MacroTool\Research\Pattern\Apple
+\Code\2018_08_04_MacroTool\Research\Pattern\Asian
+\Code\2018_08_04_MacroTool\Research\Pattern\ControlPad
+\Code\2018_08_04_MacroTool\Research\Pattern\Numpad
+\Code\2018_08_04_MacroTool\Research\Pattern\WritingSystem
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\License
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\eToolBox\Script
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Scene
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Scene
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Documentation
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\MacroStorage
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Editor
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Scene
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\Script
+\Code\2018_08_04_MacroTool\Macro Tool\Packages\com.unity.analytics\DataPrivacy
+\Code\2018_08_04_MacroTool\Macro Tool\Packages\com.unity.collab-proxy\Editor
+\Code\2018_08_04_MacroTool\Macro Tool\Packages\com.unity.package-manager-ui\Editor
+\Code\2018_08_04_MacroTool\Macro Tool\Packages\com.unity.textmeshpro\Scripts
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\Script
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\SplashScene
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\EloiStree License\Watermark\Watermark
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\eToolBox\Script\CoolScript
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\Exemple_FTL\Assets\2D
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Prefab\Keyboard
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Prefab\Network
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Prefab\Resources
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Scene\Enum
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Scene\InputSimulator
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Scene\Keyboard
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Scene\KeyStroke
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Scene\Network
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\0. Public
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\2. Demo
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\7. Interproject
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\8. Tools
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\9. Unstore
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Scene
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Documentation\List
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool
+\Code\2018_08_04_MacroTool\Macro Tool\Packages\com.unity.collab-proxy\Editor\Collab
+\Code\2018_08_04_MacroTool\Macro Tool\Packages\com.unity.package-manager-ui\Editor\Resources
+\Code\2018_08_04_MacroTool\Macro Tool\Packages\com.unity.package-manager-ui\Editor\Sources
+\Code\2018_08_04_MacroTool\Macro Tool\Packages\com.unity.textmeshpro\Scripts\Editor
+\Code\2018_08_04_MacroTool\Macro Tool\Packages\com.unity.textmeshpro\Scripts\Runtime
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\eToolBox\Script\CoolScript\Editor
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Prefab\Network\Prefab
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Scene\Network\Scene
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\0. Public\Listener
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\0. Public\Mono
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\Keyboard
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\Network
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\2. Demo\InputSimulator
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\2. Demo\UI
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script\2. Demo
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\MacroUtility\Assets\Script\9. Unstore
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Fonts
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Prefabs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Scripts
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Sprites
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\Editor
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\Textures
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools
+\Code\2018_08_04_MacroTool\Macro Tool\Packages\com.unity.collab-proxy\Editor\Collab\Presenters
+\Code\2018_08_04_MacroTool\Macro Tool\Packages\com.unity.collab-proxy\Editor\Collab\Views
+\Code\2018_08_04_MacroTool\Macro Tool\Packages\com.unity.package-manager-ui\Editor\Resources\Styles
+\Code\2018_08_04_MacroTool\Macro Tool\Packages\com.unity.package-manager-ui\Editor\Resources\Templates
+\Code\2018_08_04_MacroTool\Macro Tool\Packages\com.unity.package-manager-ui\Editor\Sources\External
+\Code\2018_08_04_MacroTool\Macro Tool\Packages\com.unity.package-manager-ui\Editor\Sources\Services
+\Code\2018_08_04_MacroTool\Macro Tool\Packages\com.unity.package-manager-ui\Editor\Sources\UI
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Prefab\Network\Prefab\UI
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\0. Public\Listener\Keyboard
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\0. Public\Listener\Native
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\Network\Demo
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\Network\Tools
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Script\1. Private\Network\Window
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Fonts\OpenSans
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Materials
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Models
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Prefabs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Scenes
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Scripts
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Textures
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\Scripts\Lobby
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\Editor\WASD Studio Tools
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\Textures\GUI
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WaterMark
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WindowTools
+\Code\2018_08_04_MacroTool\Macro Tool\Packages\com.unity.package-manager-ui\Editor\Sources\Services\Common
+\Code\2018_08_04_MacroTool\Macro Tool\Packages\com.unity.package-manager-ui\Editor\Sources\Services\Interfaces
+\Code\2018_08_04_MacroTool\Macro Tool\Packages\com.unity.package-manager-ui\Editor\Sources\Services\Packages
+\Code\2018_08_04_MacroTool\Macro Tool\Packages\com.unity.package-manager-ui\Editor\Sources\Services\Upm
+\Code\2018_08_04_MacroTool\Macro Tool\Packages\com.unity.package-manager-ui\Editor\Sources\UI\Common
+\Code\2018_08_04_MacroTool\Macro Tool\Packages\com.unity.package-manager-ui\Editor\Sources\UI\Interfaces
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\Native
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\KeystrokeUtility\Platform\Window\#InputSimulator\WindowsInput\Properties
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Models\Materials
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WaterMark\Prefabs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WaterMark\Scripts
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WindowTools\Prefabs
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WindowTools\Scenes
+\Code\2018_08_04_MacroTool\Macro Tool\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WindowTools\Scripts

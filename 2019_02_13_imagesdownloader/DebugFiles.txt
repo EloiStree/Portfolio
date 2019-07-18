@@ -1,0 +1,6 @@
+Relative Path:G:\HistoryShowcase\2019_02_13_imagesdownloader
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md

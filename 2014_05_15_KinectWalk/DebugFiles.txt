@@ -1,0 +1,1379 @@
+Relative Path:G:\HistoryShowcase\2014_05_15_KinectWalk
+\Code\Assembly-CSharp-Editor-vs.csproj
+\Code\Assembly-CSharp-Editor.csproj
+\Code\Assembly-CSharp-firstpass-vs.csproj
+\Code\Assembly-CSharp-firstpass.csproj
+\Code\Assembly-CSharp-vs.csproj
+\Code\Assembly-CSharp.csproj
+\Code\Assembly-UnityScript-firstpass-vs.unityproj
+\Code\Assembly-UnityScript-firstpass.unityproj
+\Code\Assembly-UnityScript-vs.unityproj
+\Code\Assembly-UnityScript.unityproj
+\Code\WalkKinectProject-csharp.sln
+\Code\WalkKinectProject.sln
+\Code\WalkKinectProject.userprefs
+\Code\Assets\BoughtAsset.meta
+\Code\Assets\GUI.meta
+\Code\Assets\Howto-Use-Gestures-or-Create-Your-Own-Ones.pdf
+\Code\Assets\Howto-Use-Gestures-or-Create-Your-Own-Ones.pdf.meta
+\Code\Assets\Howto-Use-KinectManager-Across-Multiple-Scenes.pdf
+\Code\Assets\Howto-Use-KinectManager-Across-Multiple-Scenes.pdf.meta
+\Code\Assets\Kinect.meta
+\Code\Assets\ManRigModele.meta
+\Code\Assets\New Terrain.asset
+\Code\Assets\New Terrain.asset.meta
+\Code\Assets\Plugins.meta
+\Code\Assets\Prefab.meta
+\Code\Assets\Readme-Kinect-MsSdk.pdf
+\Code\Assets\Readme-Kinect-MsSdk.pdf.meta
+\Code\Assets\Standard Assets.meta
+\Code\Assets\tools.meta
+\Code\Assets\WhatsNew-Kinect-MsSdk.pdf
+\Code\Assets\WhatsNew-Kinect-MsSdk.pdf.meta
+\Code\Assets\_PROGRESS_.meta
+\Code\Assets\_WalkDemo_.meta
+\Code\Assets\__Good__.meta
+\Code\ProjectSettings\AudioManager.asset
+\Code\ProjectSettings\DynamicsManager.asset
+\Code\ProjectSettings\EditorSettings.asset
+\Code\ProjectSettings\GraphicsSettings.asset
+\Code\ProjectSettings\InputManager.asset
+\Code\ProjectSettings\NavMeshLayers.asset
+\Code\ProjectSettings\NetworkManager.asset
+\Code\ProjectSettings\Physics2DSettings.asset
+\Code\ProjectSettings\ProjectSettings.asset
+\Code\ProjectSettings\QualitySettings.asset
+\Code\ProjectSettings\TagManager.asset
+\Code\ProjectSettings\TimeManager.asset
+\Code\Assets\BoughtAsset\Explosif.meta
+\Code\Assets\BoughtAsset\Fence Construction Kit.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX.meta
+\Code\Assets\BoughtAsset\Tree.meta
+\Code\Assets\GUI\HandCursor.png
+\Code\Assets\GUI\HandCursor.png.meta
+\Code\Assets\GUI\HandCursor32.png
+\Code\Assets\GUI\HandCursor32.png.meta
+\Code\Assets\Kinect\Asset.meta
+\Code\Assets\Kinect\Demo.meta
+\Code\Assets\Kinect\KinectScripts.meta
+\Code\Assets\Kinect\Materials.meta
+\Code\Assets\Kinect\PlaymakerKinectActions.meta
+\Code\Assets\Kinect\Recordings.meta
+\Code\Assets\Kinect\Scene.meta
+\Code\Assets\Kinect\Script.meta
+\Code\Assets\Kinect\Scripts.meta
+\Code\Assets\ManRigModele\Rayman 3.meta
+\Code\Assets\ManRigModele\Taiki.meta
+\Code\Assets\Plugins\Metro.meta
+\Code\Assets\Plugins\x86.meta
+\Code\Assets\Plugins\x86_64.meta
+\Code\Assets\Prefab\FF.prefab
+\Code\Assets\Prefab\FF.prefab.meta
+\Code\Assets\Prefab\KinectPointMan.prefab
+\Code\Assets\Prefab\KinectPointMan.prefab.meta
+\Code\Assets\Prefab\KinectPrefab.prefab
+\Code\Assets\Prefab\KinectPrefab.prefab.meta
+\Code\Assets\Prefab\rainbowMan_v6.prefab
+\Code\Assets\Prefab\rainbowMan_v6.prefab.meta
+\Code\Assets\Standard Assets\Character Controllers.meta
+\Code\Assets\Standard Assets\Skyboxes.meta
+\Code\Assets\Standard Assets\Terrain Assets.meta
+\Code\Assets\Standard Assets\Windows.meta
+\Code\Assets\tools\Code.meta
+\Code\Assets\tools\Custumization.meta
+\Code\Assets\tools\READ ME.txt
+\Code\Assets\tools\READ ME.txt.meta
+\Code\Assets\tools\Resources.meta
+\Code\Assets\tools\WillBeAssimilated.meta
+\Code\Assets\_PROGRESS_\WalkPattern.meta
+\Code\Assets\_WalkDemo_\footPrint.png
+\Code\Assets\_WalkDemo_\footPrint.png.meta
+\Code\Assets\_WalkDemo_\scene.meta
+\Code\Assets\__Good__\WalkByStep.meta
+\Code\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+\Code\Assets\BoughtAsset\Explosif\Air-Bomb-Color+Specular.tga
+\Code\Assets\BoughtAsset\Explosif\Air-Bomb-Color+Specular.tga.meta
+\Code\Assets\BoughtAsset\Explosif\Air-Bomb-Normal.tga
+\Code\Assets\BoughtAsset\Explosif\Air-Bomb-Normal.tga.meta
+\Code\Assets\BoughtAsset\Explosif\Air-Bomb.fbx
+\Code\Assets\BoughtAsset\Explosif\Air-Bomb.fbx.meta
+\Code\Assets\BoughtAsset\Explosif\Bomb-Color+Specular.tga
+\Code\Assets\BoughtAsset\Explosif\Bomb-Color+Specular.tga.meta
+\Code\Assets\BoughtAsset\Explosif\Bomb-Normal.tga
+\Code\Assets\BoughtAsset\Explosif\Bomb-Normal.tga.meta
+\Code\Assets\BoughtAsset\Explosif\Bomb.fbx
+\Code\Assets\BoughtAsset\Explosif\Bomb.fbx.meta
+\Code\Assets\BoughtAsset\Explosif\Bullet-Color+Specular.tga
+\Code\Assets\BoughtAsset\Explosif\Bullet-Color+Specular.tga.meta
+\Code\Assets\BoughtAsset\Explosif\Bullet-Normal.tga
+\Code\Assets\BoughtAsset\Explosif\Bullet-Normal.tga.meta
+\Code\Assets\BoughtAsset\Explosif\Bullet.fbx
+\Code\Assets\BoughtAsset\Explosif\Bullet.fbx.meta
+\Code\Assets\BoughtAsset\Explosif\Caustic-Bomb-Color+Specular.tga
+\Code\Assets\BoughtAsset\Explosif\Caustic-Bomb-Color+Specular.tga.meta
+\Code\Assets\BoughtAsset\Explosif\Caustic-Bomb-Normal.tga
+\Code\Assets\BoughtAsset\Explosif\Caustic-Bomb-Normal.tga.meta
+\Code\Assets\BoughtAsset\Explosif\Caustic-Bomb.fbx
+\Code\Assets\BoughtAsset\Explosif\Caustic-Bomb.fbx.meta
+\Code\Assets\BoughtAsset\Explosif\Crate-Explosions.fbx
+\Code\Assets\BoughtAsset\Explosif\Crate-Explosions.fbx.meta
+\Code\Assets\BoughtAsset\Explosif\Crate-Explosives-Color+Specular.tga
+\Code\Assets\BoughtAsset\Explosif\Crate-Explosives-Color+Specular.tga.meta
+\Code\Assets\BoughtAsset\Explosif\Crate-Explosives-Normal.tga
+\Code\Assets\BoughtAsset\Explosif\Crate-Explosives-Normal.tga.meta
+\Code\Assets\BoughtAsset\Explosif\Crate-TNT-Color+Specular.tga
+\Code\Assets\BoughtAsset\Explosif\Crate-TNT-Color+Specular.tga.meta
+\Code\Assets\BoughtAsset\Explosif\Crate-TNT-Normal.tga
+\Code\Assets\BoughtAsset\Explosif\Crate-TNT-Normal.tga.meta
+\Code\Assets\BoughtAsset\Explosif\Crate-TNT.fbx
+\Code\Assets\BoughtAsset\Explosif\Crate-TNT.fbx.meta
+\Code\Assets\BoughtAsset\Explosif\Dynamite-bomb-Color+Specular.tga
+\Code\Assets\BoughtAsset\Explosif\Dynamite-bomb-Color+Specular.tga.meta
+\Code\Assets\BoughtAsset\Explosif\Dynamite-bomb-Normal.tga
+\Code\Assets\BoughtAsset\Explosif\Dynamite-bomb-Normal.tga.meta
+\Code\Assets\BoughtAsset\Explosif\Dynamite-bomb.fbx
+\Code\Assets\BoughtAsset\Explosif\Dynamite-bomb.fbx.meta
+\Code\Assets\BoughtAsset\Explosif\Dynamite-stick-Color+Specular.tga
+\Code\Assets\BoughtAsset\Explosif\Dynamite-stick-Color+Specular.tga.meta
+\Code\Assets\BoughtAsset\Explosif\Dynamite-stick-Normal.tga
+\Code\Assets\BoughtAsset\Explosif\Dynamite-stick-Normal.tga.meta
+\Code\Assets\BoughtAsset\Explosif\Dynamite-stick.fbx
+\Code\Assets\BoughtAsset\Explosif\Dynamite-stick.fbx.meta
+\Code\Assets\BoughtAsset\Explosif\Grenade-Color+Specular.tga
+\Code\Assets\BoughtAsset\Explosif\Grenade-Color+Specular.tga.meta
+\Code\Assets\BoughtAsset\Explosif\Grenade-Normal.tga
+\Code\Assets\BoughtAsset\Explosif\Grenade-Normal.tga.meta
+\Code\Assets\BoughtAsset\Explosif\Grenade.fbx
+\Code\Assets\BoughtAsset\Explosif\Grenade.fbx.meta
+\Code\Assets\BoughtAsset\Explosif\Landmine-Color+Specular.tga
+\Code\Assets\BoughtAsset\Explosif\Landmine-Color+Specular.tga.meta
+\Code\Assets\BoughtAsset\Explosif\Landmine-Normal.tga
+\Code\Assets\BoughtAsset\Explosif\Landmine-Normal.tga.meta
+\Code\Assets\BoughtAsset\Explosif\Landmine.fbx
+\Code\Assets\BoughtAsset\Explosif\Landmine.fbx.meta
+\Code\Assets\BoughtAsset\Explosif\Materials.meta
+\Code\Assets\BoughtAsset\Explosif\PFB-Explosives-Pack-Test.unity
+\Code\Assets\BoughtAsset\Explosif\PFB-Explosives-Pack-Test.unity.meta
+\Code\Assets\BoughtAsset\Explosif\TNT-crate-Color+Specular.tga
+\Code\Assets\BoughtAsset\Explosif\TNT-crate-Color+Specular.tga.meta
+\Code\Assets\BoughtAsset\Explosif\TNT-crate-Normal.tga
+\Code\Assets\BoughtAsset\Explosif\TNT-crate-Normal.tga.meta
+\Code\Assets\BoughtAsset\Explosif\TNT-crate.fbx
+\Code\Assets\BoughtAsset\Explosif\TNT-crate.fbx.meta
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes.meta
+\Code\Assets\BoughtAsset\Fence Construction Kit\Textures.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\ReadME.txt
+\Code\Assets\BoughtAsset\iMG Explosion FX\ReadME.txt.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Textures.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\_Source.meta
+\Code\Assets\BoughtAsset\Tree\V1.meta
+\Code\Assets\BoughtAsset\Tree\V2.meta
+\Code\Assets\Kinect\Asset\Materials.meta
+\Code\Assets\Kinect\Asset\Prefabs.meta
+\Code\Assets\Kinect\Asset\Shaders.meta
+\Code\Assets\Kinect\Asset\Textures.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo.meta
+\Code\Assets\Kinect\Demo\GesturesDemo.meta
+\Code\Assets\Kinect\Demo\OverlayDemo.meta
+\Code\Assets\Kinect\KinectScripts\AvatarController.cs
+\Code\Assets\Kinect\KinectScripts\AvatarController.cs.meta
+\Code\Assets\Kinect\KinectScripts\Extras.meta
+\Code\Assets\Kinect\KinectScripts\Filters.meta
+\Code\Assets\Kinect\KinectScripts\KinectGestures.cs
+\Code\Assets\Kinect\KinectScripts\KinectGestures.cs.meta
+\Code\Assets\Kinect\KinectScripts\KinectManager.cs
+\Code\Assets\Kinect\KinectScripts\KinectManager.cs.meta
+\Code\Assets\Kinect\KinectScripts\KinectWrapper.cs
+\Code\Assets\Kinect\KinectScripts\KinectWrapper.cs.meta
+\Code\Assets\Kinect\Materials\BoneMaterial.mat
+\Code\Assets\Kinect\Materials\BoneMaterial.mat.meta
+\Code\Assets\Kinect\PlaymakerKinectActions\PlaymakerKinectActions.pdf
+\Code\Assets\Kinect\PlaymakerKinectActions\PlaymakerKinectActions.pdf.meta
+\Code\Assets\Kinect\PlaymakerKinectActions\PlaymakerKinectActions.zip
+\Code\Assets\Kinect\PlaymakerKinectActions\PlaymakerKinectActions.zip.meta
+\Code\Assets\Kinect\Recordings\playback0
+\Code\Assets\Kinect\Recordings\playback0.meta
+\Code\Assets\Kinect\Scene\KinectSample.unity
+\Code\Assets\Kinect\Scene\KinectSample.unity.meta
+\Code\Assets\Kinect\Script\Kinect.meta
+\Code\Assets\Kinect\Scripts\BodySourceManager.cs
+\Code\Assets\Kinect\Scripts\BodySourceManager.cs.meta
+\Code\Assets\Kinect\Scripts\BodySourceView.cs
+\Code\Assets\Kinect\Scripts\BodySourceView.cs.meta
+\Code\Assets\Kinect\Scripts\ColorSourceManager.cs
+\Code\Assets\Kinect\Scripts\ColorSourceManager.cs.meta
+\Code\Assets\Kinect\Scripts\ColorSourceView.cs
+\Code\Assets\Kinect\Scripts\ColorSourceView.cs.meta
+\Code\Assets\Kinect\Scripts\DepthSourceManager.cs
+\Code\Assets\Kinect\Scripts\DepthSourceManager.cs.meta
+\Code\Assets\Kinect\Scripts\DepthSourceView.cs
+\Code\Assets\Kinect\Scripts\DepthSourceView.cs.meta
+\Code\Assets\Kinect\Scripts\DisableOnStart.cs
+\Code\Assets\Kinect\Scripts\DisableOnStart.cs.meta
+\Code\Assets\Kinect\Scripts\InfraredSourceManager.cs
+\Code\Assets\Kinect\Scripts\InfraredSourceManager.cs.meta
+\Code\Assets\Kinect\Scripts\InfraredSourceView.cs
+\Code\Assets\Kinect\Scripts\InfraredSourceView.cs.meta
+\Code\Assets\Kinect\Scripts\MultiSourceManager.cs
+\Code\Assets\Kinect\Scripts\MultiSourceManager.cs.meta
+\Code\Assets\ManRigModele\Rayman 3\Materials.meta
+\Code\Assets\ManRigModele\Rayman 3\RayMan.FBX
+\Code\Assets\ManRigModele\Rayman 3\RayMan.FBX.meta
+\Code\Assets\ManRigModele\Rayman 3\rayman.PNG
+\Code\Assets\ManRigModele\Rayman 3\rayman.PNG.meta
+\Code\Assets\ManRigModele\Rayman 3\Rayman3.mtl
+\Code\Assets\ManRigModele\Rayman 3\Rayman3.mtl.meta
+\Code\Assets\ManRigModele\Rayman 3\Rayman3.obj
+\Code\Assets\ManRigModele\Rayman 3\Rayman3.obj.meta
+\Code\Assets\ManRigModele\Taiki\diss_00.png
+\Code\Assets\ManRigModele\Taiki\diss_00.png.meta
+\Code\Assets\ManRigModele\Taiki\diss_01.png
+\Code\Assets\ManRigModele\Taiki\diss_01.png.meta
+\Code\Assets\ManRigModele\Taiki\Materials.meta
+\Code\Assets\ManRigModele\Taiki\Taiki.fbx
+\Code\Assets\ManRigModele\Taiki\Taiki.fbx.meta
+\Code\Assets\Plugins\Metro\KinectForUnity.dll
+\Code\Assets\Plugins\Metro\KinectForUnity.dll.meta
+\Code\Assets\Plugins\x86\KinectForUnity.dll
+\Code\Assets\Plugins\x86\KinectForUnity.dll.meta
+\Code\Assets\Plugins\x86_64\KinectForUnity.dll
+\Code\Assets\Plugins\x86_64\KinectForUnity.dll.meta
+\Code\Assets\Standard Assets\Character Controllers\3rd Person Controller.prefab
+\Code\Assets\Standard Assets\Character Controllers\3rd Person Controller.prefab.meta
+\Code\Assets\Standard Assets\Character Controllers\First Person Controller.prefab
+\Code\Assets\Standard Assets\Character Controllers\First Person Controller.prefab.meta
+\Code\Assets\Standard Assets\Character Controllers\Sources.meta
+\Code\Assets\Standard Assets\Skyboxes\DawnDusk Skybox.mat
+\Code\Assets\Standard Assets\Skyboxes\DawnDusk Skybox.mat.meta
+\Code\Assets\Standard Assets\Skyboxes\Eerie Skybox.mat
+\Code\Assets\Standard Assets\Skyboxes\Eerie Skybox.mat.meta
+\Code\Assets\Standard Assets\Skyboxes\MoonShine Skybox.mat
+\Code\Assets\Standard Assets\Skyboxes\MoonShine Skybox.mat.meta
+\Code\Assets\Standard Assets\Skyboxes\Overcast1 Skybox.mat
+\Code\Assets\Standard Assets\Skyboxes\Overcast1 Skybox.mat.meta
+\Code\Assets\Standard Assets\Skyboxes\Overcast2 Skybox.mat
+\Code\Assets\Standard Assets\Skyboxes\Overcast2 Skybox.mat.meta
+\Code\Assets\Standard Assets\Skyboxes\StarryNight Skybox.mat
+\Code\Assets\Standard Assets\Skyboxes\StarryNight Skybox.mat.meta
+\Code\Assets\Standard Assets\Skyboxes\Sunny2 Skybox.mat
+\Code\Assets\Standard Assets\Skyboxes\Sunny2 Skybox.mat.meta
+\Code\Assets\Standard Assets\Skyboxes\Sunny3 Skybox.mat
+\Code\Assets\Standard Assets\Skyboxes\Sunny3 Skybox.mat.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures.meta
+\Code\Assets\Standard Assets\Skyboxes\_skybox info.txt
+\Code\Assets\Standard Assets\Skyboxes\_skybox info.txt.meta
+\Code\Assets\Standard Assets\Terrain Assets\Terrain Grass.meta
+\Code\Assets\Standard Assets\Terrain Assets\Terrain Textures.meta
+\Code\Assets\Standard Assets\Terrain Assets\Trees Ambient-Occlusion.meta
+\Code\Assets\Standard Assets\Windows\Kinect.meta
+\Code\Assets\tools\Code\EnumUsefull.meta
+\Code\Assets\tools\Code\NewUnstoredScript.meta
+\Code\Assets\tools\Code\QuickScript.meta
+\Code\Assets\tools\Code\Tools.meta
+\Code\Assets\tools\Custumization\AddMeasure.cs
+\Code\Assets\tools\Custumization\AddMeasure.cs.meta
+\Code\Assets\tools\Custumization\CreateFiles.cs
+\Code\Assets\tools\Custumization\CreateFiles.cs.meta
+\Code\Assets\tools\Custumization\Shortcuts.cs
+\Code\Assets\tools\Custumization\Shortcuts.cs.meta
+\Code\Assets\tools\Resources\PointToPoint.prefab
+\Code\Assets\tools\Resources\PointToPoint.prefab.meta
+\Code\Assets\tools\Resources\Zone2D.prefab
+\Code\Assets\tools\Resources\Zone2D.prefab.meta
+\Code\Assets\tools\WillBeAssimilated\Camera.meta
+\Code\Assets\tools\WillBeAssimilated\Cursor.meta
+\Code\Assets\tools\WillBeAssimilated\Destroyer.meta
+\Code\Assets\tools\WillBeAssimilated\GIF.meta
+\Code\Assets\tools\WillBeAssimilated\Google.meta
+\Code\Assets\tools\WillBeAssimilated\Level.meta
+\Code\Assets\tools\WillBeAssimilated\Maybe.meta
+\Code\Assets\tools\WillBeAssimilated\Menu3D.meta
+\Code\Assets\tools\WillBeAssimilated\Move.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection.meta
+\Code\Assets\tools\WillBeAssimilated\MoveObject.meta
+\Code\Assets\tools\WillBeAssimilated\Sound.meta
+\Code\Assets\tools\WillBeAssimilated\Utils.meta
+\Code\Assets\tools\WillBeAssimilated\YesNo.meta
+\Code\Assets\tools\WillBeAssimilated\Zone.meta
+\Code\Assets\_PROGRESS_\WalkPattern\Walk.cs
+\Code\Assets\_PROGRESS_\WalkPattern\Walk.cs.meta
+\Code\Assets\_WalkDemo_\scene\StepRotAndZoneWalk.unity
+\Code\Assets\_WalkDemo_\scene\StepRotAndZoneWalk.unity.meta
+\Code\Assets\_WalkDemo_\scene\StepWalk.unity
+\Code\Assets\_WalkDemo_\scene\StepWalk.unity.meta
+\Code\Assets\_WalkDemo_\scene\ZoneWalk.unity
+\Code\Assets\_WalkDemo_\scene\ZoneWalk.unity.meta
+\Code\Assets\__Good__\WalkByStep\FeetToImprove.meta
+\Code\Assets\BoughtAsset\Explosif\Materials\Air-Bomb-tex.mat
+\Code\Assets\BoughtAsset\Explosif\Materials\Air-Bomb-tex.mat.meta
+\Code\Assets\BoughtAsset\Explosif\Materials\Bomb-tex.mat
+\Code\Assets\BoughtAsset\Explosif\Materials\Bomb-tex.mat.meta
+\Code\Assets\BoughtAsset\Explosif\Materials\Bullet-tex.mat
+\Code\Assets\BoughtAsset\Explosif\Materials\Bullet-tex.mat.meta
+\Code\Assets\BoughtAsset\Explosif\Materials\Caustic-Bomb-tex.mat
+\Code\Assets\BoughtAsset\Explosif\Materials\Caustic-Bomb-tex.mat.meta
+\Code\Assets\BoughtAsset\Explosif\Materials\Crate-Explosions-tex.mat
+\Code\Assets\BoughtAsset\Explosif\Materials\Crate-Explosions-tex.mat.meta
+\Code\Assets\BoughtAsset\Explosif\Materials\Crate-TNT-tex.mat
+\Code\Assets\BoughtAsset\Explosif\Materials\Crate-TNT-tex.mat.meta
+\Code\Assets\BoughtAsset\Explosif\Materials\Dynamite-bomb-tex.mat
+\Code\Assets\BoughtAsset\Explosif\Materials\Dynamite-bomb-tex.mat.meta
+\Code\Assets\BoughtAsset\Explosif\Materials\Dynamite-stick-tex.mat
+\Code\Assets\BoughtAsset\Explosif\Materials\Dynamite-stick-tex.mat.meta
+\Code\Assets\BoughtAsset\Explosif\Materials\Grenade-tex.mat
+\Code\Assets\BoughtAsset\Explosif\Materials\Grenade-tex.mat.meta
+\Code\Assets\BoughtAsset\Explosif\Materials\Landmine-tex.mat
+\Code\Assets\BoughtAsset\Explosif\Materials\Landmine-tex.mat.meta
+\Code\Assets\BoughtAsset\Explosif\Materials\TNT-crate-tex.mat
+\Code\Assets\BoughtAsset\Explosif\Materials\TNT-crate-tex.mat.meta
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_2_crooked.obj
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_2_crooked.obj.meta
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_2_crooked_w_post.obj
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_2_crooked_w_post.obj.meta
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_2_postONLY.obj
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_2_postONLY.obj.meta
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_2_straight.obj
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_2_straight.obj.meta
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_2_straight_w_post.obj
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_2_straight_w_post.obj.meta
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_3_crooked.obj
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_3_crooked.obj.meta
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_3_straight.obj
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_3_straight.obj.meta
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_3_straight_w_crooked_post.obj
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_3_straight_w_crooked_post.obj.meta
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_3_straight_w_straight_post.obj
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_3_straight_w_straight_post.obj.meta
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_longpost_entrance.obj
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_longpost_entrance.obj.meta
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_longpost_entrance_beams_bent.obj
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_longpost_entrance_beams_bent.obj.meta
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_longpost_ONLY.obj
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_longpost_ONLY.obj.meta
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_post.obj
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_post.obj.meta
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_post_w_1beam.obj
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_post_w_1beam.obj.meta
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_post_w_1beam_middle.obj
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_post_w_1beam_middle.obj.meta
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_post_w_2beams.obj
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_post_w_2beams.obj.meta
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_post_w_2beams_broken.obj
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_post_w_2beams_broken.obj.meta
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_post_w_2beams_opening.obj
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Farm_Fence_post_w_2beams_opening.obj.meta
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Materials.meta
+\Code\Assets\BoughtAsset\Fence Construction Kit\Textures\Farm_Fence_diffuse.tga
+\Code\Assets\BoughtAsset\Fence Construction Kit\Textures\Farm_Fence_diffuse.tga.meta
+\Code\Assets\BoughtAsset\Fence Construction Kit\Textures\Farm_Fence_diffuse2.tga
+\Code\Assets\BoughtAsset\Fence Construction Kit\Textures\Farm_Fence_diffuse2.tga.meta
+\Code\Assets\BoughtAsset\Fence Construction Kit\Textures\Farm_Fence_diffuse3.tga
+\Code\Assets\BoughtAsset\Fence Construction Kit\Textures\Farm_Fence_diffuse3.tga.meta
+\Code\Assets\BoughtAsset\Fence Construction Kit\Textures\Farm_Fence_diffuse4.tga
+\Code\Assets\BoughtAsset\Fence Construction Kit\Textures\Farm_Fence_diffuse4.tga.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\Explosions.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\MISC_FX.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Explosions.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Fire.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Smoke.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Textures\decal_01.tga
+\Code\Assets\BoughtAsset\iMG Explosion FX\Textures\decal_01.tga.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Textures\expl_001.tga
+\Code\Assets\BoughtAsset\iMG Explosion FX\Textures\expl_001.tga.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Textures\expl_002.tga
+\Code\Assets\BoughtAsset\iMG Explosion FX\Textures\expl_002.tga.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Textures\expl_003.tga
+\Code\Assets\BoughtAsset\iMG Explosion FX\Textures\expl_003.tga.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Textures\expl_004.tga
+\Code\Assets\BoughtAsset\iMG Explosion FX\Textures\expl_004.tga.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Textures\expl_005.tga
+\Code\Assets\BoughtAsset\iMG Explosion FX\Textures\expl_005.tga.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Textures\expl_006.tga
+\Code\Assets\BoughtAsset\iMG Explosion FX\Textures\expl_006.tga.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Textures\expl_007.tga
+\Code\Assets\BoughtAsset\iMG Explosion FX\Textures\expl_007.tga.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Textures\expl_008.tga
+\Code\Assets\BoughtAsset\iMG Explosion FX\Textures\expl_008.tga.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Textures\expl_009.tga
+\Code\Assets\BoughtAsset\iMG Explosion FX\Textures\expl_009.tga.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Textures\flare_01.tga
+\Code\Assets\BoughtAsset\iMG Explosion FX\Textures\flare_01.tga.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Textures\flare_02.tga
+\Code\Assets\BoughtAsset\iMG Explosion FX\Textures\flare_02.tga.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Textures\ring_01.tga
+\Code\Assets\BoughtAsset\iMG Explosion FX\Textures\ring_01.tga.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Textures\smoke_01.tga
+\Code\Assets\BoughtAsset\iMG Explosion FX\Textures\smoke_01.tga.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Textures\spark_01.tga
+\Code\Assets\BoughtAsset\iMG Explosion FX\Textures\spark_01.tga.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\_Source\iMG Explosion FX sources.zip
+\Code\Assets\BoughtAsset\iMG Explosion FX\_Source\iMG Explosion FX sources.zip.meta
+\Code\Assets\BoughtAsset\Tree\V1\Materials.meta
+\Code\Assets\BoughtAsset\Tree\V1\models.meta
+\Code\Assets\BoughtAsset\Tree\V1\scene.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack.meta
+\Code\Assets\Kinect\Asset\Materials\rainbowMan_texture.mat
+\Code\Assets\Kinect\Asset\Materials\rainbowMan_texture.mat.meta
+\Code\Assets\Kinect\Asset\Prefabs\Keyboard.meta
+\Code\Assets\Kinect\Asset\Prefabs\KinectPointMan.prefab
+\Code\Assets\Kinect\Asset\Prefabs\KinectPointMan.prefab.meta
+\Code\Assets\Kinect\Asset\Prefabs\Materials.meta
+\Code\Assets\Kinect\Asset\Prefabs\RainbowMan.fbx
+\Code\Assets\Kinect\Asset\Prefabs\RainbowMan.fbx.meta
+\Code\Assets\Kinect\Asset\Prefabs\rainbowMan_v6.mb
+\Code\Assets\Kinect\Asset\Prefabs\rainbowMan_v6.mb.meta
+\Code\Assets\Kinect\Asset\Prefabs\rainbowMan_v6.prefab
+\Code\Assets\Kinect\Asset\Prefabs\rainbowMan_v6.prefab.meta
+\Code\Assets\Kinect\Asset\Shaders\Normal-Diffuse.shader
+\Code\Assets\Kinect\Asset\Shaders\Normal-Diffuse.shader.meta
+\Code\Assets\Kinect\Asset\Textures\rainbowMan_texture.jpg
+\Code\Assets\Kinect\Asset\Textures\rainbowMan_texture.jpg.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\KinectAvatarsDemo.unity
+\Code\Assets\Kinect\Demo\AvatarsDemo\KinectAvatarsDemo.unity.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\PointMan.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\Skyboxes.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels.meta
+\Code\Assets\Kinect\Demo\GesturesDemo\KinectGesturesDemo.unity
+\Code\Assets\Kinect\Demo\GesturesDemo\KinectGesturesDemo.unity.meta
+\Code\Assets\Kinect\Demo\GesturesDemo\Materials.meta
+\Code\Assets\Kinect\Demo\GesturesDemo\Scripts.meta
+\Code\Assets\Kinect\Demo\GesturesDemo\SlideTextures.meta
+\Code\Assets\Kinect\Demo\OverlayDemo\KinectOverlayDemo.unity
+\Code\Assets\Kinect\Demo\OverlayDemo\KinectOverlayDemo.unity.meta
+\Code\Assets\Kinect\Demo\OverlayDemo\Materials.meta
+\Code\Assets\Kinect\Demo\OverlayDemo\Scripts.meta
+\Code\Assets\Kinect\KinectScripts\Extras\LoadMainLevel.cs
+\Code\Assets\Kinect\KinectScripts\Extras\LoadMainLevel.cs.meta
+\Code\Assets\Kinect\KinectScripts\Extras\MouseControl.cs
+\Code\Assets\Kinect\KinectScripts\Extras\MouseControl.cs.meta
+\Code\Assets\Kinect\KinectScripts\Extras\SetSceneAvatars.cs
+\Code\Assets\Kinect\KinectScripts\Extras\SetSceneAvatars.cs.meta
+\Code\Assets\Kinect\KinectScripts\Extras\SimpleGestureListener.cs
+\Code\Assets\Kinect\KinectScripts\Extras\SimpleGestureListener.cs.meta
+\Code\Assets\Kinect\KinectScripts\Filters\BoneOrientationsConstraint.cs
+\Code\Assets\Kinect\KinectScripts\Filters\BoneOrientationsConstraint.cs.meta
+\Code\Assets\Kinect\KinectScripts\Filters\BoneOrientationsFilter.cs
+\Code\Assets\Kinect\KinectScripts\Filters\BoneOrientationsFilter.cs.meta
+\Code\Assets\Kinect\KinectScripts\Filters\ClippedLegsFilter.cs
+\Code\Assets\Kinect\KinectScripts\Filters\ClippedLegsFilter.cs.meta
+\Code\Assets\Kinect\KinectScripts\Filters\JointPositionsFilter.cs
+\Code\Assets\Kinect\KinectScripts\Filters\JointPositionsFilter.cs.meta
+\Code\Assets\Kinect\KinectScripts\Filters\KinectHelper.cs
+\Code\Assets\Kinect\KinectScripts\Filters\KinectHelper.cs.meta
+\Code\Assets\Kinect\KinectScripts\Filters\SelfIntersectionConstraint.cs
+\Code\Assets\Kinect\KinectScripts\Filters\SelfIntersectionConstraint.cs.meta
+\Code\Assets\Kinect\KinectScripts\Filters\TimedLerp.cs
+\Code\Assets\Kinect\KinectScripts\Filters\TimedLerp.cs.meta
+\Code\Assets\Kinect\KinectScripts\Filters\TrackingStateFilter.cs
+\Code\Assets\Kinect\KinectScripts\Filters\TrackingStateFilter.cs.meta
+\Code\Assets\Kinect\Script\Kinect\KinectImgControllers.meta
+\Code\Assets\Kinect\Script\Kinect\KinectModelControllers.meta
+\Code\Assets\Kinect\Script\Kinect\KinectWrapper.meta
+\Code\Assets\ManRigModele\Rayman 3\Materials\rayman.mat
+\Code\Assets\ManRigModele\Rayman 3\Materials\rayman.mat.meta
+\Code\Assets\ManRigModele\Rayman 3\Materials\Rayman_3.mat
+\Code\Assets\ManRigModele\Rayman 3\Materials\Rayman_3.mat.meta
+\Code\Assets\ManRigModele\Taiki\Materials\diss_00.mat
+\Code\Assets\ManRigModele\Taiki\Materials\diss_00.mat.meta
+\Code\Assets\ManRigModele\Taiki\Materials\diss_01.mat
+\Code\Assets\ManRigModele\Taiki\Materials\diss_01.mat.meta
+\Code\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter.meta
+\Code\Assets\Standard Assets\Character Controllers\Sources\Scripts.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\DawnDusk.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Eerie.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\MoonShine.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Overcast1.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Overcast2.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\StarryNight.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Sunny2.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Sunny3.meta
+\Code\Assets\Standard Assets\Terrain Assets\Terrain Grass\Grass.psd
+\Code\Assets\Standard Assets\Terrain Assets\Terrain Grass\Grass.psd.meta
+\Code\Assets\Standard Assets\Terrain Assets\Terrain Grass\Grass2.psd
+\Code\Assets\Standard Assets\Terrain Assets\Terrain Grass\Grass2.psd.meta
+\Code\Assets\Standard Assets\Terrain Assets\Terrain Textures\Cliff (Layered Rock).psd
+\Code\Assets\Standard Assets\Terrain Assets\Terrain Textures\Cliff (Layered Rock).psd.meta
+\Code\Assets\Standard Assets\Terrain Assets\Terrain Textures\GoodDirt.psd
+\Code\Assets\Standard Assets\Terrain Assets\Terrain Textures\GoodDirt.psd.meta
+\Code\Assets\Standard Assets\Terrain Assets\Terrain Textures\Grass (Hill).psd
+\Code\Assets\Standard Assets\Terrain Assets\Terrain Textures\Grass (Hill).psd.meta
+\Code\Assets\Standard Assets\Terrain Assets\Terrain Textures\Grass&Rock.psd
+\Code\Assets\Standard Assets\Terrain Assets\Terrain Textures\Grass&Rock.psd.meta
+\Code\Assets\Standard Assets\Terrain Assets\Trees Ambient-Occlusion\Palm.meta
+\Code\Assets\Standard Assets\Windows\Kinect\KinectWrapper.cs
+\Code\Assets\Standard Assets\Windows\Kinect\KinectWrapper.cs.meta
+\Code\Assets\Standard Assets\Windows\Kinect\KinectWrapper.HandCoded.cs
+\Code\Assets\Standard Assets\Windows\Kinect\KinectWrapper.HandCoded.cs.meta
+\Code\Assets\tools\Code\EnumUsefull\CardinalPoints.cs
+\Code\Assets\tools\Code\EnumUsefull\CardinalPoints.cs.meta
+\Code\Assets\tools\Code\QuickScript\CameraFollowPlayer.cs
+\Code\Assets\tools\Code\QuickScript\CameraFollowPlayer.cs.meta
+\Code\Assets\tools\Code\QuickScript\LifeTime.cs
+\Code\Assets\tools\Code\QuickScript\LifeTime.cs.meta
+\Code\Assets\tools\Code\Tools\Component.meta
+\Code\Assets\tools\Code\Tools\GUI.meta
+\Code\Assets\tools\Code\Tools\Input.meta
+\Code\Assets\tools\Code\Tools\Measure.meta
+\Code\Assets\tools\Code\Tools\MenuPosition.meta
+\Code\Assets\tools\Code\Tools\PixelWork.meta
+\Code\Assets\tools\Code\Tools\Refresher.meta
+\Code\Assets\tools\Code\Tools\UnityPlus.meta
+\Code\Assets\tools\Code\Tools\Utility.meta
+\Code\Assets\tools\WillBeAssimilated\Camera\WolfenFollowCam.cs
+\Code\Assets\tools\WillBeAssimilated\Camera\WolfenFollowCam.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Cursor\Cursor.cs
+\Code\Assets\tools\WillBeAssimilated\Cursor\Cursor.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Cursor\Cursor001.png
+\Code\Assets\tools\WillBeAssimilated\Cursor\Cursor001.png.meta
+\Code\Assets\tools\WillBeAssimilated\Cursor\Cursor002.png
+\Code\Assets\tools\WillBeAssimilated\Cursor\Cursor002.png.meta
+\Code\Assets\tools\WillBeAssimilated\Cursor\Editor.meta
+\Code\Assets\tools\WillBeAssimilated\Cursor\Exemple.meta
+\Code\Assets\tools\WillBeAssimilated\Cursor\ICursorListner.cs
+\Code\Assets\tools\WillBeAssimilated\Cursor\ICursorListner.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Cursor\left_hand_green.png
+\Code\Assets\tools\WillBeAssimilated\Cursor\left_hand_green.png.meta
+\Code\Assets\tools\WillBeAssimilated\Cursor\left_hand_orange.png
+\Code\Assets\tools\WillBeAssimilated\Cursor\left_hand_orange.png.meta
+\Code\Assets\tools\WillBeAssimilated\Cursor\Material.meta
+\Code\Assets\tools\WillBeAssimilated\Cursor\OculusCursor.png
+\Code\Assets\tools\WillBeAssimilated\Cursor\OculusCursor.png.meta
+\Code\Assets\tools\WillBeAssimilated\Cursor\Prefab.meta
+\Code\Assets\tools\WillBeAssimilated\Cursor\right_hand_green.png
+\Code\Assets\tools\WillBeAssimilated\Cursor\right_hand_green.png.meta
+\Code\Assets\tools\WillBeAssimilated\Cursor\right_hand_orange.png
+\Code\Assets\tools\WillBeAssimilated\Cursor\right_hand_orange.png.meta
+\Code\Assets\tools\WillBeAssimilated\Cursor\TwinCursorsBehavior.cs
+\Code\Assets\tools\WillBeAssimilated\Cursor\TwinCursorsBehavior.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Destroyer\DoNotDestroyAtLoad.cs
+\Code\Assets\tools\WillBeAssimilated\Destroyer\DoNotDestroyAtLoad.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Destroyer\SingletonKingMurderer.cs
+\Code\Assets\tools\WillBeAssimilated\Destroyer\SingletonKingMurderer.cs.meta
+\Code\Assets\tools\WillBeAssimilated\GIF\TextureAnimation.cs
+\Code\Assets\tools\WillBeAssimilated\GIF\TextureAnimation.cs.meta
+\Code\Assets\tools\WillBeAssimilated\GIF\TextureToApply.cs
+\Code\Assets\tools\WillBeAssimilated\GIF\TextureToApply.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Google\GoogleTranslateWindow.cs
+\Code\Assets\tools\WillBeAssimilated\Google\GoogleTranslateWindow.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Level\ActivateWhenPlay.cs
+\Code\Assets\tools\WillBeAssimilated\Level\ActivateWhenPlay.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Level\GameOverTimer.cs
+\Code\Assets\tools\WillBeAssimilated\Level\GameOverTimer.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Level\LevelManager.cs
+\Code\Assets\tools\WillBeAssimilated\Level\LevelManager.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Level\QuitScript.cs
+\Code\Assets\tools\WillBeAssimilated\Level\QuitScript.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Level\RestartScript.cs
+\Code\Assets\tools\WillBeAssimilated\Level\RestartScript.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Level\StartPoint.cs
+\Code\Assets\tools\WillBeAssimilated\Level\StartPoint.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Maybe\KinectAutoLink.cs
+\Code\Assets\tools\WillBeAssimilated\Maybe\KinectAutoLink.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Maybe\Slider3D.cs
+\Code\Assets\tools\WillBeAssimilated\Maybe\Slider3D.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Maybe\StartGameWhenCalibrationOk.cs
+\Code\Assets\tools\WillBeAssimilated\Maybe\StartGameWhenCalibrationOk.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Maybe\StartOfLevel.cs
+\Code\Assets\tools\WillBeAssimilated\Maybe\StartOfLevel.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Maybe\StartWhenBodyReady.cs
+\Code\Assets\tools\WillBeAssimilated\Maybe\StartWhenBodyReady.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Maybe\UsefullToClean.meta
+\Code\Assets\tools\WillBeAssimilated\Menu3D\DisplayMenu.cs
+\Code\Assets\tools\WillBeAssimilated\Menu3D\DisplayMenu.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Menu3D\DraftMusicSetOnSlider.cs
+\Code\Assets\tools\WillBeAssimilated\Menu3D\DraftMusicSetOnSlider.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Menu3D\DraftSoundSetOnSlider.cs
+\Code\Assets\tools\WillBeAssimilated\Menu3D\DraftSoundSetOnSlider.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Menu3D\MainMenuFirstTime.cs
+\Code\Assets\tools\WillBeAssimilated\Menu3D\MainMenuFirstTime.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Menu3D\Menu3D.cs
+\Code\Assets\tools\WillBeAssimilated\Menu3D\Menu3D.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Menu3D\MenuSoundInput.cs
+\Code\Assets\tools\WillBeAssimilated\Menu3D\MenuSoundInput.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Move\Editor.meta
+\Code\Assets\tools\WillBeAssimilated\Move\MovableCube.cs
+\Code\Assets\tools\WillBeAssimilated\Move\MovableCube.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Move\MovementsAndPositions.cs
+\Code\Assets\tools\WillBeAssimilated\Move\MovementsAndPositions.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Cube.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Point.meta
+\Code\Assets\tools\WillBeAssimilated\MoveObject\BodyMoverV1.cs
+\Code\Assets\tools\WillBeAssimilated\MoveObject\BodyMoverV1.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveObject\BodyMoverV2.cs
+\Code\Assets\tools\WillBeAssimilated\MoveObject\BodyMoverV2.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveObject\DefaultMovable.cs
+\Code\Assets\tools\WillBeAssimilated\MoveObject\DefaultMovable.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveObject\DefaultRotable.cs
+\Code\Assets\tools\WillBeAssimilated\MoveObject\DefaultRotable.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveObject\DefaultScalable.cs
+\Code\Assets\tools\WillBeAssimilated\MoveObject\DefaultScalable.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveObject\Editor.meta
+\Code\Assets\tools\WillBeAssimilated\MoveObject\IMovable.cs
+\Code\Assets\tools\WillBeAssimilated\MoveObject\IMovable.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveObject\IRotable.cs
+\Code\Assets\tools\WillBeAssimilated\MoveObject\IRotable.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveObject\IScalable.cs
+\Code\Assets\tools\WillBeAssimilated\MoveObject\IScalable.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveObject\Movable.cs
+\Code\Assets\tools\WillBeAssimilated\MoveObject\Movable.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveObject\Mover.cs
+\Code\Assets\tools\WillBeAssimilated\MoveObject\Mover.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveObject\Rotable.cs
+\Code\Assets\tools\WillBeAssimilated\MoveObject\Rotable.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveObject\Scalable.cs
+\Code\Assets\tools\WillBeAssimilated\MoveObject\Scalable.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Sound\Editor.meta
+\Code\Assets\tools\WillBeAssimilated\Sound\PrefrenceSoundVolume.cs
+\Code\Assets\tools\WillBeAssimilated\Sound\PrefrenceSoundVolume.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Sound\QuickSoundAvailable.cs
+\Code\Assets\tools\WillBeAssimilated\Sound\QuickSoundAvailable.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Sound\Sound.cs
+\Code\Assets\tools\WillBeAssimilated\Sound\Sound.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Utils\Triangulation.cs
+\Code\Assets\tools\WillBeAssimilated\Utils\Triangulation.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Utils\Utility.cs
+\Code\Assets\tools\WillBeAssimilated\Utils\Utility.cs.meta
+\Code\Assets\tools\WillBeAssimilated\YesNo\YesNoDetector.cs
+\Code\Assets\tools\WillBeAssimilated\YesNo\YesNoDetector.cs.meta
+\Code\Assets\tools\WillBeAssimilated\YesNo\YesNoQuickView.cs
+\Code\Assets\tools\WillBeAssimilated\YesNo\YesNoQuickView.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Zone\InitiatePlayerWhenStart.cs
+\Code\Assets\tools\WillBeAssimilated\Zone\InitiatePlayerWhenStart.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Zone\MoveZoneActivator.cs
+\Code\Assets\tools\WillBeAssimilated\Zone\MoveZoneActivator.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Zone\PlayerMove.cs
+\Code\Assets\tools\WillBeAssimilated\Zone\PlayerMove.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Zone\PlayerMoveBasedOnBody.cs
+\Code\Assets\tools\WillBeAssimilated\Zone\PlayerMoveBasedOnBody.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Zone\RotationBasedOnZone.cs
+\Code\Assets\tools\WillBeAssimilated\Zone\RotationBasedOnZone.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Zone\RotationZoneActivator.cs
+\Code\Assets\tools\WillBeAssimilated\Zone\RotationZoneActivator.cs.meta
+\Code\Assets\__Good__\WalkByStep\FeetToImprove\Feet.cs
+\Code\Assets\__Good__\WalkByStep\FeetToImprove\Feet.cs.meta
+\Code\Assets\__Good__\WalkByStep\FeetToImprove\FeetViewer.cs
+\Code\Assets\__Good__\WalkByStep\FeetToImprove\FeetViewer.cs.meta
+\Code\Assets\__Good__\WalkByStep\FeetToImprove\MoveOnFeetStep.cs
+\Code\Assets\__Good__\WalkByStep\FeetToImprove\MoveOnFeetStep.cs.meta
+\Code\Assets\__Good__\WalkByStep\FeetToImprove\StepObserver.cs
+\Code\Assets\__Good__\WalkByStep\FeetToImprove\StepObserver.cs.meta
+\Code\Assets\__Good__\WalkByStep\FeetToImprove\WalkStepPattern.cs
+\Code\Assets\__Good__\WalkByStep\FeetToImprove\WalkStepPattern.cs.meta
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Materials\DefaultMat.mat
+\Code\Assets\BoughtAsset\Fence Construction Kit\Meshes\Materials\DefaultMat.mat.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\Explosions\expl_01.mat
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\Explosions\expl_01.mat.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\Explosions\expl_02.mat
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\Explosions\expl_02.mat.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\Explosions\expl_03.mat
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\Explosions\expl_03.mat.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\Explosions\expl_04.mat
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\Explosions\expl_04.mat.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\Explosions\expl_05.mat
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\Explosions\expl_05.mat.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\Explosions\expl_06.mat
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\Explosions\expl_06.mat.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\Explosions\expl_07.mat
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\Explosions\expl_07.mat.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\Explosions\expl_08.mat
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\Explosions\expl_08.mat.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\Explosions\expl_09.mat
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\Explosions\expl_09.mat.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\MISC_FX\Decal_01.mat
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\MISC_FX\Decal_01.mat.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\MISC_FX\Flare_01.mat
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\MISC_FX\Flare_01.mat.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\MISC_FX\Flare_02.mat
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\MISC_FX\Flare_02.mat.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\MISC_FX\Psys_Smoke_01.mat
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\MISC_FX\Psys_Smoke_01.mat.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\MISC_FX\Psys_Spark_01.mat
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\MISC_FX\Psys_Spark_01.mat.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\MISC_FX\Ring_01.mat
+\Code\Assets\BoughtAsset\iMG Explosion FX\Materials\MISC_FX\Ring_01.mat.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Explosions\Explosion_01.prefab
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Explosions\Explosion_01.prefab.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Explosions\Explosion_02.prefab
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Explosions\Explosion_02.prefab.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Explosions\Explosion_03.prefab
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Explosions\Explosion_03.prefab.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Explosions\Explosion_04.prefab
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Explosions\Explosion_04.prefab.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Explosions\Explosion_05.prefab
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Explosions\Explosion_05.prefab.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Explosions\Explosion_06.prefab
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Explosions\Explosion_06.prefab.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Explosions\Explosion_07.prefab
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Explosions\Explosion_07.prefab.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Explosions\Explosion_08.prefab
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Explosions\Explosion_08.prefab.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Explosions\Sheet_Gallery.prefab
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Explosions\Sheet_Gallery.prefab.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Fire\Fire_01.prefab
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Fire\Fire_01.prefab.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Fire\Fire_02.prefab
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Fire\Fire_02.prefab.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Fire\Fire_03.prefab
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Fire\Fire_03.prefab.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Fire\Fire_04.prefab
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Fire\Fire_04.prefab.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Smoke\Smoke_01.prefab
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Smoke\Smoke_01.prefab.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Smoke\Smoke_02.prefab
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Smoke\Smoke_02.prefab.meta
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Smoke\Smoke_03.prefab
+\Code\Assets\BoughtAsset\iMG Explosion FX\Prefabs\Smoke\Smoke_03.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm.meta
+\Code\Assets\BoughtAsset\Tree\V1\scene\scene trees.unity
+\Code\Assets\BoughtAsset\Tree\V1\scene\scene trees.unity.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Materials.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Models.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\SimpleTreeDemo.unity
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\SimpleTreeDemo.unity.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\SimpleTree_01.prefab
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\SimpleTree_01.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\SimpleTree_02.prefab
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\SimpleTree_02.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\SimpleTree_03.prefab
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\SimpleTree_03.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\SimpleTree_04.prefab
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\SimpleTree_04.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\SimpleTree_05.prefab
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\SimpleTree_05.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\SimpleTree_06.prefab
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\SimpleTree_06.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\SimpleTree_07.prefab
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\SimpleTree_07.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\SimpleTree_08.prefab
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\SimpleTree_08.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\SimpleTree_09.prefab
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\SimpleTree_09.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\SimpleTree_10.prefab
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\SimpleTree_10.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\SimpleTree_11.prefab
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\SimpleTree_11.prefab.meta
+\Code\Assets\Kinect\Asset\Prefabs\Materials\paper_tex.mat
+\Code\Assets\Kinect\Asset\Prefabs\Materials\paper_tex.mat.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\PointMan\ColorCube.fbm.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\PointMan\ColorCube.fbx
+\Code\Assets\Kinect\Demo\AvatarsDemo\PointMan\ColorCube.fbx.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\PointMan\ColorMaterial.mat
+\Code\Assets\Kinect\Demo\AvatarsDemo\PointMan\ColorMaterial.mat.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\PointMan\CubeMap.png
+\Code\Assets\Kinect\Demo\AvatarsDemo\PointMan\CubeMap.png.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\PointMan\Materials.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\PointMan\PointMan.prefab
+\Code\Assets\Kinect\Demo\AvatarsDemo\PointMan\PointMan.prefab.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\PointMan\PointManController.cs
+\Code\Assets\Kinect\Demo\AvatarsDemo\PointMan\PointManController.cs.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\PointMan\PointManYellow.prefab
+\Code\Assets\Kinect\Demo\AvatarsDemo\PointMan\PointManYellow.prefab.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\PointMan\YellowCube.prefab
+\Code\Assets\Kinect\Demo\AvatarsDemo\PointMan\YellowCube.prefab.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\Skyboxes\Sunny1 Skybox.mat
+\Code\Assets\Kinect\Demo\AvatarsDemo\Skyboxes\Sunny1 Skybox.mat.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\Skyboxes\Textures.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\Grid.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\U_Character.meta
+\Code\Assets\Kinect\Demo\GesturesDemo\Materials\Side1.mat
+\Code\Assets\Kinect\Demo\GesturesDemo\Materials\Side1.mat.meta
+\Code\Assets\Kinect\Demo\GesturesDemo\Materials\Side2.mat
+\Code\Assets\Kinect\Demo\GesturesDemo\Materials\Side2.mat.meta
+\Code\Assets\Kinect\Demo\GesturesDemo\Materials\Side3.mat
+\Code\Assets\Kinect\Demo\GesturesDemo\Materials\Side3.mat.meta
+\Code\Assets\Kinect\Demo\GesturesDemo\Materials\Side4.mat
+\Code\Assets\Kinect\Demo\GesturesDemo\Materials\Side4.mat.meta
+\Code\Assets\Kinect\Demo\GesturesDemo\Materials\Side5.mat
+\Code\Assets\Kinect\Demo\GesturesDemo\Materials\Side5.mat.meta
+\Code\Assets\Kinect\Demo\GesturesDemo\Materials\Side6.mat
+\Code\Assets\Kinect\Demo\GesturesDemo\Materials\Side6.mat.meta
+\Code\Assets\Kinect\Demo\GesturesDemo\Scripts\GestureListener.cs
+\Code\Assets\Kinect\Demo\GesturesDemo\Scripts\GestureListener.cs.meta
+\Code\Assets\Kinect\Demo\GesturesDemo\Scripts\PresentationScript.cs
+\Code\Assets\Kinect\Demo\GesturesDemo\Scripts\PresentationScript.cs.meta
+\Code\Assets\Kinect\Demo\GesturesDemo\SlideTextures\Slide01.jpg
+\Code\Assets\Kinect\Demo\GesturesDemo\SlideTextures\Slide01.jpg.meta
+\Code\Assets\Kinect\Demo\GesturesDemo\SlideTextures\Slide02.jpg
+\Code\Assets\Kinect\Demo\GesturesDemo\SlideTextures\Slide02.jpg.meta
+\Code\Assets\Kinect\Demo\GesturesDemo\SlideTextures\Slide03.gif
+\Code\Assets\Kinect\Demo\GesturesDemo\SlideTextures\Slide03.gif.meta
+\Code\Assets\Kinect\Demo\GesturesDemo\SlideTextures\Slide04.jpg
+\Code\Assets\Kinect\Demo\GesturesDemo\SlideTextures\Slide04.jpg.meta
+\Code\Assets\Kinect\Demo\GesturesDemo\SlideTextures\Slide05.jpg
+\Code\Assets\Kinect\Demo\GesturesDemo\SlideTextures\Slide05.jpg.meta
+\Code\Assets\Kinect\Demo\GesturesDemo\SlideTextures\Slide06.jpg
+\Code\Assets\Kinect\Demo\GesturesDemo\SlideTextures\Slide06.jpg.meta
+\Code\Assets\Kinect\Demo\GesturesDemo\SlideTextures\Slide07.jpg
+\Code\Assets\Kinect\Demo\GesturesDemo\SlideTextures\Slide07.jpg.meta
+\Code\Assets\Kinect\Demo\GesturesDemo\SlideTextures\Slide08.jpg
+\Code\Assets\Kinect\Demo\GesturesDemo\SlideTextures\Slide08.jpg.meta
+\Code\Assets\Kinect\Demo\GesturesDemo\SlideTextures\Slide09.jpg
+\Code\Assets\Kinect\Demo\GesturesDemo\SlideTextures\Slide09.jpg.meta
+\Code\Assets\Kinect\Demo\GesturesDemo\SlideTextures\Slide10.jpg
+\Code\Assets\Kinect\Demo\GesturesDemo\SlideTextures\Slide10.jpg.meta
+\Code\Assets\Kinect\Demo\OverlayDemo\Materials\OverlayMaterial.mat
+\Code\Assets\Kinect\Demo\OverlayDemo\Materials\OverlayMaterial.mat.meta
+\Code\Assets\Kinect\Demo\OverlayDemo\Materials\PlaneMaterial.mat
+\Code\Assets\Kinect\Demo\OverlayDemo\Materials\PlaneMaterial.mat.meta
+\Code\Assets\Kinect\Demo\OverlayDemo\Scripts\KinectOverlayer.cs
+\Code\Assets\Kinect\Demo\OverlayDemo\Scripts\KinectOverlayer.cs.meta
+\Code\Assets\Kinect\Script\Kinect\KinectImgControllers\DisplayColor.cs
+\Code\Assets\Kinect\Script\Kinect\KinectImgControllers\DisplayColor.cs.meta
+\Code\Assets\Kinect\Script\Kinect\KinectImgControllers\DisplayDepth.cs
+\Code\Assets\Kinect\Script\Kinect\KinectImgControllers\DisplayDepth.cs.meta
+\Code\Assets\Kinect\Script\Kinect\KinectModelControllers\KinectModelControllerV2.cs
+\Code\Assets\Kinect\Script\Kinect\KinectModelControllers\KinectModelControllerV2.cs.meta
+\Code\Assets\Kinect\Script\Kinect\KinectModelControllers\KinectPointController.cs
+\Code\Assets\Kinect\Script\Kinect\KinectModelControllers\KinectPointController.cs.meta
+\Code\Assets\Kinect\Script\Kinect\KinectWrapper\DepthWrapper.cs
+\Code\Assets\Kinect\Script\Kinect\KinectWrapper\DepthWrapper.cs.meta
+\Code\Assets\Kinect\Script\Kinect\KinectWrapper\DeviceOrEmulator.cs
+\Code\Assets\Kinect\Script\Kinect\KinectWrapper\DeviceOrEmulator.cs.meta
+\Code\Assets\Kinect\Script\Kinect\KinectWrapper\KinectEmulator.cs
+\Code\Assets\Kinect\Script\Kinect\KinectWrapper\KinectEmulator.cs.meta
+\Code\Assets\Kinect\Script\Kinect\KinectWrapper\KinectInterop.cs
+\Code\Assets\Kinect\Script\Kinect\KinectWrapper\KinectInterop.cs.meta
+\Code\Assets\Kinect\Script\Kinect\KinectWrapper\KinectRecorder.cs
+\Code\Assets\Kinect\Script\Kinect\KinectWrapper\KinectRecorder.cs.meta
+\Code\Assets\Kinect\Script\Kinect\KinectWrapper\KinectSensor.cs
+\Code\Assets\Kinect\Script\Kinect\KinectWrapper\KinectSensor.cs.meta
+\Code\Assets\Kinect\Script\Kinect\KinectWrapper\SkeletonWrapper.cs
+\Code\Assets\Kinect\Script\Kinect\KinectWrapper\SkeletonWrapper.cs.meta
+\Code\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Constructor.FBX
+\Code\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Constructor.FBX.meta
+\Code\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Materials.meta
+\Code\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Textures.meta
+\Code\Assets\Standard Assets\Character Controllers\Sources\Scripts\CharacterMotor.js
+\Code\Assets\Standard Assets\Character Controllers\Sources\Scripts\CharacterMotor.js.meta
+\Code\Assets\Standard Assets\Character Controllers\Sources\Scripts\FPSInputController.js
+\Code\Assets\Standard Assets\Character Controllers\Sources\Scripts\FPSInputController.js.meta
+\Code\Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs
+\Code\Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs.meta
+\Code\Assets\Standard Assets\Character Controllers\Sources\Scripts\PlatformInputController.js
+\Code\Assets\Standard Assets\Character Controllers\Sources\Scripts\PlatformInputController.js.meta
+\Code\Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonCamera.js
+\Code\Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonCamera.js.meta
+\Code\Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonController.js
+\Code\Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonController.js.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\DawnDusk\DawnDusk_back.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\DawnDusk\DawnDusk_back.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\DawnDusk\DawnDusk_down.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\DawnDusk\DawnDusk_down.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\DawnDusk\DawnDusk_front.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\DawnDusk\DawnDusk_front.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\DawnDusk\DawnDusk_left.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\DawnDusk\DawnDusk_left.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\DawnDusk\DawnDusk_right.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\DawnDusk\DawnDusk_right.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\DawnDusk\DawnDusk_up.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\DawnDusk\DawnDusk_up.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Eerie\Eerie_back.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\Eerie\Eerie_back.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Eerie\Eerie_down.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\Eerie\Eerie_down.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Eerie\Eerie_front.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\Eerie\Eerie_front.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Eerie\Eerie_left.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\Eerie\Eerie_left.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Eerie\Eerie_right.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\Eerie\Eerie_right.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Eerie\Eerie_up.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\Eerie\Eerie_up.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\MoonShine\MoonShine_back.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\MoonShine\MoonShine_back.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\MoonShine\MoonShine_down.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\MoonShine\MoonShine_down.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\MoonShine\MoonShine_front.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\MoonShine\MoonShine_front.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\MoonShine\MoonShine_left.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\MoonShine\MoonShine_left.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\MoonShine\MoonShine_right.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\MoonShine\MoonShine_right.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\MoonShine\MoonShine_up.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\MoonShine\MoonShine_up.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Overcast1\Overcast1_back.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\Overcast1\Overcast1_back.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Overcast1\Overcast1_down.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\Overcast1\Overcast1_down.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Overcast1\Overcast1_front.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\Overcast1\Overcast1_front.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Overcast1\Overcast1_left.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\Overcast1\Overcast1_left.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Overcast1\Overcast1_right.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\Overcast1\Overcast1_right.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Overcast1\Overcast1_up.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\Overcast1\Overcast1_up.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Overcast2\Overcast2_back.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\Overcast2\Overcast2_back.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Overcast2\Overcast2_down.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\Overcast2\Overcast2_down.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Overcast2\Overcast2_front.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\Overcast2\Overcast2_front.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Overcast2\Overcast2_left.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\Overcast2\Overcast2_left.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Overcast2\Overcast2_right.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\Overcast2\Overcast2_right.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Overcast2\Overcast2_up.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\Overcast2\Overcast2_up.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_back.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_back.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_down.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_down.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_front.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_front.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_left.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_left.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_right.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_right.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_up.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_up.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Sunny2\Sunny2_back.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\Sunny2\Sunny2_back.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Sunny2\Sunny2_down.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\Sunny2\Sunny2_down.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Sunny2\Sunny2_front.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\Sunny2\Sunny2_front.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Sunny2\Sunny2_left.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\Sunny2\Sunny2_left.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Sunny2\Sunny2_right.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\Sunny2\Sunny2_right.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Sunny2\Sunny2_up.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\Sunny2\Sunny2_up.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Sunny3\Sunny3_back.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\Sunny3\Sunny3_back.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Sunny3\Sunny3_down.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\Sunny3\Sunny3_down.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Sunny3\Sunny3_front.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\Sunny3\Sunny3_front.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Sunny3\Sunny3_left.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\Sunny3\Sunny3_left.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Sunny3\Sunny3_right.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\Sunny3\Sunny3_right.tif.meta
+\Code\Assets\Standard Assets\Skyboxes\Textures\Sunny3\Sunny3_up.tif
+\Code\Assets\Standard Assets\Skyboxes\Textures\Sunny3\Sunny3_up.tif.meta
+\Code\Assets\Standard Assets\Terrain Assets\Trees Ambient-Occlusion\Palm\Materials.meta
+\Code\Assets\Standard Assets\Terrain Assets\Trees Ambient-Occlusion\Palm\Palm.fbx
+\Code\Assets\Standard Assets\Terrain Assets\Trees Ambient-Occlusion\Palm\Palm.fbx.meta
+\Code\Assets\Standard Assets\Terrain Assets\Trees Ambient-Occlusion\Palm\PalmBark.psd
+\Code\Assets\Standard Assets\Terrain Assets\Trees Ambient-Occlusion\Palm\PalmBark.psd.meta
+\Code\Assets\Standard Assets\Terrain Assets\Trees Ambient-Occlusion\Palm\PalmBranch.psd
+\Code\Assets\Standard Assets\Terrain Assets\Trees Ambient-Occlusion\Palm\PalmBranch.psd.meta
+\Code\Assets\tools\Code\Tools\Component\Direction.cs
+\Code\Assets\tools\Code\Tools\Component\Direction.cs.meta
+\Code\Assets\tools\Code\Tools\GUI\BasicGUI.meta
+\Code\Assets\tools\Code\Tools\GUI\Texture.meta
+\Code\Assets\tools\Code\Tools\Input\MouseListener.meta
+\Code\Assets\tools\Code\Tools\Input\X360Controller.meta
+\Code\Assets\tools\Code\Tools\Measure\2D.meta
+\Code\Assets\tools\Code\Tools\Measure\3D.meta
+\Code\Assets\tools\Code\Tools\Measure\Coordinate.meta
+\Code\Assets\tools\Code\Tools\MenuPosition\MenuPosition.cs
+\Code\Assets\tools\Code\Tools\MenuPosition\MenuPosition.cs.meta
+\Code\Assets\tools\Code\Tools\MenuPosition\MenuPositionTool.cs
+\Code\Assets\tools\Code\Tools\MenuPosition\MenuPositionTool.cs.meta
+\Code\Assets\tools\Code\Tools\PixelWork\Drawing.cs
+\Code\Assets\tools\Code\Tools\PixelWork\Drawing.cs.meta
+\Code\Assets\tools\Code\Tools\Refresher\Editor.meta
+\Code\Assets\tools\Code\Tools\Refresher\Refresher.cs
+\Code\Assets\tools\Code\Tools\Refresher\Refresher.cs.meta
+\Code\Assets\tools\Code\Tools\UnityPlus\QuickUnityTrick.cs
+\Code\Assets\tools\Code\Tools\UnityPlus\QuickUnityTrick.cs.meta
+\Code\Assets\tools\Code\Tools\Utility\Store.cs
+\Code\Assets\tools\Code\Tools\Utility\Store.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Cursor\Editor\CursorInspector.cs
+\Code\Assets\tools\WillBeAssimilated\Cursor\Editor\CursorInspector.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Cursor\Exemple\CursorExemple.cs
+\Code\Assets\tools\WillBeAssimilated\Cursor\Exemple\CursorExemple.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Cursor\Exemple\MoveCursorsBehavior.cs
+\Code\Assets\tools\WillBeAssimilated\Cursor\Exemple\MoveCursorsBehavior.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Cursor\Exemple\MoveObjectWithCursor.cs
+\Code\Assets\tools\WillBeAssimilated\Cursor\Exemple\MoveObjectWithCursor.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Cursor\Material\GreenLine.mat
+\Code\Assets\tools\WillBeAssimilated\Cursor\Material\GreenLine.mat.meta
+\Code\Assets\tools\WillBeAssimilated\Cursor\Material\GunTarget.mat
+\Code\Assets\tools\WillBeAssimilated\Cursor\Material\GunTarget.mat.meta
+\Code\Assets\tools\WillBeAssimilated\Cursor\Material\LeftHand.mat
+\Code\Assets\tools\WillBeAssimilated\Cursor\Material\LeftHand.mat.meta
+\Code\Assets\tools\WillBeAssimilated\Cursor\Material\MouseCursor.mat
+\Code\Assets\tools\WillBeAssimilated\Cursor\Material\MouseCursor.mat.meta
+\Code\Assets\tools\WillBeAssimilated\Cursor\Material\OculusView.mat
+\Code\Assets\tools\WillBeAssimilated\Cursor\Material\OculusView.mat.meta
+\Code\Assets\tools\WillBeAssimilated\Cursor\Material\RightHand.mat
+\Code\Assets\tools\WillBeAssimilated\Cursor\Material\RightHand.mat.meta
+\Code\Assets\tools\WillBeAssimilated\Cursor\Prefab\Origine.prefab
+\Code\Assets\tools\WillBeAssimilated\Cursor\Prefab\Origine.prefab.meta
+\Code\Assets\tools\WillBeAssimilated\Maybe\UsefullToClean\BetweenPoint.cs
+\Code\Assets\tools\WillBeAssimilated\Maybe\UsefullToClean\BetweenPoint.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Maybe\UsefullToClean\DisplayFPS.cs
+\Code\Assets\tools\WillBeAssimilated\Maybe\UsefullToClean\DisplayFPS.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Maybe\UsefullToClean\FollowPoint.cs
+\Code\Assets\tools\WillBeAssimilated\Maybe\UsefullToClean\FollowPoint.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Maybe\UsefullToClean\GrowWithTime.cs
+\Code\Assets\tools\WillBeAssimilated\Maybe\UsefullToClean\GrowWithTime.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Maybe\UsefullToClean\Gun.cs
+\Code\Assets\tools\WillBeAssimilated\Maybe\UsefullToClean\Gun.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Maybe\UsefullToClean\HeartSound.cs
+\Code\Assets\tools\WillBeAssimilated\Maybe\UsefullToClean\HeartSound.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Maybe\UsefullToClean\MoveForward.cs
+\Code\Assets\tools\WillBeAssimilated\Maybe\UsefullToClean\MoveForward.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Maybe\UsefullToClean\MoveRainbowWithPoint.cs
+\Code\Assets\tools\WillBeAssimilated\Maybe\UsefullToClean\MoveRainbowWithPoint.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Maybe\UsefullToClean\PauseEditor.cs
+\Code\Assets\tools\WillBeAssimilated\Maybe\UsefullToClean\PauseEditor.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Move\Editor\MovAndPosInspector.cs
+\Code\Assets\tools\WillBeAssimilated\Move\Editor\MovAndPosInspector.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Body.cs
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Body.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\BodyImpl.cs
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\BodyImpl.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\BodySaveState.cs
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\BodySaveState.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Editor.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Hand.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Head.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Plus.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Cube\CubeZone.cs
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Cube\CubeZone.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Cube\Editor.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Cube\ICubeZone.cs
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Cube\ICubeZone.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Point\GreenZone.mat
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Point\GreenZone.mat.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Point\PointZone.cs
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Point\PointZone.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Point\PointZoneImpl.cs
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Point\PointZoneImpl.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Point\PointZoneObserver.cs
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Point\PointZoneObserver.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Point\YellowZone.mat
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Point\YellowZone.mat.meta
+\Code\Assets\tools\WillBeAssimilated\MoveObject\Editor\TriangulationInspector.cs
+\Code\Assets\tools\WillBeAssimilated\MoveObject\Editor\TriangulationInspector.cs.meta
+\Code\Assets\tools\WillBeAssimilated\Sound\Editor\QuickSoundInpsector.cs
+\Code\Assets\tools\WillBeAssimilated\Sound\Editor\QuickSoundInpsector.cs.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Materials\DemoGround.mat
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Materials\DemoGround.mat.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Materials\SimpleTree.png
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Materials\SimpleTree.png.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Materials\SimpleTreeDiffuse.mat
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Materials\SimpleTreeDiffuse.mat.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Materials\SimpleTreeShadow.mat
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Materials\SimpleTreeShadow.mat.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Materials\SimpleTreeShadowTexture.psd
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Materials\SimpleTreeShadowTexture.psd.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Materials\SimpleTreeUnlit.mat
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Materials\SimpleTreeUnlit.mat.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Models\Materials.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Models\SimplePlaneShadow.FBX
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Models\SimplePlaneShadow.FBX.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Models\SimpleTree_01.fbx
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Models\SimpleTree_01.fbx.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Models\SimpleTree_02.fbx
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Models\SimpleTree_02.fbx.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Models\SimpleTree_03.fbx
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Models\SimpleTree_03.fbx.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Models\SimpleTree_04.fbx
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Models\SimpleTree_04.fbx.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Models\SimpleTree_05.fbx
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Models\SimpleTree_05.fbx.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Models\SimpleTree_06.fbx
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Models\SimpleTree_06.fbx.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Models\SimpleTree_07.fbx
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Models\SimpleTree_07.fbx.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Models\SimpleTree_08.fbx
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Models\SimpleTree_08.fbx.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Models\SimpleTree_09.fbx
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Models\SimpleTree_09.fbx.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Models\SimpleTree_10.fbx
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Models\SimpleTree_10.fbx.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Models\SimpleTree_11.fbx
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Models\SimpleTree_11.fbx.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\PointMan\ColorCube.fbm\CubeMap.png
+\Code\Assets\Kinect\Demo\AvatarsDemo\PointMan\ColorCube.fbm\CubeMap.png.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\PointMan\Materials\CubeMap.mat
+\Code\Assets\Kinect\Demo\AvatarsDemo\PointMan\Materials\CubeMap.mat.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\PointMan\Materials\lambert1.mat
+\Code\Assets\Kinect\Demo\AvatarsDemo\PointMan\Materials\lambert1.mat.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\PointMan\Materials\YellowCube.mat
+\Code\Assets\Kinect\Demo\AvatarsDemo\PointMan\Materials\YellowCube.mat.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\Skyboxes\Textures\Sunny1.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\Grid\grid.fbx
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\Grid\grid.fbx.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\Grid\Materials.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\Grid\Textures.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\U_Character\Materials.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\U_Character\U_Character_Body-DIF.psd
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\U_Character\U_Character_Body-DIF.psd.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\U_Character\U_Character_Body-NM.png
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\U_Character\U_Character_Body-NM.png.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\U_Character\U_Character_Head-DIF.psd
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\U_Character\U_Character_Head-DIF.psd.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\U_Character\U_Character_Head-NM.png
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\U_Character\U_Character_Head-NM.png.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\U_Character\U_Character_REF.fbx
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\U_Character\U_Character_REF.fbx.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\U_Character\U_Char_Eye_DIF.psd
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\U_Character\U_Char_Eye_DIF.psd.meta
+\Code\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Materials\constructor_done.mat
+\Code\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Materials\constructor_done.mat.meta
+\Code\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Textures\constructor_diffuse.png
+\Code\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Textures\constructor_diffuse.png.meta
+\Code\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Textures\constructor_normals.png
+\Code\Assets\Standard Assets\Character Controllers\Sources\PrototypeCharacter\Textures\constructor_normals.png.meta
+\Code\Assets\Standard Assets\Terrain Assets\Trees Ambient-Occlusion\Palm\Materials\palmbark.mat
+\Code\Assets\Standard Assets\Terrain Assets\Trees Ambient-Occlusion\Palm\Materials\palmbark.mat.meta
+\Code\Assets\Standard Assets\Terrain Assets\Trees Ambient-Occlusion\Palm\Materials\palmbranch.mat
+\Code\Assets\Standard Assets\Terrain Assets\Trees Ambient-Occlusion\Palm\Materials\palmbranch.mat.meta
+\Code\Assets\tools\Code\Tools\GUI\BasicGUI\Elements.meta
+\Code\Assets\tools\Code\Tools\GUI\BasicGUI\GUI_Element.cs
+\Code\Assets\tools\Code\Tools\GUI\BasicGUI\GUI_Element.cs.meta
+\Code\Assets\tools\Code\Tools\GUI\BasicGUI\WithZone.meta
+\Code\Assets\tools\Code\Tools\GUI\Texture\BoutonDownJoystick.png
+\Code\Assets\tools\Code\Tools\GUI\Texture\BoutonDownJoystick.png.meta
+\Code\Assets\tools\Code\Tools\GUI\Texture\BoutonUpJoystick.png
+\Code\Assets\tools\Code\Tools\GUI\Texture\BoutonUpJoystick.png.meta
+\Code\Assets\tools\Code\Tools\GUI\Texture\GeneralBackgroundButton.png
+\Code\Assets\tools\Code\Tools\GUI\Texture\GeneralBackgroundButton.png.meta
+\Code\Assets\tools\Code\Tools\GUI\Texture\GreenBackgroundButton.png
+\Code\Assets\tools\Code\Tools\GUI\Texture\GreenBackgroundButton.png.meta
+\Code\Assets\tools\Code\Tools\GUI\Texture\Materials.meta
+\Code\Assets\tools\Code\Tools\GUI\Texture\RedBackgroundButton.png
+\Code\Assets\tools\Code\Tools\GUI\Texture\RedBackgroundButton.png.meta
+\Code\Assets\tools\Code\Tools\Input\MouseListener\Editor.meta
+\Code\Assets\tools\Code\Tools\Input\MouseListener\MouseButton.cs
+\Code\Assets\tools\Code\Tools\Input\MouseListener\MouseButton.cs.meta
+\Code\Assets\tools\Code\Tools\Input\X360Controller\Data.meta
+\Code\Assets\tools\Code\Tools\Input\X360Controller\Facade.meta
+\Code\Assets\tools\Code\Tools\Measure\2D\Editor.meta
+\Code\Assets\tools\Code\Tools\Measure\2D\I_Zone2D.cs
+\Code\Assets\tools\Code\Tools\Measure\2D\I_Zone2D.cs.meta
+\Code\Assets\tools\Code\Tools\Measure\2D\Zone2D.cs
+\Code\Assets\tools\Code\Tools\Measure\2D\Zone2D.cs.meta
+\Code\Assets\tools\Code\Tools\Measure\2D\Zone2DPoint.cs
+\Code\Assets\tools\Code\Tools\Measure\2D\Zone2DPoint.cs.meta
+\Code\Assets\tools\Code\Tools\Measure\3D\PointToPoint.meta
+\Code\Assets\tools\Code\Tools\Measure\Coordinate\Coordinate.cs
+\Code\Assets\tools\Code\Tools\Measure\Coordinate\Coordinate.cs.meta
+\Code\Assets\tools\Code\Tools\Refresher\Editor\RefresherEditor.cs
+\Code\Assets\tools\Code\Tools\Refresher\Editor\RefresherEditor.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\BodyCondition.cs
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\BodyCondition.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\BodyConditionWithLimit.cs
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\BodyConditionWithLimit.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\BodyPosition.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\Editor.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\Example.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\IBodyCondition.cs
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\IBodyCondition.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\Movement.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Editor\BodyInspector.cs
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Editor\BodyInspector.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Hand\CursorHand.cs
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Hand\CursorHand.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Head\OculusHead.cs
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Head\OculusHead.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Head\SimpleViewHead.cs
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Head\SimpleViewHead.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Plus\BodyMeasureSaver.cs
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Plus\BodyMeasureSaver.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Plus\HandFollowCursor.cs
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Plus\HandFollowCursor.cs.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\Materials.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\textures.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Models\Materials\No Name.mat
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Models\Materials\No Name.mat.meta
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Models\Materials\SimpleTree_01.mat
+\Code\Assets\BoughtAsset\Tree\V2\Low poly Fantasy Tree Pack\Models\Materials\SimpleTree_01.mat.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\Skyboxes\Textures\Sunny1\Sunny1_back.tif
+\Code\Assets\Kinect\Demo\AvatarsDemo\Skyboxes\Textures\Sunny1\Sunny1_back.tif.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\Skyboxes\Textures\Sunny1\Sunny1_down.tif
+\Code\Assets\Kinect\Demo\AvatarsDemo\Skyboxes\Textures\Sunny1\Sunny1_down.tif.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\Skyboxes\Textures\Sunny1\Sunny1_front.tif
+\Code\Assets\Kinect\Demo\AvatarsDemo\Skyboxes\Textures\Sunny1\Sunny1_front.tif.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\Skyboxes\Textures\Sunny1\Sunny1_left.tif
+\Code\Assets\Kinect\Demo\AvatarsDemo\Skyboxes\Textures\Sunny1\Sunny1_left.tif.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\Skyboxes\Textures\Sunny1\Sunny1_right.tif
+\Code\Assets\Kinect\Demo\AvatarsDemo\Skyboxes\Textures\Sunny1\Sunny1_right.tif.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\Skyboxes\Textures\Sunny1\Sunny1_up.tif
+\Code\Assets\Kinect\Demo\AvatarsDemo\Skyboxes\Textures\Sunny1\Sunny1_up.tif.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\Grid\Materials\lambert1.mat
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\Grid\Materials\lambert1.mat.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\Grid\Textures\grid.png
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\Grid\Textures\grid.png.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\U_Character\Materials\U_Character_Body-DIF.mat
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\U_Character\Materials\U_Character_Body-DIF.mat.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\U_Character\Materials\U_Character_Head-DIF.mat
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\U_Character\Materials\U_Character_Head-DIF.mat.meta
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\U_Character\Materials\U_Char_Eye_DIF.mat
+\Code\Assets\Kinect\Demo\AvatarsDemo\TestModels\U_Character\Materials\U_Char_Eye_DIF.mat.meta
+\Code\Assets\tools\Code\Tools\GUI\BasicGUI\Elements\GUI_Image.cs
+\Code\Assets\tools\Code\Tools\GUI\BasicGUI\Elements\GUI_Image.cs.meta
+\Code\Assets\tools\Code\Tools\GUI\BasicGUI\Elements\GUI_Text.cs
+\Code\Assets\tools\Code\Tools\GUI\BasicGUI\Elements\GUI_Text.cs.meta
+\Code\Assets\tools\Code\Tools\GUI\BasicGUI\WithZone\I_ZoneElement.cs
+\Code\Assets\tools\Code\Tools\GUI\BasicGUI\WithZone\I_ZoneElement.cs.meta
+\Code\Assets\tools\Code\Tools\GUI\BasicGUI\WithZone\ZoneElement.cs
+\Code\Assets\tools\Code\Tools\GUI\BasicGUI\WithZone\ZoneElement.cs.meta
+\Code\Assets\tools\Code\Tools\GUI\Texture\Materials\RedBackgroundButton.mat
+\Code\Assets\tools\Code\Tools\GUI\Texture\Materials\RedBackgroundButton.mat.meta
+\Code\Assets\tools\Code\Tools\Input\MouseListener\Editor\MouseButtonInspector.cs
+\Code\Assets\tools\Code\Tools\Input\MouseListener\Editor\MouseButtonInspector.cs.meta
+\Code\Assets\tools\Code\Tools\Input\X360Controller\Data\I_X360Data.cs
+\Code\Assets\tools\Code\Tools\Input\X360Controller\Data\I_X360Data.cs.meta
+\Code\Assets\tools\Code\Tools\Input\X360Controller\Data\I_X360InitData.cs
+\Code\Assets\tools\Code\Tools\Input\X360Controller\Data\I_X360InitData.cs.meta
+\Code\Assets\tools\Code\Tools\Input\X360Controller\Data\X360ControllerData.cs
+\Code\Assets\tools\Code\Tools\Input\X360Controller\Data\X360ControllerData.cs.meta
+\Code\Assets\tools\Code\Tools\Input\X360Controller\Data\X360UnityInit.cs
+\Code\Assets\tools\Code\Tools\Input\X360Controller\Data\X360UnityInit.cs.meta
+\Code\Assets\tools\Code\Tools\Input\X360Controller\Facade\X360.cs
+\Code\Assets\tools\Code\Tools\Input\X360Controller\Facade\X360.cs.meta
+\Code\Assets\tools\Code\Tools\Measure\2D\Editor\Zone2DInspector.cs
+\Code\Assets\tools\Code\Tools\Measure\2D\Editor\Zone2DInspector.cs.meta
+\Code\Assets\tools\Code\Tools\Measure\2D\Editor\Zone2DPointInspector.cs
+\Code\Assets\tools\Code\Tools\Measure\2D\Editor\Zone2DPointInspector.cs.meta
+\Code\Assets\tools\Code\Tools\Measure\3D\PointToPoint\Editor.meta
+\Code\Assets\tools\Code\Tools\Measure\3D\PointToPoint\PointToPointMeasure.cs
+\Code\Assets\tools\Code\Tools\Measure\3D\PointToPoint\PointToPointMeasure.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\BodyPosition\BodyPosition.cs
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\BodyPosition\BodyPosition.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\Editor\LinkedMovementInspector.cs
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\Editor\LinkedMovementInspector.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\Example\AngleCondition.cs
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\Example\AngleCondition.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\Example\BetweenCondition.cs
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\Example\BetweenCondition.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\Example\CrossProductCondition.cs
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\Example\CrossProductCondition.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\Example\DistanceBetweenCondition.cs
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\Example\DistanceBetweenCondition.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\Example\FreeTriangularCondition.cs
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\Example\FreeTriangularCondition.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\Example\GlobalPositionCondition.cs
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\Example\GlobalPositionCondition.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\Example\LocalisationCondition.cs
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\Example\LocalisationCondition.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\Example\TriangulareCondition.cs
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\Example\TriangulareCondition.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\Movement\LinkedMovement.cs
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\Movement\LinkedMovement.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\Movement\Movement.cs
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\Movement\Movement.cs.meta
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\Movement\MovementHistoric.cs
+\Code\Assets\tools\WillBeAssimilated\MoveDetection\Body\Condition\Movement\MovementHistoric.cs.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\Materials\LeftFoot.mat
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\Materials\LeftFoot.mat.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\Materials\pine texture 001a.mat
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\Materials\pine texture 001a.mat.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\Materials\pine texture 002.mat
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\Materials\pine texture 002.mat.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\Materials\pine texture 003.mat
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\Materials\pine texture 003.mat.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\Materials\pine texture 004.mat
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\Materials\pine texture 004.mat.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\Materials\RightFoot.mat
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\Materials\RightFoot.mat.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\Materials\tree texture 001.mat
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\Materials\tree texture 001.mat.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\Materials\tree texture 002.mat
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\Materials\tree texture 002.mat.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\Materials\tree texture 003.mat
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\Materials\tree texture 003.mat.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\Materials\tree texture 004.mat
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\Materials\tree texture 004.mat.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\Materials\tree texture 005.mat
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\Materials\tree texture 005.mat.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\Materials\tree texture 01.mat
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\Materials\tree texture 01.mat.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\84 trees.fbm.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\84 trees.fbx
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\84 trees.fbx.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\pines prefabs.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\pines.fbx
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\pines.fbx.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\textures\pine texture 001a.jpg
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\textures\pine texture 001a.jpg.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\textures\pine texture 002.jpg
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\textures\pine texture 002.jpg.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\textures\pine texture 003.jpg
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\textures\pine texture 003.jpg.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\textures\pine texture 004.jpg
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\textures\pine texture 004.jpg.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\textures\tree texture 001.jpg
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\textures\tree texture 001.jpg.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\textures\tree texture 002.jpg
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\textures\tree texture 002.jpg.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\textures\tree texture 003.jpg
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\textures\tree texture 003.jpg.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\textures\tree texture 004.jpg
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\textures\tree texture 004.jpg.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\textures\tree texture 004r.jpg
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\textures\tree texture 004r.jpg.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\textures\tree texture 005.jpg
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\textures\tree texture 005.jpg.meta
+\Code\Assets\tools\Code\Tools\Measure\3D\PointToPoint\Editor\PointToPointInspector.cs
+\Code\Assets\tools\Code\Tools\Measure\3D\PointToPoint\Editor\PointToPointInspector.cs.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\pines prefabs\pine 01.prefab
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\pines prefabs\pine 01.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\pines prefabs\pine 02.prefab
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\pines prefabs\pine 02.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\pines prefabs\pine 03.prefab
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\pines prefabs\pine 03.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\pines prefabs\pine 04.prefab
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\pines prefabs\pine 04.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\pines prefabs\pine 05.prefab
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\pines prefabs\pine 05.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 01.prefab
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 01.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 02.prefab
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 02.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 03.prefab
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 03.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 04.prefab
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 04.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 05.prefab
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 05.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 06.prefab
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 06.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 07.prefab
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 07.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 08.prefab
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 08.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 09.prefab
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 09.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 10.prefab
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 10.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 11.prefab
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 11.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 12.prefab
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 12.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 13.prefab
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 13.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 14.prefab
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 14.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 15.prefab
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 15.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 16.prefab
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 16.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 17.prefab
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 17.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 18.prefab
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 18.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 19.prefab
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 19.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 20.prefab
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 20.prefab.meta
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 21.prefab
+\Code\Assets\BoughtAsset\Tree\V1\models\84 trees.fbm\tree\models\trees prefabs\tree 21.prefab.meta
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md

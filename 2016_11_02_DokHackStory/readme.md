@@ -2,6 +2,10 @@
   
 -------------------------   
 
+  <[2016_10_26_Lamoova](2016_10_26_Lamoova\readme.md) | [2016_11_20_DesignAnalyticsVR](2016_11_20_DesignAnalyticsVR\readme.md)>
+  
+-------------------------   
+
 [![Icon Img](icon.png)](icon.png)  
 [![Preview Img](preview.png)](preview.png)   No additional information yet.
   

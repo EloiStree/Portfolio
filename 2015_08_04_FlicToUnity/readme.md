@@ -2,6 +2,10 @@
   
 -------------------------   
 
+  <[2015_07_09_SurfingDrone](2015_07_09_SurfingDrone\readme.md) | [2015_08_15_HakobioVR](2015_08_15_HakobioVR\readme.md)>
+  
+-------------------------   
+
 [![Icon Img](icon.png)](icon.png)  
 [![Preview Img](preview.png)](preview.png)   No additional information yet.
   

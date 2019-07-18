@@ -1,0 +1,6 @@
+Relative Path:G:\HistoryShowcase\2018_01_01_GameGuideFortnite
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md

@@ -1,0 +1,67 @@
+Relative Path:G:\HistoryShowcase\2018_09_06_PatreonSlashAndWatermark
+\Code\2018_09_06_PatreonSlashAndWatermark\README.md
+\Code\2018_09_06_PatreonSlashAndWatermark\Package\PatreonWatermark.unitypackage
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Patreon Slash And Watermark.csproj
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Patreon Slash And Watermark.Editor.csproj
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Patreon Slash And Watermark.sln
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License.meta
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\ProjectSettings\AudioManager.asset
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\ProjectSettings\ClusterInputManager.asset
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\ProjectSettings\DynamicsManager.asset
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\ProjectSettings\EditorSettings.asset
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\ProjectSettings\GraphicsSettings.asset
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\ProjectSettings\InputManager.asset
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\ProjectSettings\NavMeshAreas.asset
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\ProjectSettings\NetworkManager.asset
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\ProjectSettings\Physics2DSettings.asset
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\ProjectSettings\ProjectSettings.asset
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\ProjectSettings\ProjectVersion.txt
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\ProjectSettings\QualitySettings.asset
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\ProjectSettings\TagManager.asset
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\ProjectSettings\TimeManager.asset
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\ProjectSettings\UnityConnectSettings.asset
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\UnityPackageManager\manifest.json
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\License.meta
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark.meta
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\License\Find me on Discord.url
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\License\Find me on Discord.url.meta
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\License\Find me on Patreon.url
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\License\Find me on Patreon.url.meta
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\License\READ_ME_LICENSE.txt
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\License\READ_ME_LICENSE.txt.meta
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\Script.meta
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\SplashScene.meta
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\Watermark.meta
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\Script\AutoLoadScene.cs
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\Script\AutoLoadScene.cs.meta
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\Script\EloiPatreonWatermark.cs
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\Script\EloiPatreonWatermark.cs.meta
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\Script\OpenBrowser.cs
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\Script\OpenBrowser.cs.meta
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\Script\PlatformActivator.cs
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\Script\PlatformActivator.cs.meta
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\Script\RatioPanelSwitcher.cs
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\Script\RatioPanelSwitcher.cs.meta
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\SplashScene\Canvas_SpalshScreen.prefab
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\SplashScene\Canvas_SpalshScreen.prefab.meta
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\SplashScene\PatreonLogo.png
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\SplashScene\PatreonLogo.png.meta
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\SplashScene\ProfielCircle.png
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\SplashScene\ProfielCircle.png.meta
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\SplashScene\SplashScene.unity
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\SplashScene\SplashScene.unity.meta
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\Watermark\Canvas_EloiStree_FairReturn.prefab
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\Watermark\Canvas_EloiStree_FairReturn.prefab.meta
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\Watermark\FairReturn.png
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\Watermark\FairReturn.png.meta
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\Watermark\FairReturn.psd
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\Watermark\FairReturn.psd.meta
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\Watermark\Watermark.unity
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\Watermark\Watermark.unity.meta
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\Watermark\WatermarkAutoGenerated.prefab
+\Code\2018_09_06_PatreonSlashAndWatermark\UnityCode\Patreon Slash And Watermark\Assets\EloiStree License\Watermark\Watermark\WatermarkAutoGenerated.prefab.meta
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md

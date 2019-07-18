@@ -1,0 +1,72 @@
+Relative Path:G:\HistoryShowcase\2018_09_06_NetworkAutoLaunch
+\Code
+\Created
+\Images
+\Release
+\Unstored
+\Video
+\Code\2018_09_06_NetworkAutoLaunch
+\Created\2D
+\Created\3D
+\Created\CoolCode
+\Created\Gist
+\Created\PSD
+\Created\Refactorable
+\Images\360
+\Images\Image
+\Images\Photo
+\Images\Representative
+\Images\Screenshot
+\Release\Current
+\Release\Previous
+\Video\Edited
+\Video\Links
+\Video\Raw
+\Code\2018_09_06_NetworkAutoLaunch\Package
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\ProjectSettings
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\UnityPackageManager
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\EloiStree License
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\EloiStree License\License
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\EloiStree License\Watermark
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\Editor
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\NotMine
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\Prefab
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\Resources
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\Scene
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\Script
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\EloiStree License\Watermark\Script
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\EloiStree License\Watermark\SplashScene
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\EloiStree License\Watermark\Watermark
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\NotMine\Lobby
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\NotMine\WindowTool
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\Script\Unstore
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\NotMine\Lobby\Fonts
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\NotMine\Lobby\Prefabs
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\NotMine\Lobby\Scripts
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\NotMine\Lobby\Sprites
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\NotMine\WindowTool\Editor
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\NotMine\WindowTool\Textures
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\NotMine\Lobby\Fonts\OpenSans
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Materials
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Models
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Prefabs
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Scenes
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Scripts
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Textures
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\NotMine\Lobby\Scripts\Lobby
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\NotMine\WindowTool\Editor\WASD Studio Tools
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\NotMine\WindowTool\Textures\GUI
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WaterMark
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WindowTools
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\NotMine\Lobby\SampleScenes\Models\Materials
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WaterMark\Prefabs
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WaterMark\Scripts
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WindowTools\Prefabs
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WindowTools\Scenes
+\Code\2018_09_06_NetworkAutoLaunch\UnityCode\Network Auto Launch\Assets\NetworkAutoLaunch\NotMine\WindowTool\WASD Studio Tools\WindowTools\Scripts

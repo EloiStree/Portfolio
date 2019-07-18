@@ -2,6 +2,10 @@
   
 -------------------------   
 
+  <[2017_06_20_CitizensOfWallonia](2017_06_20_CitizensOfWallonia\readme.md) | [2017_07_04_Students_CapitainSousPression](2017_07_04_Students_CapitainSousPression\readme.md)>
+  
+-------------------------   
+
 [![Icon Img](icon.png)](icon.png)  
 [![Preview Img](preview.png)](preview.png)   No additional information yet.
   

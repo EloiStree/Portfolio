@@ -1,0 +1,34 @@
+Relative Path:G:\HistoryShowcase\2018_10_08_BoxingQuaternion
+\Code
+\Created
+\Images
+\Release
+\Unstored
+\Video
+\Code\2018_10_08_BoxingQuaternion
+\Created\2D
+\Created\3D
+\Created\CoolCode
+\Created\Gist
+\Created\PSD
+\Created\Refactorable
+\Images\360
+\Images\Image
+\Images\Photo
+\Images\Representative
+\Images\Screenshot
+\Release\Current
+\Release\Previous
+\Video\Edited
+\Video\Links
+\Video\Raw
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\ProjectSettings
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\UnityPackageManager
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\BoxingQuaternion
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\EloiStree
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\BoxingQuaternion\Scene
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\EloiStree\Gizmo
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\EloiStree\Gizmo\Models
+\Code\2018_10_08_BoxingQuaternion\Boxing Quaternion\Assets\EloiStree\Gizmo\Models\Materials

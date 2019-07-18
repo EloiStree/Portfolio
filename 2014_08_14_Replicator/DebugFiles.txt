@@ -1,0 +1,65 @@
+Relative Path:G:\HistoryShowcase\2014_08_14_Replicator
+\Code\2014_08_14_Replicator\Assets\3D.meta
+\Code\2014_08_14_Replicator\Assets\AutoDuplicateAtStart.cs
+\Code\2014_08_14_Replicator\Assets\AutoDuplicateAtStart.cs.meta
+\Code\2014_08_14_Replicator\Assets\CameraAutoRotation.cs
+\Code\2014_08_14_Replicator\Assets\CameraAutoRotation.cs.meta
+\Code\2014_08_14_Replicator\Assets\ClickReplicatorExplosion.cs
+\Code\2014_08_14_Replicator\Assets\ClickReplicatorExplosion.cs.meta
+\Code\2014_08_14_Replicator\Assets\CollisionTest.cs
+\Code\2014_08_14_Replicator\Assets\CollisionTest.cs.meta
+\Code\2014_08_14_Replicator\Assets\DelTest.cs
+\Code\2014_08_14_Replicator\Assets\DelTest.cs.meta
+\Code\2014_08_14_Replicator\Assets\EscapeToExit.cs
+\Code\2014_08_14_Replicator\Assets\EscapeToExit.cs.meta
+\Code\2014_08_14_Replicator\Assets\IgnoreCollisionWith.cs
+\Code\2014_08_14_Replicator\Assets\IgnoreCollisionWith.cs.meta
+\Code\2014_08_14_Replicator\Assets\New Terrain.asset
+\Code\2014_08_14_Replicator\Assets\New Terrain.asset.meta
+\Code\2014_08_14_Replicator\Assets\Replicator.cs
+\Code\2014_08_14_Replicator\Assets\Replicator.cs.meta
+\Code\2014_08_14_Replicator\Assets\ReplicatorExplosionPiece.cs
+\Code\2014_08_14_Replicator\Assets\ReplicatorExplosionPiece.cs.meta
+\Code\2014_08_14_Replicator\Assets\ReplicatorPiece.cs
+\Code\2014_08_14_Replicator\Assets\ReplicatorPiece.cs.meta
+\Code\2014_08_14_Replicator\Assets\ReplicatorPositionPiece.cs
+\Code\2014_08_14_Replicator\Assets\ReplicatorPositionPiece.cs.meta
+\Code\2014_08_14_Replicator\Assets\Scene.meta
+\Code\2014_08_14_Replicator\ProjectSettings\AudioManager.asset
+\Code\2014_08_14_Replicator\ProjectSettings\DynamicsManager.asset
+\Code\2014_08_14_Replicator\ProjectSettings\EditorSettings.asset
+\Code\2014_08_14_Replicator\ProjectSettings\GraphicsSettings.asset
+\Code\2014_08_14_Replicator\ProjectSettings\InputManager.asset
+\Code\2014_08_14_Replicator\ProjectSettings\NavMeshLayers.asset
+\Code\2014_08_14_Replicator\ProjectSettings\NetworkManager.asset
+\Code\2014_08_14_Replicator\ProjectSettings\Physics2DSettings.asset
+\Code\2014_08_14_Replicator\ProjectSettings\ProjectSettings.asset
+\Code\2014_08_14_Replicator\ProjectSettings\QualitySettings.asset
+\Code\2014_08_14_Replicator\ProjectSettings\TagManager.asset
+\Code\2014_08_14_Replicator\ProjectSettings\TimeManager.asset
+\Code\2014_08_14_Replicator\Assets\3D\Replicator.meta
+\Code\2014_08_14_Replicator\Assets\Scene\ReplicatorV1.unity
+\Code\2014_08_14_Replicator\Assets\Scene\ReplicatorV1.unity.meta
+\Code\2014_08_14_Replicator\Assets\3D\Replicator\Materials.meta
+\Code\2014_08_14_Replicator\Assets\3D\Replicator\Prefab.meta
+\Code\2014_08_14_Replicator\Assets\3D\Replicator\Replicateur 1.png
+\Code\2014_08_14_Replicator\Assets\3D\Replicator\Replicateur 1.png.meta
+\Code\2014_08_14_Replicator\Assets\3D\Replicator\Replicateur.obj
+\Code\2014_08_14_Replicator\Assets\3D\Replicator\Replicateur.obj.meta
+\Code\2014_08_14_Replicator\Assets\3D\Replicator\Replicateur.png
+\Code\2014_08_14_Replicator\Assets\3D\Replicator\Replicateur.png.meta
+\Code\2014_08_14_Replicator\Assets\3D\Replicator\Materials\Line001Mat.mat
+\Code\2014_08_14_Replicator\Assets\3D\Replicator\Materials\Line001Mat.mat.meta
+\Code\2014_08_14_Replicator\Assets\3D\Replicator\Materials\Replicateur.mat
+\Code\2014_08_14_Replicator\Assets\3D\Replicator\Materials\Replicateur.mat.meta
+\Code\2014_08_14_Replicator\Assets\3D\Replicator\Prefab\Replicator.prefab
+\Code\2014_08_14_Replicator\Assets\3D\Replicator\Prefab\Replicator.prefab.meta
+\Code\2014_08_14_Replicator\Assets\3D\Replicator\Prefab\ReplicatorDeathPiece.prefab
+\Code\2014_08_14_Replicator\Assets\3D\Replicator\Prefab\ReplicatorDeathPiece.prefab.meta
+\Code\2014_08_14_Replicator\Assets\3D\Replicator\Prefab\ReplicatorPositionPiece.prefab
+\Code\2014_08_14_Replicator\Assets\3D\Replicator\Prefab\ReplicatorPositionPiece.prefab.meta
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md

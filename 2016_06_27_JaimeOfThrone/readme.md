@@ -2,6 +2,10 @@
   
 -------------------------   
 
+  <[2016_05_06_ParisImmo](2016_05_06_ParisImmo\readme.md) | [2016_07_05_CodingBattle](2016_07_05_CodingBattle\readme.md)>
+  
+-------------------------   
+
 [![Icon Img](icon.png)](icon.png)  
 [![Preview Img](preview.png)](preview.png)   No additional information yet.
   

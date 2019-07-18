@@ -2,6 +2,10 @@
   
 -------------------------   
 
+  <[2012_06_26_24HNatationLanParty](2012_06_26_24HNatationLanParty\readme.md) | [2012_07_05_HelmotStLaurent](2012_07_05_HelmotStLaurent\readme.md)>
+  
+-------------------------   
+
 [![Icon Img](icon.png)](icon.png)  
 [![Preview Img](preview.png)](preview.png)   No additional information yet.
   

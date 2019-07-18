@@ -2,6 +2,10 @@
   
 -------------------------   
 
+  <[2014_10_22_DeathElevator](2014_10_22_DeathElevator\readme.md) | [2014_11_04_BlourakDestiny](2014_11_04_BlourakDestiny\readme.md)>
+  
+-------------------------   
+
 [![Icon Img](icon.png)](icon.png)  
 [![Preview Img](preview.png)](preview.png)   No additional information yet.
   

@@ -1,0 +1,292 @@
+Relative Path:G:\HistoryShowcase\2018_06_01_MeshToVoxel
+\Code
+\Created
+\Git
+\Images
+\Release
+\Unstored
+\Video
+\Code\2018_06_01_MeshToVoxel
+\Created\2D
+\Created\3D
+\Created\CoolCode
+\Created\Gist
+\Created\PSD
+\Created\Refactorable
+\Git\SourceCode
+\Images\360
+\Images\Image
+\Images\Photo
+\Images\Representative
+\Images\Screenshot
+\Release\Current
+\Release\Previous
+\Video\Edited
+\Video\Links
+\Video\Raw
+\Code\2018_06_01_MeshToVoxel\Git
+\Git\SourceCode\Mesh To Voxel
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode
+\Git\SourceCode\Mesh To Voxel\Assets
+\Git\SourceCode\Mesh To Voxel\MeshBaked
+\Git\SourceCode\Mesh To Voxel\obj
+\Git\SourceCode\Mesh To Voxel\Packages
+\Git\SourceCode\Mesh To Voxel\ProjectSettings
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterPackage
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterToRefactor
+\Git\SourceCode\Mesh To Voxel\Assets\CompureShaderVoxel
+\Git\SourceCode\Mesh To Voxel\Assets\FbxExporters
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker
+\Git\SourceCode\Mesh To Voxel\Assets\Resources
+\Git\SourceCode\Mesh To Voxel\Assets\Scan
+\Git\SourceCode\Mesh To Voxel\Assets\_MeshToVoxel
+\Git\SourceCode\Mesh To Voxel\MeshBaked\Burger
+\Git\SourceCode\Mesh To Voxel\obj\Debug
+\Git\SourceCode\Mesh To Voxel\Packages\com.unity.package-manager-ui
+\Git\SourceCode\Mesh To Voxel\Packages\com.unity.standardevents
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\MeshBaked
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\obj
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Packages
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\ProjectSettings
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Essential
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Snippet
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Utility
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterPackage\Sphere360
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterPackage\Voxel
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterToRefactor\Priority
+\Git\SourceCode\Mesh To Voxel\Assets\FbxExporters\Editor
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\docs
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Resources
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\scripts
+\Git\SourceCode\Mesh To Voxel\Assets\_MeshToVoxel\Experiment
+\Git\SourceCode\Mesh To Voxel\Assets\_MeshToVoxel\ScanBox
+\Git\SourceCode\Mesh To Voxel\obj\Debug\TempPE
+\Git\SourceCode\Mesh To Voxel\Packages\com.unity.package-manager-ui\Editor
+\Git\SourceCode\Mesh To Voxel\Packages\com.unity.package-manager-ui\Tests
+\Git\SourceCode\Mesh To Voxel\Packages\com.unity.standardevents\Editor
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterPackage
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterToRefactor
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\CompureShaderVoxel
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\FbxExporters
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\Resources
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\Scan
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\_MeshToVoxel
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\MeshBaked\Burger
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\obj\Debug
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Packages\com.unity.package-manager-ui
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Packages\com.unity.standardevents
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Essential\Dirty
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Utility\Assets
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Utility\Mesh
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Utility\Script
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterPackage\Sphere360\Material
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterPackage\Sphere360\Mesh
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterPackage\Sphere360\Prefab
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterPackage\Voxel\Mesh
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterPackage\Voxel\Script
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterToRefactor\Priority\0. Maybe
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterToRefactor\Priority\1. Low
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterToRefactor\Priority\2. Middle
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterToRefactor\Priority\3. Hight
+\Git\SourceCode\Mesh To Voxel\Assets\FbxExporters\Editor\FbxSdk
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\Assets
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\BakeTexturesAtRuntime
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\BatchPrepareObjectsForDynamicBatching
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\CharacterCustomization
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\MultipleMaterials
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\PrepareObjectsForDynamicBatching
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\Scene1Assets
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\SceneBasicAssets
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\SceneDynamicAddDelete
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\SceneRuntimeExample
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\SkinnedMeshRenderer
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Resources\Shaders
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\scripts\core
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\scripts\Editor
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\scripts\TextureBlenders
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\scripts\_testing
+\Git\SourceCode\Mesh To Voxel\Assets\_MeshToVoxel\Experiment\Created
+\Git\SourceCode\Mesh To Voxel\Assets\_MeshToVoxel\Experiment\Room
+\Git\SourceCode\Mesh To Voxel\Assets\_MeshToVoxel\ScanBox\Farmhouse Maya 2016 Updated
+\Git\SourceCode\Mesh To Voxel\Assets\_MeshToVoxel\ScanBox\Material
+\Git\SourceCode\Mesh To Voxel\Assets\_MeshToVoxel\ScanBox\Prefab
+\Git\SourceCode\Mesh To Voxel\Assets\_MeshToVoxel\ScanBox\Scene
+\Git\SourceCode\Mesh To Voxel\Assets\_MeshToVoxel\ScanBox\Script
+\Git\SourceCode\Mesh To Voxel\Packages\com.unity.package-manager-ui\Editor\Resources
+\Git\SourceCode\Mesh To Voxel\Packages\com.unity.package-manager-ui\Tests\Editor
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Essential
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Snippet
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Utility
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterPackage\Sphere360
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterPackage\Voxel
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterToRefactor\Priority
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\FbxExporters\Editor
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\docs
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Resources
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\scripts
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\_MeshToVoxel\Experiment
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\_MeshToVoxel\ScanBox
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\obj\Debug\TempPE
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Packages\com.unity.package-manager-ui\Editor
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Packages\com.unity.package-manager-ui\Tests
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Packages\com.unity.standardevents\Editor
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Essential\Dirty\Less_10
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Essential\Dirty\Less_5
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Essential\Dirty\More
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Utility\Mesh\Gizmo
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Utility\Script\Debug
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Utility\Script\Editor
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterPackage\Voxel\Mesh\VoxelWall_64x64
+\Git\SourceCode\Mesh To Voxel\Assets\FbxExporters\Editor\FbxSdk\Plugins
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\Assets\Materials
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\Assets\ModelPrefabs
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\Assets\Textures
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\BatchPrepareObjectsForDynamicBatching\__In
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\BatchPrepareObjectsForDynamicBatching\__Out
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\CharacterCustomization\Materials
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\CharacterCustomization\Output
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\CharacterCustomization\Textures
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\MultipleMaterials\Materials
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\MultipleMaterials\ResultMaterials
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\MultipleMaterials\SourceMaterials
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\PrepareObjectsForDynamicBatching\ModifiedPrefabs
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\PrepareObjectsForDynamicBatching\OriginalPrefabs
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\SceneBasicAssets\Materials
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\scripts\core\TextureCombiner
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\scripts\Editor\core
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\scripts\Editor\searchFilters
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\scripts\_testing\Materials
+\Git\SourceCode\Mesh To Voxel\Assets\_MeshToVoxel\Experiment\Created\Burger
+\Git\SourceCode\Mesh To Voxel\Assets\_MeshToVoxel\ScanBox\Script\Editor
+\Git\SourceCode\Mesh To Voxel\Packages\com.unity.package-manager-ui\Editor\Resources\Styles
+\Git\SourceCode\Mesh To Voxel\Packages\com.unity.package-manager-ui\Editor\Resources\Templates
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Essential\Dirty
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Utility\Assets
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Utility\Mesh
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Utility\Script
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterPackage\Sphere360\Material
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterPackage\Sphere360\Mesh
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterPackage\Sphere360\Prefab
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterPackage\Voxel\Mesh
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterPackage\Voxel\Script
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterToRefactor\Priority\0. Maybe
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterToRefactor\Priority\1. Low
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterToRefactor\Priority\2. Middle
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterToRefactor\Priority\3. Hight
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\FbxExporters\Editor\FbxSdk
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\Assets
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\BakeTexturesAtRuntime
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\BatchPrepareObjectsForDynamicBatching
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\CharacterCustomization
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\MultipleMaterials
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\PrepareObjectsForDynamicBatching
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\Scene1Assets
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\SceneBasicAssets
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\SceneDynamicAddDelete
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\SceneRuntimeExample
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\SkinnedMeshRenderer
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Resources\Shaders
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\scripts\core
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\scripts\Editor
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\scripts\TextureBlenders
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\scripts\_testing
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\_MeshToVoxel\Experiment\Created
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\_MeshToVoxel\Experiment\Room
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\_MeshToVoxel\ScanBox\Farmhouse Maya 2016 Updated
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\_MeshToVoxel\ScanBox\Material
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\_MeshToVoxel\ScanBox\Prefab
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\_MeshToVoxel\ScanBox\Scene
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\_MeshToVoxel\ScanBox\Script
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Packages\com.unity.package-manager-ui\Editor\Resources
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Packages\com.unity.package-manager-ui\Tests\Editor
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Essential\Dirty\More\Android
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Essential\Dirty\More\DontDestroy
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Essential\Dirty\More\Scene
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Essential\Dirty\More\URL
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Utility\Mesh\Gizmo\Cartesian
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Utility\Script\Debug\Draw
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Utility\Script\Editor\Git
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Utility\Script\Editor\MenuItem
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterPackage\Voxel\Mesh\VoxelWall_64x64\Materials
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterPackage\Voxel\Mesh\VoxelWall_64x64\Mesh
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterPackage\Voxel\Mesh\VoxelWall_64x64\Prefab
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterPackage\Voxel\Mesh\VoxelWall_64x64\Texture
+\Git\SourceCode\Mesh To Voxel\Assets\FbxExporters\Editor\FbxSdk\Plugins\x64
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\Assets\ModelPrefabs\ConstructionDude
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\Assets\ModelPrefabs\Goober Artwork
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Essential\Dirty\Less_10
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Essential\Dirty\Less_5
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Essential\Dirty\More
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Utility\Mesh\Gizmo
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Utility\Script\Debug
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Utility\Script\Editor
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterPackage\Voxel\Mesh\VoxelWall_64x64
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\FbxExporters\Editor\FbxSdk\Plugins
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\Assets\Materials
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\Assets\ModelPrefabs
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\Assets\Textures
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\BatchPrepareObjectsForDynamicBatching\__In
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\BatchPrepareObjectsForDynamicBatching\__Out
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\CharacterCustomization\Materials
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\CharacterCustomization\Output
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\CharacterCustomization\Textures
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\MultipleMaterials\Materials
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\MultipleMaterials\ResultMaterials
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\MultipleMaterials\SourceMaterials
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\PrepareObjectsForDynamicBatching\ModifiedPrefabs
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\PrepareObjectsForDynamicBatching\OriginalPrefabs
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\SceneBasicAssets\Materials
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\scripts\core\TextureCombiner
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\scripts\Editor\core
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\scripts\Editor\searchFilters
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\scripts\_testing\Materials
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\_MeshToVoxel\Experiment\Created\Burger
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\_MeshToVoxel\ScanBox\Script\Editor
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Packages\com.unity.package-manager-ui\Editor\Resources\Styles
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Packages\com.unity.package-manager-ui\Editor\Resources\Templates
+\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Utility\Mesh\Gizmo\Cartesian\Materials
+\Git\SourceCode\Mesh To Voxel\Assets\FbxExporters\Editor\FbxSdk\Plugins\x64\MacOS
+\Git\SourceCode\Mesh To Voxel\Assets\FbxExporters\Editor\FbxSdk\Plugins\x64\Windows
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\Assets\ModelPrefabs\ConstructionDude\Materials
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\Assets\ModelPrefabs\ConstructionDude\Textures
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\Assets\ModelPrefabs\Goober Artwork\FBX
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\Assets\ModelPrefabs\Goober Artwork\Materials
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\Assets\ModelPrefabs\Goober Artwork\Textures
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Essential\Dirty\More\Android
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Essential\Dirty\More\DontDestroy
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Essential\Dirty\More\Scene
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Essential\Dirty\More\URL
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Utility\Mesh\Gizmo\Cartesian
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Utility\Script\Debug\Draw
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Utility\Script\Editor\Git
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Utility\Script\Editor\MenuItem
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterPackage\Voxel\Mesh\VoxelWall_64x64\Materials
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterPackage\Voxel\Mesh\VoxelWall_64x64\Mesh
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterPackage\Voxel\Mesh\VoxelWall_64x64\Prefab
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterPackage\Voxel\Mesh\VoxelWall_64x64\Texture
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\FbxExporters\Editor\FbxSdk\Plugins\x64
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\Assets\ModelPrefabs\ConstructionDude
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\Assets\ModelPrefabs\Goober Artwork
+\Git\SourceCode\Mesh To Voxel\Assets\FbxExporters\Editor\FbxSdk\Plugins\x64\MacOS\UnityFbxSdkNative.bundle
+\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\Assets\ModelPrefabs\Goober Artwork\FBX\Materials
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\#JamsCenterCoreKit\Utility\Mesh\Gizmo\Cartesian\Materials
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\FbxExporters\Editor\FbxSdk\Plugins\x64\MacOS
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\FbxExporters\Editor\FbxSdk\Plugins\x64\Windows
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\Assets\ModelPrefabs\ConstructionDude\Materials
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\Assets\ModelPrefabs\ConstructionDude\Textures
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\Assets\ModelPrefabs\Goober Artwork\FBX
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\Assets\ModelPrefabs\Goober Artwork\Materials
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\Assets\ModelPrefabs\Goober Artwork\Textures
+\Git\SourceCode\Mesh To Voxel\Assets\FbxExporters\Editor\FbxSdk\Plugins\x64\MacOS\UnityFbxSdkNative.bundle\Contents
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\FbxExporters\Editor\FbxSdk\Plugins\x64\MacOS\UnityFbxSdkNative.bundle
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\MeshBaker\Examples\Assets\ModelPrefabs\Goober Artwork\FBX\Materials
+\Git\SourceCode\Mesh To Voxel\Assets\FbxExporters\Editor\FbxSdk\Plugins\x64\MacOS\UnityFbxSdkNative.bundle\Contents\MacOS
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\FbxExporters\Editor\FbxSdk\Plugins\x64\MacOS\UnityFbxSdkNative.bundle\Contents
+\Code\2018_06_01_MeshToVoxel\Git\SourceCode\Mesh To Voxel\Assets\FbxExporters\Editor\FbxSdk\Plugins\x64\MacOS\UnityFbxSdkNative.bundle\Contents\MacOS

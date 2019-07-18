@@ -1,0 +1,6 @@
+Relative Path:G:\HistoryShowcase\2015_01_23_Demonicide
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md

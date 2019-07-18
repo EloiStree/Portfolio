@@ -1,20 +1,40 @@
-Relative Path:G:\HistoryShowcase\2019_06_03_AdbUtility\
-Created\2D
-Created\3D
-Created\CoolCode
-Created\PSD
-Created\Refactorable
-Images\Image
-Images\Photo
-Images\Screenshot
-Release\2019_06_03_AdbUtility
-Release\Current
-Release\Previous
-Release\2019_06_03_AdbUtility\adb
-Release\2019_06_03_AdbUtility\app
-Release\2019_06_03_AdbUtility\MonoBleedingEdge
-Release\2019_06_03_AdbUtility\Quest Adb Utility_Data
-Release\2019_06_03_AdbUtility\MonoBleedingEdge\EmbedRuntime
-Release\2019_06_03_AdbUtility\MonoBleedingEdge\etc
-Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed
-Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Resources
+Relative Path:G:\HistoryShowcase\2019_06_03_AdbUtility
+\Code
+\Created
+\Images
+\Release
+\Unstored
+\Video
+\Created\2D
+\Created\3D
+\Created\CoolCode
+\Created\Gist
+\Created\PSD
+\Created\Refactorable
+\Images\360
+\Images\Image
+\Images\Photo
+\Images\Representative
+\Images\Screenshot
+\Release\2019_06_03_AdbUtility
+\Release\Current
+\Release\Previous
+\Video\Edited
+\Video\Links
+\Video\Raw
+\Release\2019_06_03_AdbUtility\adb
+\Release\2019_06_03_AdbUtility\app
+\Release\2019_06_03_AdbUtility\MonoBleedingEdge
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data
+\Release\2019_06_03_AdbUtility\MonoBleedingEdge\EmbedRuntime
+\Release\2019_06_03_AdbUtility\MonoBleedingEdge\etc
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Managed
+\Release\2019_06_03_AdbUtility\Quest Adb Utility_Data\Resources
+\Release\2019_06_03_AdbUtility\MonoBleedingEdge\etc\mono
+\Release\2019_06_03_AdbUtility\MonoBleedingEdge\etc\mono\2.0
+\Release\2019_06_03_AdbUtility\MonoBleedingEdge\etc\mono\4.0
+\Release\2019_06_03_AdbUtility\MonoBleedingEdge\etc\mono\4.5
+\Release\2019_06_03_AdbUtility\MonoBleedingEdge\etc\mono\mconfig
+\Release\2019_06_03_AdbUtility\MonoBleedingEdge\etc\mono\2.0\Browsers
+\Release\2019_06_03_AdbUtility\MonoBleedingEdge\etc\mono\4.0\Browsers
+\Release\2019_06_03_AdbUtility\MonoBleedingEdge\etc\mono\4.5\Browsers

@@ -1,0 +1,23 @@
+Relative Path:G:\HistoryShowcase\2017_12_12_WoufWouf
+\Code
+\Created
+\Images
+\Release
+\Unstored
+\Video
+\Created\2D
+\Created\3D
+\Created\CoolCode
+\Created\Gist
+\Created\PSD
+\Created\Refactorable
+\Images\360
+\Images\Image
+\Images\Photo
+\Images\Representative
+\Images\Screenshot
+\Release\Current
+\Release\Previous
+\Video\Edited
+\Video\Links
+\Video\Raw

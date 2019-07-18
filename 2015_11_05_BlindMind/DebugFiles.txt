@@ -1,0 +1,6 @@
+Relative Path:G:\HistoryShowcase\2015_11_05_BlindMind
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md

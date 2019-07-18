@@ -1,0 +1,43 @@
+Relative Path:G:\HistoryShowcase\2012_04_17_Demineur
+\Images\001.PNG
+\Images\002.PNG
+\Images\003.png
+\Images\007.PNG
+\Images\Capture (1).PNG
+\Images\Capture.PNG
+\Images\Priority.PNG
+\Release\NuageFinalAppletv4_0.jar
+\Video\2017-08-05 17-28-59.flv
+\Video\Humm-09.mp4
+\Video\Humm-12.mp4
+\Video\Humm-13.mp4
+\Images\Image\javaw 2014-02-09 18-50-52-14.png
+\Images\Image\javaw-2014-02-09-18-50-00-36.png
+\Images\Image\Screenshot (177).png
+\Images\Screenshot\Capture d’écran 2011-10-09 à 18.01.06.png
+\Images\Screenshot\Capture d’écran 2011-10-09 à 18.01.42.png
+\Images\Screenshot\Capture d’écran 2011-10-09 à 18.02.00.png
+\Images\Screenshot\Capture d’écran 2011-10-09 à 18.02.18.png
+\Images\Screenshot\Capture d’écran 2011-10-09 à 18.07.11.png
+\Images\Screenshot\Capture d’écran 2011-10-09 à 18.07.48.png
+\Images\Screenshot\nuagequivolenetombepas.png
+\Release\lib\._.DS_Store
+\Release\lib\AbsoluteLayout.jar
+\Release\lib\swing-layout-1.0.4.jar
+\Release\lib\synthetica.jar
+\Release\lib\syntheticaBlackStar.jar
+\Video\Links\Rick Astley - Never Gonna Give You Up (Video) - YouTube.url
+\Images\Screenshot\Exemple de nuage\Capture d’écran 2011-10-09 à 18.01.06.png
+\Images\Screenshot\Exemple de nuage\Capture d’écran 2011-10-09 à 18.01.42.png
+\Images\Screenshot\Exemple de nuage\Capture d’écran 2011-10-09 à 18.02.00.png
+\Images\Screenshot\Exemple de nuage\Capture d’écran 2011-10-09 à 18.02.18.png
+\Images\Screenshot\Exemple de nuage\Capture d’écran 2011-10-09 à 18.07.11.png
+\Images\Screenshot\Exemple de nuage\Capture d’écran 2011-10-09 à 18.07.48.png
+\Images\Screenshot\Interface Graphique\ChangerCouleur.png
+\Images\Screenshot\Interface Graphique\EcranPrincipale.png
+\Images\Screenshot\Interface Graphique\JFrameDUnNuage(1).png
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md

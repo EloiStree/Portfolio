@@ -2,6 +2,10 @@
   
 -------------------------   
 
+  <[2018_10_07_KISS4](2018_10_07_KISS4\readme.md) | [2018_10_11_Students_NicoDesCouloirs](2018_10_11_Students_NicoDesCouloirs\readme.md)>
+  
+-------------------------   
+
 [![Icon Img](icon.png)](icon.png)  
 [![Preview Img](preview.png)](preview.png)   No additional information yet.
   

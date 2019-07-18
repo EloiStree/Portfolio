@@ -2,6 +2,10 @@
   
 -------------------------   
 
+  <[2014_11_04_BlourakDestiny](2014_11_04_BlourakDestiny\readme.md) | [2014_11_08_MrMrsFlash](2014_11_08_MrMrsFlash\readme.md)>
+  
+-------------------------   
+
 [![Icon Img](icon.png)](icon.png)  
 [![Preview Img](preview.png)](preview.png)   No additional information yet.
   

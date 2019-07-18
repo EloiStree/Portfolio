@@ -1,0 +1,6 @@
+Relative Path:G:\HistoryShowcase\2017_08_30_VRT_RollerCoaster
+\generalinformation.json
+\icon.png
+\preview.png
+\readme.md
+\wiki.md
