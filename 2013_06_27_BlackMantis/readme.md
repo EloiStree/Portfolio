@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2013_06_01_StartWithDK1](2013_06_01_StartWithDK1\readme.md) | [2013_08_02_ChoGath](2013_08_02_ChoGath\readme.md)>
+  <[2013_06_01_StartWithDK1](../2013_06_01_StartWithDK1/readme.md) | [2013_08_02_ChoGath](../2013_08_02_ChoGath/readme.md)>
   
 -------------------------   
 

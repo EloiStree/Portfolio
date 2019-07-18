@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_03_18_BIFFF_VirtualCatalog](2017_03_18_BIFFF_VirtualCatalog\readme.md) | [2017_03_24_HowToDoReactionVideo](2017_03_24_HowToDoReactionVideo\readme.md)>
+  <[2017_03_18_BIFFF_VirtualCatalog](../2017_03_18_BIFFF_VirtualCatalog/readme.md) | [2017_03_24_HowToDoReactionVideo](../2017_03_24_HowToDoReactionVideo/readme.md)>
   
 -------------------------   
 

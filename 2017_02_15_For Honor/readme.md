@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_01_31_ArTangoPublicity](2017_01_31_ArTangoPublicity\readme.md) | [2017_02_25_GhostInTheShell](2017_02_25_GhostInTheShell\readme.md)>
+  <[2017_01_31_ArTangoPublicity](../2017_01_31_ArTangoPublicity/readme.md) | [2017_02_25_GhostInTheShell](../2017_02_25_GhostInTheShell/readme.md)>
   
 -------------------------   
 

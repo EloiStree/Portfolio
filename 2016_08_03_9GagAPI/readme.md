@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_08_01_Brotaru](2016_08_01_Brotaru\readme.md) | [2016_08_05_FPS360Experiment](2016_08_05_FPS360Experiment\readme.md)>
+  <[2016_08_01_Brotaru](../2016_08_01_Brotaru/readme.md) | [2016_08_05_FPS360Experiment](../2016_08_05_FPS360Experiment/readme.md)>
   
 -------------------------   
 

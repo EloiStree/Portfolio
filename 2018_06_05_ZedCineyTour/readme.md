@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_06_02_ColorHotspot](2018_06_02_ColorHotspot\readme.md) | [2018_06_06_ComputeShaderForVoxel](2018_06_06_ComputeShaderForVoxel\readme.md)>
+  <[2018_06_02_ColorHotspot](../2018_06_02_ColorHotspot/readme.md) | [2018_06_06_ComputeShaderForVoxel](../2018_06_06_ComputeShaderForVoxel/readme.md)>
   
 -------------------------   
 

@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_05_12_UpWayMontreal](2017_05_12_UpWayMontreal\readme.md) | [2017_06_03_WifiSniffer](2017_06_03_WifiSniffer\readme.md)>
+  <[2017_05_12_UpWayMontreal](../2017_05_12_UpWayMontreal/readme.md) | [2017_06_03_WifiSniffer](../2017_06_03_WifiSniffer/readme.md)>
   
 -------------------------   
 

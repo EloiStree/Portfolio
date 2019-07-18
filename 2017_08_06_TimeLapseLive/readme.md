@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_08_06_StereoExperiment](2017_08_06_StereoExperiment\readme.md) | [2017_08_16_I3_FunWithVR](2017_08_16_I3_FunWithVR\readme.md)>
+  <[2017_08_06_StereoExperiment](../2017_08_06_StereoExperiment/readme.md) | [2017_08_16_I3_FunWithVR](../2017_08_16_I3_FunWithVR/readme.md)>
   
 -------------------------   
 

@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2015_04_20_JugglerMaster](2015_04_20_JugglerMaster\readme.md) | [2015_05_21_Limonade](2015_05_21_Limonade\readme.md)>
+  <[2015_04_20_JugglerMaster](../2015_04_20_JugglerMaster/readme.md) | [2015_05_21_Limonade](../2015_05_21_Limonade/readme.md)>
   
 -------------------------   
 

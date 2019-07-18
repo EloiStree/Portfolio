@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_07_14_ScanField](2018_07_14_ScanField\readme.md) | [2018_08_11_Thamaganos](2018_08_11_Thamaganos\readme.md)>
+  <[2018_07_14_ScanField](../2018_07_14_ScanField/readme.md) | [2018_08_11_Thamaganos](../2018_08_11_Thamaganos/readme.md)>
   
 -------------------------   
 

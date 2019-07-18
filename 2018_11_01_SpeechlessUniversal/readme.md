@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_10_28_0HGAMEJAM](2018_10_28_0HGAMEJAM\readme.md) | [2018_11_03_MarocHackahton](2018_11_03_MarocHackahton\readme.md)>
+  <[2018_10_28_0HGAMEJAM](../2018_10_28_0HGAMEJAM/readme.md) | [2018_11_03_MarocHackahton](../2018_11_03_MarocHackahton/readme.md)>
   
 -------------------------   
 

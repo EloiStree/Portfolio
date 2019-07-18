@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2013_05_12_TimeRifter](2013_05_12_TimeRifter\readme.md) | [2013_06_01_StartWithDK1](2013_06_01_StartWithDK1\readme.md)>
+  <[2013_05_12_TimeRifter](../2013_05_12_TimeRifter/readme.md) | [2013_06_01_StartWithDK1](../2013_06_01_StartWithDK1/readme.md)>
   
 -------------------------   
 

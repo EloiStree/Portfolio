@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_12_23_VRPaintingJamTrailer](2016_12_23_VRPaintingJamTrailer\readme.md) | [2017_01_15_ArMug](2017_01_15_ArMug\readme.md)>
+  <[2016_12_23_VRPaintingJamTrailer](../2016_12_23_VRPaintingJamTrailer/readme.md) | [2017_01_15_ArMug](../2017_01_15_ArMug/readme.md)>
   
 -------------------------   
 

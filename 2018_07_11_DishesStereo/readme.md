@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_07_04_Students_ProjectZebra](2018_07_04_Students_ProjectZebra\readme.md) | [2018_07_12_MetroScan](2018_07_12_MetroScan\readme.md)>
+  <[2018_07_04_Students_ProjectZebra](../2018_07_04_Students_ProjectZebra/readme.md) | [2018_07_12_MetroScan](../2018_07_12_MetroScan/readme.md)>
   
 -------------------------   
 

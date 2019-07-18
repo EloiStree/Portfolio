@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2019_01_15_NSFW_Randomizer](2019_01_15_NSFW_Randomizer\readme.md) | [2019_01_19_MoveYourAss_LaserVersion](2019_01_19_MoveYourAss_LaserVersion\readme.md)>
+  <[2019_01_15_NSFW_Randomizer](../2019_01_15_NSFW_Randomizer/readme.md) | [2019_01_19_MoveYourAss_LaserVersion](../2019_01_19_MoveYourAss_LaserVersion/readme.md)>
   
 -------------------------   
 

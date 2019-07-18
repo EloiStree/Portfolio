@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_04_22_HashTagInTheBottle](2017_04_22_HashTagInTheBottle\readme.md) | [2017_05_12_UpWayMontreal](2017_05_12_UpWayMontreal\readme.md)>
+  <[2017_04_22_HashTagInTheBottle](../2017_04_22_HashTagInTheBottle/readme.md) | [2017_05_12_UpWayMontreal](../2017_05_12_UpWayMontreal/readme.md)>
   
 -------------------------   
 

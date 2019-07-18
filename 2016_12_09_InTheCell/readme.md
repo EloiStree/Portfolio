@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_11_22_TiltBrushExperiment](2016_11_22_TiltBrushExperiment\readme.md) | [2016_12_23_VRPaintingJamTrailer](2016_12_23_VRPaintingJamTrailer\readme.md)>
+  <[2016_11_22_TiltBrushExperiment](../2016_11_22_TiltBrushExperiment/readme.md) | [2016_12_23_VRPaintingJamTrailer](../2016_12_23_VRPaintingJamTrailer/readme.md)>
   
 -------------------------   
 

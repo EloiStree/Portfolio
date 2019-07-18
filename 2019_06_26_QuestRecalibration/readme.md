@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2019_06_23_EmptyStart_MQTT_VR](2019_06_23_EmptyStart_MQTT_VR\readme.md) | [2019_06_29_AntiLagPrevisionLerp](2019_06_29_AntiLagPrevisionLerp\readme.md)>
+  <[2019_06_23_EmptyStart_MQTT_VR](../2019_06_23_EmptyStart_MQTT_VR/readme.md) | [2019_06_29_AntiLagPrevisionLerp](../2019_06_29_AntiLagPrevisionLerp/readme.md)>
   
 -------------------------   
 

@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2019_05_25_TennisTableElevenFerrieres](2019_05_25_TennisTableElevenFerrieres\readme.md) | [2019_06_01_BasketballExperiment](2019_06_01_BasketballExperiment\readme.md)>
+  <[2019_05_25_TennisTableElevenFerrieres](../2019_05_25_TennisTableElevenFerrieres/readme.md) | [2019_06_01_BasketballExperiment](../2019_06_01_BasketballExperiment/readme.md)>
   
 -------------------------   
 

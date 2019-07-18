@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_08_16_I3_FunWithVR](2017_08_16_I3_FunWithVR\readme.md) | [2017_08_26_YinYang](2017_08_26_YinYang\readme.md)>
+  <[2017_08_16_I3_FunWithVR](../2017_08_16_I3_FunWithVR/readme.md) | [2017_08_26_YinYang](../2017_08_26_YinYang/readme.md)>
   
 -------------------------   
 

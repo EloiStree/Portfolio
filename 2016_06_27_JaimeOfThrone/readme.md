@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_05_06_ParisImmo](2016_05_06_ParisImmo\readme.md) | [2016_07_05_CodingBattle](2016_07_05_CodingBattle\readme.md)>
+  <[2016_05_06_ParisImmo](../2016_05_06_ParisImmo/readme.md) | [2016_07_05_CodingBattle](../2016_07_05_CodingBattle/readme.md)>
   
 -------------------------   
 

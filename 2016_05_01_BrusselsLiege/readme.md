@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_04_25_BrusselsEuroMagAndCook](2016_04_25_BrusselsEuroMagAndCook\readme.md) | [2016_05_01_MolenGeekHack](2016_05_01_MolenGeekHack\readme.md)>
+  <[2016_04_25_BrusselsEuroMagAndCook](../2016_04_25_BrusselsEuroMagAndCook/readme.md) | [2016_05_01_MolenGeekHack](../2016_05_01_MolenGeekHack/readme.md)>
   
 -------------------------   
 

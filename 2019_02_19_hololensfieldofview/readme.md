@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2019_02_16_TrajectoryRobot](2019_02_16_TrajectoryRobot\readme.md) | [2019_02_28_MoveYourAss_AssteroidsVersion](2019_02_28_MoveYourAss_AssteroidsVersion\readme.md)>
+  <[2019_02_16_TrajectoryRobot](../2019_02_16_TrajectoryRobot/readme.md) | [2019_02_28_MoveYourAss_AssteroidsVersion](../2019_02_28_MoveYourAss_AssteroidsVersion/readme.md)>
   
 -------------------------   
 

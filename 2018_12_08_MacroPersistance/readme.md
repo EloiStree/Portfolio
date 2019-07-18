@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_11_30_HelloHololens](2018_11_30_HelloHololens\readme.md) | [2018_12_13_Students_MyLittleZomby](2018_12_13_Students_MyLittleZomby\readme.md)>
+  <[2018_11_30_HelloHololens](../2018_11_30_HelloHololens/readme.md) | [2018_12_13_Students_MyLittleZomby](../2018_12_13_Students_MyLittleZomby/readme.md)>
   
 -------------------------   
 

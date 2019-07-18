@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_10_06_DemolitionWheelchair](2018_10_06_DemolitionWheelchair\readme.md) | [2018_10_08_BoxingQuaternion](2018_10_08_BoxingQuaternion\readme.md)>
+  <[2018_10_06_DemolitionWheelchair](../2018_10_06_DemolitionWheelchair/readme.md) | [2018_10_08_BoxingQuaternion](../2018_10_08_BoxingQuaternion/readme.md)>
   
 -------------------------   
 

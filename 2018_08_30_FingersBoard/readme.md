@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_08_18_DailyLog](2018_08_18_DailyLog\readme.md) | [2018_09_02_KillTheKeyboard](2018_09_02_KillTheKeyboard\readme.md)>
+  <[2018_08_18_DailyLog](../2018_08_18_DailyLog/readme.md) | [2018_09_02_KillTheKeyboard](../2018_09_02_KillTheKeyboard/readme.md)>
   
 -------------------------   
 

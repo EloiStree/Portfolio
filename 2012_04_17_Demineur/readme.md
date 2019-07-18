@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2012_02_12_Nuage](2012_02_12_Nuage\readme.md) | [2012_06_26_24HNatationLanParty](2012_06_26_24HNatationLanParty\readme.md)>
+  <[2012_02_12_Nuage](../2012_02_12_Nuage/readme.md) | [2012_07_05_ErgonomicsCriteria](../2012_07_05_ErgonomicsCriteria/readme.md)>
   
 -------------------------   
 

@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_01_28_STIB_AR_Map](2017_01_28_STIB_AR_Map\readme.md) | [2017_02_15_For Honor](2017_02_15_For Honor\readme.md)>
+  <[2017_01_28_STIB_AR_Map](../2017_01_28_STIB_AR_Map/readme.md) | [2017_02_15_For Honor](../2017_02_15_For Honor/readme.md)>
   
 -------------------------   
 

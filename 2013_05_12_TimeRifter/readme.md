@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2013_05_12_FederationBattle](2013_05_12_FederationBattle\readme.md) | [2013_05_31_SCJP](2013_05_31_SCJP\readme.md)>
+  <[2013_05_12_FederationBattle](../2013_05_12_FederationBattle/readme.md) | [2013_05_31_SCJP](../2013_05_31_SCJP/readme.md)>
   
 -------------------------   
 

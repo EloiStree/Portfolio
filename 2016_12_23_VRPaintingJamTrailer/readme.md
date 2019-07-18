@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_12_09_InTheCell](2016_12_09_InTheCell\readme.md) | [2017_01_14_PaintingJam](2017_01_14_PaintingJam\readme.md)>
+  <[2016_12_09_InTheCell](../2016_12_09_InTheCell/readme.md) | [2017_01_14_PaintingJam](../2017_01_14_PaintingJam/readme.md)>
   
 -------------------------   
 

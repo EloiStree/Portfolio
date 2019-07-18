@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2012_06_26_24HNatationLanParty](2012_06_26_24HNatationLanParty\readme.md) | [2012_07_05_HelmotStLaurent](2012_07_05_HelmotStLaurent\readme.md)>
+  <[2012_04_17_Demineur](../2012_04_17_Demineur/readme.md) | [2012_07_05_HelmotStLaurent](../2012_07_05_HelmotStLaurent/readme.md)>
   
 -------------------------   
 

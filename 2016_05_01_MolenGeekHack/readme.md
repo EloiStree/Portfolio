@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_05_01_BrusselsLiege](2016_05_01_BrusselsLiege\readme.md) | [2016_05_04_BrusselRadio](2016_05_04_BrusselRadio\readme.md)>
+  <[2016_05_01_BrusselsLiege](../2016_05_01_BrusselsLiege/readme.md) | [2016_05_04_BrusselRadio](../2016_05_04_BrusselRadio/readme.md)>
   
 -------------------------   
 

@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_08_06_TimeLapseLive](2017_08_06_TimeLapseLive\readme.md) | [2017_08_26_BBQJam2017](2017_08_26_BBQJam2017\readme.md)>
+  <[2017_08_06_TimeLapseLive](../2017_08_06_TimeLapseLive/readme.md) | [2017_08_26_BBQJam2017](../2017_08_26_BBQJam2017/readme.md)>
   
 -------------------------   
 

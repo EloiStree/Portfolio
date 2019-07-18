@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_08_05_FPS360Experiment](2016_08_05_FPS360Experiment\readme.md) | [2016_08_05_VizorVR](2016_08_05_VizorVR\readme.md)>
+  <[2016_08_05_FPS360Experiment](../2016_08_05_FPS360Experiment/readme.md) | [2016_08_05_VizorVR](../2016_08_05_VizorVR/readme.md)>
   
 -------------------------   
 

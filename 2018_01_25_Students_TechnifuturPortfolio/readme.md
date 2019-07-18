@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_01_23_ArteryBattleNetworkVR](2018_01_23_ArteryBattleNetworkVR\readme.md) | [2018_01_26_HolostreamChannel6](2018_01_26_HolostreamChannel6\readme.md)>
+  <[2018_01_23_ArteryBattleNetworkVR](../2018_01_23_ArteryBattleNetworkVR/readme.md) | [2018_01_26_HolostreamChannel6](../2018_01_26_HolostreamChannel6/readme.md)>
   
 -------------------------   
 

@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2014_07_07_WolfensteinVR](2014_07_07_WolfensteinVR\readme.md) | [2014_08_14_Replicator](2014_08_14_Replicator\readme.md)>
+  <[2014_07_07_WolfensteinVR](../2014_07_07_WolfensteinVR/readme.md) | [2014_08_14_Replicator](../2014_08_14_Replicator/readme.md)>
   
 -------------------------   
 

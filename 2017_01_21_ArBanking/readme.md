@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_01_15_ArMug](2017_01_15_ArMug\readme.md) | [2017_01_22_AtomicWaves](2017_01_22_AtomicWaves\readme.md)>
+  <[2017_01_15_ArMug](../2017_01_15_ArMug/readme.md) | [2017_01_22_AtomicWaves](../2017_01_22_AtomicWaves/readme.md)>
   
 -------------------------   
 

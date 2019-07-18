@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_09_10_KinectViewerForOBS](2016_09_10_KinectViewerForOBS\readme.md) | [2016_09_25_BruSee](2016_09_25_BruSee\readme.md)>
+  <[2016_09_10_KinectViewerForOBS](../2016_09_10_KinectViewerForOBS/readme.md) | [2016_09_25_BruSee](../2016_09_25_BruSee/readme.md)>
   
 -------------------------   
 

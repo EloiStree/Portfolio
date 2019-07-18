@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2013_06_27_BlackMantis](2013_06_27_BlackMantis\readme.md) | [2013_09_13_TechnociteGameFormation](2013_09_13_TechnociteGameFormation\readme.md)>
+  <[2013_06_27_BlackMantis](../2013_06_27_BlackMantis/readme.md) | [2013_09_13_TechnociteGameFormation](../2013_09_13_TechnociteGameFormation/readme.md)>
   
 -------------------------   
 

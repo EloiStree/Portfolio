@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_01_12_OGameHacking](2016_01_12_OGameHacking\readme.md) | [2016_03_11_BrutalWheelChairSimulator](2016_03_11_BrutalWheelChairSimulator\readme.md)>
+  <[2016_01_12_OGameHacking](../2016_01_12_OGameHacking/readme.md) | [2016_03_11_BrutalWheelChairSimulator](../2016_03_11_BrutalWheelChairSimulator/readme.md)>
   
 -------------------------   
 

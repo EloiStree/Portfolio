@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_04_19_UITPDubai](2018_04_19_UITPDubai\readme.md) | [2018_05_16_BipOnTune](2018_05_16_BipOnTune\readme.md)>
+  <[2018_04_19_UITPDubai](../2018_04_19_UITPDubai/readme.md) | [2018_05_16_BipOnTune](../2018_05_16_BipOnTune/readme.md)>
   
 -------------------------   
 

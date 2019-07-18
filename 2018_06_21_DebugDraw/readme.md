@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_06_20_UnityRandom](2018_06_20_UnityRandom\readme.md) | [2018_07_03_Students_TechnoBelPortfolio](2018_07_03_Students_TechnoBelPortfolio\readme.md)>
+  <[2018_06_20_UnityRandom](../2018_06_20_UnityRandom/readme.md) | [2018_07_03_Students_TechnoBelPortfolio](../2018_07_03_Students_TechnoBelPortfolio/readme.md)>
   
 -------------------------   
 

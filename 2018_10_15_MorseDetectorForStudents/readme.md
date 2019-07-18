@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_10_14_GitMarkdownForWiki](2018_10_14_GitMarkdownForWiki\readme.md) | [2018_10_18_HelloTapWithUs](2018_10_18_HelloTapWithUs\readme.md)>
+  <[2018_10_14_GitMarkdownForWiki](../2018_10_14_GitMarkdownForWiki/readme.md) | [2018_10_18_HelloTapWithUs](../2018_10_18_HelloTapWithUs/readme.md)>
   
 -------------------------   
 

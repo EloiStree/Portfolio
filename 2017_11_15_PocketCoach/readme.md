@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_11_11_Museomix](2017_11_11_Museomix\readme.md) | [2017_11_18_UITPHackathonMoscowMetro](2017_11_18_UITPHackathonMoscowMetro\readme.md)>
+  <[2017_11_11_Museomix](../2017_11_11_Museomix/readme.md) | [2017_11_18_UITPHackathonMoscowMetro](../2017_11_18_UITPHackathonMoscowMetro/readme.md)>
   
 -------------------------   
 

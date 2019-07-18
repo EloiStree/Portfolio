@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_05_28_ScanSmallObject](2018_05_28_ScanSmallObject\readme.md) | [2018_06_02_ColorHotspot](2018_06_02_ColorHotspot\readme.md)>
+  <[2018_05_28_ScanSmallObject](../2018_05_28_ScanSmallObject/readme.md) | [2018_06_02_ColorHotspot](../2018_06_02_ColorHotspot/readme.md)>
   
 -------------------------   
 

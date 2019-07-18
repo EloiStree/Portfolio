@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2019_01_27_Turnacoin](2019_01_27_Turnacoin\readme.md) | [2019_02_13_ImagesDownloader](2019_02_13_ImagesDownloader\readme.md)>
+  <[2019_01_27_Turnacoin](../2019_01_27_Turnacoin/readme.md) | [2019_02_13_ImagesDownloader](../2019_02_13_ImagesDownloader/readme.md)>
   
 -------------------------   
 

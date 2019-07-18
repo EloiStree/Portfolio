@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_09_25_MamyVR](2016_09_25_MamyVR\readme.md) | [2016_10_10_MicroFactory](2016_10_10_MicroFactory\readme.md)>
+  <[2016_09_25_MamyVR](../2016_09_25_MamyVR/readme.md) | [2016_10_10_MicroFactory](../2016_10_10_MicroFactory/readme.md)>
   
 -------------------------   
 

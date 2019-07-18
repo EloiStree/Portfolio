@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2019_03_17_VoilaCeQuiVaSePasser](2019_03_17_VoilaCeQuiVaSePasser\readme.md) | [2019_04_04_holohandstracking](2019_04_04_holohandstracking\readme.md)>
+  <[2019_03_17_VoilaCeQuiVaSePasser](../2019_03_17_VoilaCeQuiVaSePasser/readme.md) | [2019_04_04_holohandstracking](../2019_04_04_holohandstracking/readme.md)>
   
 -------------------------   
 

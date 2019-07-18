@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_02_18_CannonMoles](2016_02_18_CannonMoles\readme.md) | [2016_03_18_BIFFF_VirtualCatalog](2016_03_18_BIFFF_VirtualCatalog\readme.md)>
+  <[2016_02_18_CannonMoles](../2016_02_18_CannonMoles/readme.md) | [2016_03_18_BIFFF_VirtualCatalog](../2016_03_18_BIFFF_VirtualCatalog/readme.md)>
   
 -------------------------   
 

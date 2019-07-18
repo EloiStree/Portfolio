@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2013_09_13_TechnociteGameFormation](2013_09_13_TechnociteGameFormation\readme.md) | [2013_10_08_MultiCursor](2013_10_08_MultiCursor\readme.md)>
+  <[2013_09_13_TechnociteGameFormation](../2013_09_13_TechnociteGameFormation/readme.md) | [2013_10_08_MultiCursor](../2013_10_08_MultiCursor/readme.md)>
   
 -------------------------   
 

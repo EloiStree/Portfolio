@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2014_10_19_KrakensProjects](2014_10_19_KrakensProjects\readme.md) | [2014_10_22_DeathElevator](2014_10_22_DeathElevator\readme.md)>
+  <[2014_10_19_KrakensProjects](../2014_10_19_KrakensProjects/readme.md) | [2014_10_22_DeathElevator](../2014_10_22_DeathElevator/readme.md)>
   
 -------------------------   
 

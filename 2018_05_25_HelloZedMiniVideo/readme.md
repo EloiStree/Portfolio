@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_05_21_BrainBlastVR](2018_05_21_BrainBlastVR\readme.md) | [2018_05_25_ScanExperimentsTechnobel](2018_05_25_ScanExperimentsTechnobel\readme.md)>
+  <[2018_05_21_BrainBlastVR](../2018_05_21_BrainBlastVR/readme.md) | [2018_05_25_ScanExperimentsTechnobel](../2018_05_25_ScanExperimentsTechnobel/readme.md)>
   
 -------------------------   
 

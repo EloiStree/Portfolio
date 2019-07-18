@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_06_10_AdidasHack](2018_06_10_AdidasHack\readme.md) | [2018_06_16_StereoGreenScreen](2018_06_16_StereoGreenScreen\readme.md)>
+  <[2018_06_10_AdidasHack](../2018_06_10_AdidasHack/readme.md) | [2018_06_16_StereoGreenScreen](../2018_06_16_StereoGreenScreen/readme.md)>
   
 -------------------------   
 

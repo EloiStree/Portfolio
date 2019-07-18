@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_02_28_WebcamViewer](2018_02_28_WebcamViewer\readme.md) | [2018_03_18_PlanetaryCook](2018_03_18_PlanetaryCook\readme.md)>
+  <[2018_02_28_WebcamViewer](../2018_02_28_WebcamViewer/readme.md) | [2018_03_18_PlanetaryCook](../2018_03_18_PlanetaryCook/readme.md)>
   
 -------------------------   
 

@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_10_26_Lamoova](2016_10_26_Lamoova\readme.md) | [2016_11_20_DesignAnalyticsVR](2016_11_20_DesignAnalyticsVR\readme.md)>
+  <[2016_10_26_Lamoova](../2016_10_26_Lamoova/readme.md) | [2016_11_20_DesignAnalyticsVR](../2016_11_20_DesignAnalyticsVR/readme.md)>
   
 -------------------------   
 

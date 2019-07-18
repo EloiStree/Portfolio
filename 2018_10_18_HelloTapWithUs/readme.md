@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_10_15_MorseDetectorForStudents](2018_10_15_MorseDetectorForStudents\readme.md) | [2018_10_18_OpenTapToolbox](2018_10_18_OpenTapToolbox\readme.md)>
+  <[2018_10_15_MorseDetectorForStudents](../2018_10_15_MorseDetectorForStudents/readme.md) | [2018_10_18_OpenTapToolbox](../2018_10_18_OpenTapToolbox/readme.md)>
   
 -------------------------   
 

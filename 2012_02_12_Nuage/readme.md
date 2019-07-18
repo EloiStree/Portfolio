@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2012_01_01_MarioJava](2012_01_01_MarioJava\readme.md) | [2012_04_17_Demineur](2012_04_17_Demineur\readme.md)>
+  <[2012_01_01_MarioJava](../2012_01_01_MarioJava/readme.md) | [2012_04_17_Demineur](../2012_04_17_Demineur/readme.md)>
   
 -------------------------   
 

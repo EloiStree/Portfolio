@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_02_25_GhostInTheShell](2017_02_25_GhostInTheShell\readme.md) | [2017_03_11_Notify](2017_03_11_Notify\readme.md)>
+  <[2017_02_25_GhostInTheShell](../2017_02_25_GhostInTheShell/readme.md) | [2017_03_11_Notify](../2017_03_11_Notify/readme.md)>
   
 -------------------------   
 

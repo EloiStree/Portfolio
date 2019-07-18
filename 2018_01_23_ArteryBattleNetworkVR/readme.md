@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_01_19_Students_MolesKingdom](2018_01_19_Students_MolesKingdom\readme.md) | [2018_01_25_Students_TechnifuturPortfolio](2018_01_25_Students_TechnifuturPortfolio\readme.md)>
+  <[2018_01_19_Students_MolesKingdom](../2018_01_19_Students_MolesKingdom/readme.md) | [2018_01_25_Students_TechnifuturPortfolio](../2018_01_25_Students_TechnifuturPortfolio/readme.md)>
   
 -------------------------   
 

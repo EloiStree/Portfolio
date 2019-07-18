@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_05_26_CitizensOfWallonia](2018_05_26_CitizensOfWallonia\readme.md) | [2018_06_01_MeshToVoxel](2018_06_01_MeshToVoxel\readme.md)>
+  <[2018_05_26_CitizensOfWallonia](../2018_05_26_CitizensOfWallonia/readme.md) | [2018_06_01_MeshToVoxel](../2018_06_01_MeshToVoxel/readme.md)>
   
 -------------------------   
 

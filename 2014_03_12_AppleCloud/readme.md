@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2014_02_27_RainReader](2014_02_27_RainReader\readme.md) | [2014_05_15_KinectAndDK1Research](2014_05_15_KinectAndDK1Research\readme.md)>
+  <[2014_02_27_RainReader](../2014_02_27_RainReader/readme.md) | [2014_05_15_KinectAndDK1Research](../2014_05_15_KinectAndDK1Research/readme.md)>
   
 -------------------------   
 

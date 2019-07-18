@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2014_05_15_KinectWalk](2014_05_15_KinectWalk\readme.md) | [2014_06_05_IntroductionToVR](2014_06_05_IntroductionToVR\readme.md)>
+  <[2014_05_15_KinectWalk](../2014_05_15_KinectWalk/readme.md) | [2014_06_05_IntroductionToVR](../2014_06_05_IntroductionToVR/readme.md)>
   
 -------------------------   
 

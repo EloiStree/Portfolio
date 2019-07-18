@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2015_03_31_FlyInTheCity](2015_03_31_FlyInTheCity\readme.md) | [2015_04_24_JediSimulator](2015_04_24_JediSimulator\readme.md)>
+  <[2015_03_31_FlyInTheCity](../2015_03_31_FlyInTheCity/readme.md) | [2015_04_24_JediSimulator](../2015_04_24_JediSimulator/readme.md)>
   
 -------------------------   
 

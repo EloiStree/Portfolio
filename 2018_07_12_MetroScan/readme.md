@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_07_11_DishesStereo](2018_07_11_DishesStereo\readme.md) | [2018_07_13_WoodScanning](2018_07_13_WoodScanning\readme.md)>
+  <[2018_07_11_DishesStereo](../2018_07_11_DishesStereo/readme.md) | [2018_07_13_WoodScanning](../2018_07_13_WoodScanning/readme.md)>
   
 -------------------------   
 

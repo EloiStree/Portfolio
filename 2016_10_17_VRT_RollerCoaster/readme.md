@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_10_11_KISS](2016_10_11_KISS\readme.md) | [2016_10_22_YouNeverBeSoldOut](2016_10_22_YouNeverBeSoldOut\readme.md)>
+  <[2016_10_11_KISS](../2016_10_11_KISS/readme.md) | [2016_10_22_YouNeverBeSoldOut](../2016_10_22_YouNeverBeSoldOut/readme.md)>
   
 -------------------------   
 

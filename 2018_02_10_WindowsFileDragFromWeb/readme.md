@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_02_02_HelloWindowMixedReality](2018_02_02_HelloWindowMixedReality\readme.md) | [2018_02_12_ArtistHelloToUnity](2018_02_12_ArtistHelloToUnity\readme.md)>
+  <[2018_02_02_HelloWindowMixedReality](../2018_02_02_HelloWindowMixedReality/readme.md) | [2018_02_12_ArtistHelloToUnity](../2018_02_12_ArtistHelloToUnity/readme.md)>
   
 -------------------------   
 

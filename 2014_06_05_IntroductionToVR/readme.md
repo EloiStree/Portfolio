@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2014_05_17_Minesweeper0H](2014_05_17_Minesweeper0H\readme.md) | [2014_07_07_WolfensteinVR](2014_07_07_WolfensteinVR\readme.md)>
+  <[2014_05_17_Minesweeper0H](../2014_05_17_Minesweeper0H/readme.md) | [2014_07_07_WolfensteinVR](../2014_07_07_WolfensteinVR/readme.md)>
   
 -------------------------   
 

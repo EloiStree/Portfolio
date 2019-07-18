@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2015_03_08_VirusZone](2015_03_08_VirusZone\readme.md) | [2015_03_31_FlyInTheCity](2015_03_31_FlyInTheCity\readme.md)>
+  <[2015_03_08_VirusZone](../2015_03_08_VirusZone/readme.md) | [2015_03_31_FlyInTheCity](../2015_03_31_FlyInTheCity/readme.md)>
   
 -------------------------   
 

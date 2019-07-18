@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2019_02_15_VRBook](2019_02_15_VRBook\readme.md) | [2019_02_19_hololensfieldofview](2019_02_19_hololensfieldofview\readme.md)>
+  <[2019_02_15_VRBook](../2019_02_15_VRBook/readme.md) | [2019_02_19_hololensfieldofview](../2019_02_19_hololensfieldofview/readme.md)>
   
 -------------------------   
 

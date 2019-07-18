@@ -279,7 +279,6 @@
 - [2013_01_01_TuxMinesweeper](2013_01_01_TuxMinesweeper) > 
 - [2012_07_05_HelmotStLaurent](2012_07_05_HelmotStLaurent) > 
 - [2012_07_05_ErgonomicsCriteria](2012_07_05_ErgonomicsCriteria) > 
-- [2012_06_26_24HNatationLanParty](2012_06_26_24HNatationLanParty) > 
 - [2012_04_17_Demineur](2012_04_17_Demineur) > 
 - [2012_02_12_Nuage](2012_02_12_Nuage) > 
 - [2012_01_01_MarioJava](2012_01_01_MarioJava) > 

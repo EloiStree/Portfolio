@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_09_09_LightingPaint](2017_09_09_LightingPaint\readme.md) | [2017_09_11_TangoBuildingScan](2017_09_11_TangoBuildingScan\readme.md)>
+  <[2017_09_09_LightingPaint](../2017_09_09_LightingPaint/readme.md) | [2017_09_11_TangoBuildingScan](../2017_09_11_TangoBuildingScan/readme.md)>
   
 -------------------------   
 

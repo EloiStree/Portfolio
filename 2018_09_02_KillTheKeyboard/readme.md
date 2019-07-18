@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_08_30_FingersBoard](2018_08_30_FingersBoard\readme.md) | [2018_09_06_NetworkAutoLaunch](2018_09_06_NetworkAutoLaunch\readme.md)>
+  <[2018_08_30_FingersBoard](../2018_08_30_FingersBoard/readme.md) | [2018_09_06_NetworkAutoLaunch](../2018_09_06_NetworkAutoLaunch/readme.md)>
   
 -------------------------   
 

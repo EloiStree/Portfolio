@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_03_26_Students_ProjetAutopompe](2018_03_26_Students_ProjetAutopompe\readme.md) | [2018_03_31_FortniteSnipe](2018_03_31_FortniteSnipe\readme.md)>
+  <[2018_03_26_Students_ProjetAutopompe](../2018_03_26_Students_ProjetAutopompe/readme.md) | [2018_03_31_FortniteSnipe](../2018_03_31_FortniteSnipe/readme.md)>
   
 -------------------------   
 

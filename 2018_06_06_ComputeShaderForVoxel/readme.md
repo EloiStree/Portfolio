@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_06_05_ZedCineyTour](2018_06_05_ZedCineyTour\readme.md) | [2018_06_10_AdidasHack](2018_06_10_AdidasHack\readme.md)>
+  <[2018_06_05_ZedCineyTour](../2018_06_05_ZedCineyTour/readme.md) | [2018_06_10_AdidasHack](../2018_06_10_AdidasHack/readme.md)>
   
 -------------------------   
 

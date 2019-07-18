@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_09_08_PaintingJamE2](2017_09_08_PaintingJamE2\readme.md) | [2017_09_09_NerfGunScan](2017_09_09_NerfGunScan\readme.md)>
+  <[2017_09_08_PaintingJamE2](../2017_09_08_PaintingJamE2/readme.md) | [2017_09_09_NerfGunScan](../2017_09_09_NerfGunScan/readme.md)>
   
 -------------------------   
 

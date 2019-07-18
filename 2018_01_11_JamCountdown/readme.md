@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_01_04_QuestionToReferencing](2018_01_04_QuestionToReferencing\readme.md) | [2018_01_19_Students_MolesKingdom](2018_01_19_Students_MolesKingdom\readme.md)>
+  <[2018_01_04_QuestionToReferencing](../2018_01_04_QuestionToReferencing/readme.md) | [2018_01_19_Students_MolesKingdom](../2018_01_19_Students_MolesKingdom/readme.md)>
   
 -------------------------   
 

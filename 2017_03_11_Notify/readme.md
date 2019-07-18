@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_03_10_MicHololens](2017_03_10_MicHololens\readme.md) | [2017_03_18_BIFFF_VirtualCatalog](2017_03_18_BIFFF_VirtualCatalog\readme.md)>
+  <[2017_03_10_MicHololens](../2017_03_10_MicHololens/readme.md) | [2017_03_18_BIFFF_VirtualCatalog](../2017_03_18_BIFFF_VirtualCatalog/readme.md)>
   
 -------------------------   
 

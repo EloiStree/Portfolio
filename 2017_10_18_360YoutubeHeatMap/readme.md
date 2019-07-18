@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_10_07_TeachingSimulator](2017_10_07_TeachingSimulator\readme.md) | [2017_10_19_KissYourTeacherGameJam](2017_10_19_KissYourTeacherGameJam\readme.md)>
+  <[2017_10_07_TeachingSimulator](../2017_10_07_TeachingSimulator/readme.md) | [2017_10_19_KissYourTeacherGameJam](../2017_10_19_KissYourTeacherGameJam/readme.md)>
   
 -------------------------   
 

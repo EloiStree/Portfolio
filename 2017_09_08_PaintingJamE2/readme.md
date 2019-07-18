@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_09_01_ArNerfgunBattle](2017_09_01_ArNerfgunBattle\readme.md) | [2017_09_09_LightingPaint](2017_09_09_LightingPaint\readme.md)>
+  <[2017_09_01_ArNerfgunBattle](../2017_09_01_ArNerfgunBattle/readme.md) | [2017_09_09_LightingPaint](../2017_09_09_LightingPaint/readme.md)>
   
 -------------------------   
 

@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_04_13_DubaiRemeberTheName](2018_04_13_DubaiRemeberTheName\readme.md) | [2018_04_19_UITPDubai](2018_04_19_UITPDubai\readme.md)>
+  <[2018_04_13_DubaiRemeberTheName](../2018_04_13_DubaiRemeberTheName/readme.md) | [2018_04_19_UITPDubai](../2018_04_19_UITPDubai/readme.md)>
   
 -------------------------   
 

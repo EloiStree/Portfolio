@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_11_01_SpeechlessUniversal](2018_11_01_SpeechlessUniversal\readme.md) | [2018_11_25_OpenBoardCastToolbox](2018_11_25_OpenBoardCastToolbox\readme.md)>
+  <[2018_11_01_SpeechlessUniversal](../2018_11_01_SpeechlessUniversal/readme.md) | [2018_11_25_OpenBoardCastToolbox](../2018_11_25_OpenBoardCastToolbox/readme.md)>
   
 -------------------------   
 

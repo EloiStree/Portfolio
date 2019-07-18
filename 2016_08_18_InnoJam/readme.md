@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_08_17_TwitchMask](2016_08_17_TwitchMask\readme.md) | [2016_08_21_BIFFF35](2016_08_21_BIFFF35\readme.md)>
+  <[2016_08_17_TwitchMask](../2016_08_17_TwitchMask/readme.md) | [2016_08_21_BIFFF35](../2016_08_21_BIFFF35/readme.md)>
   
 -------------------------   
 

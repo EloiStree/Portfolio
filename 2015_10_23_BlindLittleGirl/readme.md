@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2015_09_11_PechaKuchaTraining](2015_09_11_PechaKuchaTraining\readme.md) | [2015_11_05_BlindMind](2015_11_05_BlindMind\readme.md)>
+  <[2015_09_11_PechaKuchaTraining](../2015_09_11_PechaKuchaTraining/readme.md) | [2015_11_05_BlindMind](../2015_11_05_BlindMind/readme.md)>
   
 -------------------------   
 

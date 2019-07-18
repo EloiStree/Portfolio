@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_04_03_PunchingToTheBreak](2017_04_03_PunchingToTheBreak\readme.md) | [2017_04_22_HashTagInTheBottle](2017_04_22_HashTagInTheBottle\readme.md)>
+  <[2017_04_03_PunchingToTheBreak](../2017_04_03_PunchingToTheBreak/readme.md) | [2017_04_22_HashTagInTheBottle](../2017_04_22_HashTagInTheBottle/readme.md)>
   
 -------------------------   
 

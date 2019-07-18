@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2014_05_15_KinectAndDK1Research](2014_05_15_KinectAndDK1Research\readme.md) | [2014_05_17_Minesweeper0H](2014_05_17_Minesweeper0H\readme.md)>
+  <[2014_05_15_KinectAndDK1Research](../2014_05_15_KinectAndDK1Research/readme.md) | [2014_05_17_Minesweeper0H](../2014_05_17_Minesweeper0H/readme.md)>
   
 -------------------------   
 

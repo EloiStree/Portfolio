@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_02_26_WikiDesignVR](2018_02_26_WikiDesignVR\readme.md) | [2018_03_14_Meuh](2018_03_14_Meuh\readme.md)>
+  <[2018_02_26_WikiDesignVR](../2018_02_26_WikiDesignVR/readme.md) | [2018_03_14_Meuh](../2018_03_14_Meuh/readme.md)>
   
 -------------------------   
 

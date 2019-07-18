@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_03_24_HowToDoReactionVideo](2017_03_24_HowToDoReactionVideo\readme.md) | [2017_04_03_PunchingToTheBreak](2017_04_03_PunchingToTheBreak\readme.md)>
+  <[2017_03_24_HowToDoReactionVideo](../2017_03_24_HowToDoReactionVideo/readme.md) | [2017_04_03_PunchingToTheBreak](../2017_04_03_PunchingToTheBreak/readme.md)>
   
 -------------------------   
 

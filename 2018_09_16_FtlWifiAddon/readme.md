@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_09_06_PatreonEloiWatermark](2018_09_06_PatreonEloiWatermark\readme.md) | [2018_09_18_FaceTrackedMouse](2018_09_18_FaceTrackedMouse\readme.md)>
+  <[2018_09_06_PatreonEloiWatermark](../2018_09_06_PatreonEloiWatermark/readme.md) | [2018_09_18_FaceTrackedMouse](../2018_09_18_FaceTrackedMouse/readme.md)>
   
 -------------------------   
 

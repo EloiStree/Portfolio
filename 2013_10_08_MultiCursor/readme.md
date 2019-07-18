@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2013_09_21_JRift](2013_09_21_JRift\readme.md) | [2013_10_24_DoudouRumble](2013_10_24_DoudouRumble\readme.md)>
+  <[2013_09_21_JRift](../2013_09_21_JRift/readme.md) | [2013_10_24_DoudouRumble](../2013_10_24_DoudouRumble/readme.md)>
   
 -------------------------   
 

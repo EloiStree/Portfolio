@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2014_11_08_MrMrsFlash](2014_11_08_MrMrsFlash\readme.md) | [2014_11_09_ZooMachine](2014_11_09_ZooMachine\readme.md)>
+  <[2014_11_08_MrMrsFlash](../2014_11_08_MrMrsFlash/readme.md) | [2014_11_09_ZooMachine](../2014_11_09_ZooMachine/readme.md)>
   
 -------------------------   
 

@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_04_18_MIC_Boostcamp](2018_04_18_MIC_Boostcamp\readme.md) | [2018_05_13_RubikWorld](2018_05_13_RubikWorld\readme.md)>
+  <[2018_04_18_MIC_Boostcamp](../2018_04_18_MIC_Boostcamp/readme.md) | [2018_05_13_RubikWorld](../2018_05_13_RubikWorld/readme.md)>
   
 -------------------------   
 

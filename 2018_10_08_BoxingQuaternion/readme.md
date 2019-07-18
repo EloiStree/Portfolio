@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_10_07_KISS4](2018_10_07_KISS4\readme.md) | [2018_10_11_Students_NicoDesCouloirs](2018_10_11_Students_NicoDesCouloirs\readme.md)>
+  <[2018_10_07_KISS4](../2018_10_07_KISS4/readme.md) | [2018_10_11_Students_NicoDesCouloirs](../2018_10_11_Students_NicoDesCouloirs/readme.md)>
   
 -------------------------   
 

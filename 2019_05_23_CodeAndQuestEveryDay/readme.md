@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2019_05_19_easyrubikcube](2019_05_19_easyrubikcube\readme.md) | [2019_05_25_TennisTableElevenFerrieres](2019_05_25_TennisTableElevenFerrieres\readme.md)>
+  <[2019_05_19_easyrubikcube](../2019_05_19_easyrubikcube/readme.md) | [2019_05_25_TennisTableElevenFerrieres](../2019_05_25_TennisTableElevenFerrieres/readme.md)>
   
 -------------------------   
 

@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_12_04_Katamari](2017_12_04_Katamari\readme.md) | [2017_12_12_WoufWouf](2017_12_12_WoufWouf\readme.md)>
+  <[2017_12_04_Katamari](../2017_12_04_Katamari/readme.md) | [2017_12_12_WoufWouf](../2017_12_12_WoufWouf/readme.md)>
   
 -------------------------   
 

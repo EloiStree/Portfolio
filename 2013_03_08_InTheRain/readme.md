@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2013_01_28_Minesweeper](2013_01_28_Minesweeper\readme.md) | [2013_05_12_FederationBattle](2013_05_12_FederationBattle\readme.md)>
+  <[2013_01_28_Minesweeper](../2013_01_28_Minesweeper/readme.md) | [2013_05_12_FederationBattle](../2013_05_12_FederationBattle/readme.md)>
   
 -------------------------   
 

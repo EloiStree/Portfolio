@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_09_11_TangoBuildingScan](2017_09_11_TangoBuildingScan\readme.md) | [2017_09_25_StoryJam](2017_09_25_StoryJam\readme.md)>
+  <[2017_09_11_TangoBuildingScan](../2017_09_11_TangoBuildingScan/readme.md) | [2017_09_25_StoryJam](../2017_09_25_StoryJam/readme.md)>
   
 -------------------------   
 

@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_11_15_PocketCoach](2017_11_15_PocketCoach\readme.md) | [2017_12_04_Katamari](2017_12_04_Katamari\readme.md)>
+  <[2017_11_15_PocketCoach](../2017_11_15_PocketCoach/readme.md) | [2017_12_04_Katamari](../2017_12_04_Katamari/readme.md)>
   
 -------------------------   
 

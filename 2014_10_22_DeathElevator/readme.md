@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2014_10_21_QwertyWars](2014_10_21_QwertyWars\readme.md) | [2014_10_30_WalkKinectProject](2014_10_30_WalkKinectProject\readme.md)>
+  <[2014_10_21_QwertyWars](../2014_10_21_QwertyWars/readme.md) | [2014_10_30_WalkKinectProject](../2014_10_30_WalkKinectProject/readme.md)>
   
 -------------------------   
 

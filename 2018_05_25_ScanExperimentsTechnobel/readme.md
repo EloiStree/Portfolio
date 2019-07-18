@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_05_25_HelloZedMiniVideo](2018_05_25_HelloZedMiniVideo\readme.md) | [2018_05_26_CitizensOfWallonia](2018_05_26_CitizensOfWallonia\readme.md)>
+  <[2018_05_25_HelloZedMiniVideo](../2018_05_25_HelloZedMiniVideo/readme.md) | [2018_05_26_CitizensOfWallonia](../2018_05_26_CitizensOfWallonia/readme.md)>
   
 -------------------------   
 

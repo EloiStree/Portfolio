@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2013_05_31_SCJP](2013_05_31_SCJP\readme.md) | [2013_06_27_BlackMantis](2013_06_27_BlackMantis\readme.md)>
+  <[2013_05_31_SCJP](../2013_05_31_SCJP/readme.md) | [2013_06_27_BlackMantis](../2013_06_27_BlackMantis/readme.md)>
   
 -------------------------   
 

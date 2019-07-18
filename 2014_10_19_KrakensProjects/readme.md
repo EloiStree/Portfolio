@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2014_10_14_Technocite_Demo2](2014_10_14_Technocite_Demo2\readme.md) | [2014_10_21_QwertyWars](2014_10_21_QwertyWars\readme.md)>
+  <[2014_10_14_Technocite_Demo2](../2014_10_14_Technocite_Demo2/readme.md) | [2014_10_21_QwertyWars](../2014_10_21_QwertyWars/readme.md)>
   
 -------------------------   
 

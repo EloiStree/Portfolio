@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2014_06_05_IntroductionToVR](2014_06_05_IntroductionToVR\readme.md) | [2014_07_25_Shhhh](2014_07_25_Shhhh\readme.md)>
+  <[2014_06_05_IntroductionToVR](../2014_06_05_IntroductionToVR/readme.md) | [2014_07_25_Shhhh](../2014_07_25_Shhhh/readme.md)>
   
 -------------------------   
 

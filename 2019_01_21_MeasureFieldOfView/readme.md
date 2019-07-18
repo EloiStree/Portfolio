@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2019_01_19_MoveYourAss_LaserVersion](2019_01_19_MoveYourAss_LaserVersion\readme.md) | [2019_01_23_JustLasers](2019_01_23_JustLasers\readme.md)>
+  <[2019_01_19_MoveYourAss_LaserVersion](../2019_01_19_MoveYourAss_LaserVersion/readme.md) | [2019_01_23_JustLasers](../2019_01_23_JustLasers/readme.md)>
   
 -------------------------   
 

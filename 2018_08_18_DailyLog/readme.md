@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_08_11_Thamaganos](2018_08_11_Thamaganos\readme.md) | [2018_08_30_FingersBoard](2018_08_30_FingersBoard\readme.md)>
+  <[2018_08_11_Thamaganos](../2018_08_11_Thamaganos/readme.md) | [2018_08_30_FingersBoard](../2018_08_30_FingersBoard/readme.md)>
   
 -------------------------   
 

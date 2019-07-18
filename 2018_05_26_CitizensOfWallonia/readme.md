@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_05_25_ScanExperimentsTechnobel](2018_05_25_ScanExperimentsTechnobel\readme.md) | [2018_05_28_ScanSmallObject](2018_05_28_ScanSmallObject\readme.md)>
+  <[2018_05_25_ScanExperimentsTechnobel](../2018_05_25_ScanExperimentsTechnobel/readme.md) | [2018_05_28_ScanSmallObject](../2018_05_28_ScanSmallObject/readme.md)>
   
 -------------------------   
 

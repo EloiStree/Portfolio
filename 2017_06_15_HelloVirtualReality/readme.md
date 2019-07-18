@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_06_03_WifiSniffer](2017_06_03_WifiSniffer\readme.md) | [2017_06_16_TangoScanResearches](2017_06_16_TangoScanResearches\readme.md)>
+  <[2017_06_03_WifiSniffer](../2017_06_03_WifiSniffer/readme.md) | [2017_06_16_TangoScanResearches](../2017_06_16_TangoScanResearches/readme.md)>
   
 -------------------------   
 

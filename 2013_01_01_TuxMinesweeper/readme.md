@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2012_07_05_HelmotStLaurent](2012_07_05_HelmotStLaurent\readme.md) | [2013_01_28_Minesweeper](2013_01_28_Minesweeper\readme.md)>
+  <[2012_07_05_HelmotStLaurent](../2012_07_05_HelmotStLaurent/readme.md) | [2013_01_28_Minesweeper](../2013_01_28_Minesweeper/readme.md)>
   
 -------------------------   
 

@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_12_23_RestreamChatHacking](2017_12_23_RestreamChatHacking\readme.md) | [2018_01_01_GameGuideFortnite](2018_01_01_GameGuideFortnite\readme.md)>
+  <[2017_12_23_RestreamChatHacking](../2017_12_23_RestreamChatHacking/readme.md) | [2018_01_01_GameGuideFortnite](../2018_01_01_GameGuideFortnite/readme.md)>
   
 -------------------------   
 

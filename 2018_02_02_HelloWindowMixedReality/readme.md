@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_01_26_HolostreamChannel6](2018_01_26_HolostreamChannel6\readme.md) | [2018_02_10_WindowsFileDragFromWeb](2018_02_10_WindowsFileDragFromWeb\readme.md)>
+  <[2018_01_26_HolostreamChannel6](../2018_01_26_HolostreamChannel6/readme.md) | [2018_02_10_WindowsFileDragFromWeb](../2018_02_10_WindowsFileDragFromWeb/readme.md)>
   
 -------------------------   
 

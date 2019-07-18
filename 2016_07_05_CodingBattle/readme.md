@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_06_27_JaimeOfThrone](2016_06_27_JaimeOfThrone\readme.md) | [2016_07_18_Hotel360](2016_07_18_Hotel360\readme.md)>
+  <[2016_06_27_JaimeOfThrone](../2016_06_27_JaimeOfThrone/readme.md) | [2016_07_18_Hotel360](../2016_07_18_Hotel360/readme.md)>
   
 -------------------------   
 

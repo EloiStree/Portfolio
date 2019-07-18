@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_07_16_Ely360Visit](2017_07_16_Ely360Visit\readme.md) | [2017_08_01_NidaleeThrowingGuide](2017_08_01_NidaleeThrowingGuide\readme.md)>
+  <[2017_07_16_Ely360Visit](../2017_07_16_Ely360Visit/readme.md) | [2017_08_01_NidaleeThrowingGuide](../2017_08_01_NidaleeThrowingGuide/readme.md)>
   
 -------------------------   
 

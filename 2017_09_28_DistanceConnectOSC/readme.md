@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_09_25_StoryJam](2017_09_25_StoryJam\readme.md) | [2017_09_30_AnonymusHack](2017_09_30_AnonymusHack\readme.md)>
+  <[2017_09_25_StoryJam](../2017_09_25_StoryJam/readme.md) | [2017_09_30_AnonymusHack](../2017_09_30_AnonymusHack/readme.md)>
   
 -------------------------   
 

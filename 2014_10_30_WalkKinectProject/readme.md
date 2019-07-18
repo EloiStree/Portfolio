@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2014_10_22_DeathElevator](2014_10_22_DeathElevator\readme.md) | [2014_11_04_BlourakDestiny](2014_11_04_BlourakDestiny\readme.md)>
+  <[2014_10_22_DeathElevator](../2014_10_22_DeathElevator/readme.md) | [2014_11_04_BlourakDestiny](../2014_11_04_BlourakDestiny/readme.md)>
   
 -------------------------   
 

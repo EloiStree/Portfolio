@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_10_08_BoxingQuaternion](2018_10_08_BoxingQuaternion\readme.md) | [2018_10_14_GitMarkdownForWiki](2018_10_14_GitMarkdownForWiki\readme.md)>
+  <[2018_10_08_BoxingQuaternion](../2018_10_08_BoxingQuaternion/readme.md) | [2018_10_14_GitMarkdownForWiki](../2018_10_14_GitMarkdownForWiki/readme.md)>
   
 -------------------------   
 

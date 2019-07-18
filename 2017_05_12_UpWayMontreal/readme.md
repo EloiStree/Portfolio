@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_04_28_UpwayBrussels](2017_04_28_UpwayBrussels\readme.md) | [2017_05_13_UITPMontreal](2017_05_13_UITPMontreal\readme.md)>
+  <[2017_04_28_UpwayBrussels](../2017_04_28_UpwayBrussels/readme.md) | [2017_05_13_UITPMontreal](../2017_05_13_UITPMontreal/readme.md)>
   
 -------------------------   
 

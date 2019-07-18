@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_04_01_VirtualAtlas](2016_04_01_VirtualAtlas\readme.md) | [2016_04_22_Drone360](2016_04_22_Drone360\readme.md)>
+  <[2016_04_01_VirtualAtlas](../2016_04_01_VirtualAtlas/readme.md) | [2016_04_22_Drone360](../2016_04_22_Drone360/readme.md)>
   
 -------------------------   
 

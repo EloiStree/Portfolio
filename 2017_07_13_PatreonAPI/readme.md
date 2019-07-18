@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_07_11_S8_OneMesh](2017_07_11_S8_OneMesh\readme.md) | [2017_07_16_Ely360Visit](2017_07_16_Ely360Visit\readme.md)>
+  <[2017_07_11_S8_OneMesh](../2017_07_11_S8_OneMesh/readme.md) | [2017_07_16_Ely360Visit](../2017_07_16_Ely360Visit/readme.md)>
   
 -------------------------   
 

@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2019_02_06_MoveYourAss_GoldenDickButtVersion](2019_02_06_MoveYourAss_GoldenDickButtVersion\readme.md) | [2019_02_15_VRBook](2019_02_15_VRBook\readme.md)>
+  <[2019_02_06_MoveYourAss_GoldenDickButtVersion](../2019_02_06_MoveYourAss_GoldenDickButtVersion/readme.md) | [2019_02_15_VRBook](../2019_02_15_VRBook/readme.md)>
   
 -------------------------   
 

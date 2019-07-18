@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_12_12_WoufWouf](2017_12_12_WoufWouf\readme.md) | [2017_12_20_RickAndMortyAR](2017_12_20_RickAndMortyAR\readme.md)>
+  <[2017_12_12_WoufWouf](../2017_12_12_WoufWouf/readme.md) | [2017_12_20_RickAndMortyAR](../2017_12_20_RickAndMortyAR/readme.md)>
   
 -------------------------   
 

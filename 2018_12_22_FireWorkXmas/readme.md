@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_12_21_ClearnRoomZedExperiment](2018_12_21_ClearnRoomZedExperiment\readme.md) | [2019_01_13_FireWorkHelloHC06](2019_01_13_FireWorkHelloHC06\readme.md)>
+  <[2018_12_21_ClearnRoomZedExperiment](../2018_12_21_ClearnRoomZedExperiment/readme.md) | [2019_01_13_FireWorkHelloHC06](../2019_01_13_FireWorkHelloHC06/readme.md)>
   
 -------------------------   
 

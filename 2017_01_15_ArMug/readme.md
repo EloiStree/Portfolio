@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_01_14_PaintingJam](2017_01_14_PaintingJam\readme.md) | [2017_01_21_ArBanking](2017_01_21_ArBanking\readme.md)>
+  <[2017_01_14_PaintingJam](../2017_01_14_PaintingJam/readme.md) | [2017_01_21_ArBanking](../2017_01_21_ArBanking/readme.md)>
   
 -------------------------   
 

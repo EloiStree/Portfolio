@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_01_01_GameGuideFortnite](2018_01_01_GameGuideFortnite\readme.md) | [2018_01_11_JamCountdown](2018_01_11_JamCountdown\readme.md)>
+  <[2018_01_01_GameGuideFortnite](../2018_01_01_GameGuideFortnite/readme.md) | [2018_01_11_JamCountdown](../2018_01_11_JamCountdown/readme.md)>
   
 -------------------------   
 

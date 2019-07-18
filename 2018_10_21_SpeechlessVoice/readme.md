@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_10_21_HackBorgerhout](2018_10_21_HackBorgerhout\readme.md) | [2018_10_28_0HGAMEJAM](2018_10_28_0HGAMEJAM\readme.md)>
+  <[2018_10_21_HackBorgerhout](../2018_10_21_HackBorgerhout/readme.md) | [2018_10_28_0HGAMEJAM](../2018_10_28_0HGAMEJAM/readme.md)>
   
 -------------------------   
 

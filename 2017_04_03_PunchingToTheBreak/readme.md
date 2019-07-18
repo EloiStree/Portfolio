@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_03_24_Print360](2017_03_24_Print360\readme.md) | [2017_04_13_WhaleRider](2017_04_13_WhaleRider\readme.md)>
+  <[2017_03_24_Print360](../2017_03_24_Print360/readme.md) | [2017_04_13_WhaleRider](../2017_04_13_WhaleRider/readme.md)>
   
 -------------------------   
 

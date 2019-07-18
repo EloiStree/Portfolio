@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_06_06_ComputeShaderForVoxel](2018_06_06_ComputeShaderForVoxel\readme.md) | [2018_06_10_VickyWheelChair](2018_06_10_VickyWheelChair\readme.md)>
+  <[2018_06_06_ComputeShaderForVoxel](../2018_06_06_ComputeShaderForVoxel/readme.md) | [2018_06_10_VickyWheelChair](../2018_06_10_VickyWheelChair/readme.md)>
   
 -------------------------   
 

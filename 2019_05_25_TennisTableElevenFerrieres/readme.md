@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2019_05_23_CodeAndQuestEveryDay](2019_05_23_CodeAndQuestEveryDay\readme.md) | [2019_05_27_UnkownRadioVR](2019_05_27_UnkownRadioVR\readme.md)>
+  <[2019_05_23_CodeAndQuestEveryDay](../2019_05_23_CodeAndQuestEveryDay/readme.md) | [2019_05_27_UnkownRadioVR](../2019_05_27_UnkownRadioVR/readme.md)>
   
 -------------------------   
 

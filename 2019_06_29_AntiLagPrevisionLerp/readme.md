@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2019_06_26_QuestRecalibration](2019_06_26_QuestRecalibration\readme.md) | [2019_07_01_TennisTableFerrieresScanByHand](2019_07_01_TennisTableFerrieresScanByHand\readme.md)>
+  <[2019_06_26_QuestRecalibration](../2019_06_26_QuestRecalibration/readme.md) | [2019_07_01_TennisTableFerrieresScanByHand](../2019_07_01_TennisTableFerrieresScanByHand/readme.md)>
   
 -------------------------   
 

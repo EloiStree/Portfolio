@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_03_23_HelloVrForUCLL](2017_03_23_HelloVrForUCLL\readme.md) | [2017_03_24_Print360](2017_03_24_Print360\readme.md)>
+  <[2017_03_23_HelloVrForUCLL](../2017_03_23_HelloVrForUCLL/readme.md) | [2017_03_24_Print360](../2017_03_24_Print360/readme.md)>
   
 -------------------------   
 

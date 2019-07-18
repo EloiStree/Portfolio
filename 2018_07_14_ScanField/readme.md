@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_07_13_WoodScanning](2018_07_13_WoodScanning\readme.md) | [2018_08_04_MacroTool](2018_08_04_MacroTool\readme.md)>
+  <[2018_07_13_WoodScanning](../2018_07_13_WoodScanning/readme.md) | [2018_08_04_MacroTool](../2018_08_04_MacroTool/readme.md)>
   
 -------------------------   
 

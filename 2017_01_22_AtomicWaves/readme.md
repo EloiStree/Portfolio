@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_01_21_ArBanking](2017_01_21_ArBanking\readme.md) | [2017_01_23_ArteryVR](2017_01_23_ArteryVR\readme.md)>
+  <[2017_01_21_ArBanking](../2017_01_21_ArBanking/readme.md) | [2017_01_23_ArteryVR](../2017_01_23_ArteryVR/readme.md)>
   
 -------------------------   
 

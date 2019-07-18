@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2012_07_05_ErgonomicsCriteria](2012_07_05_ErgonomicsCriteria\readme.md) | [2013_01_01_TuxMinesweeper](2013_01_01_TuxMinesweeper\readme.md)>
+  <[2012_07_05_ErgonomicsCriteria](../2012_07_05_ErgonomicsCriteria/readme.md) | [2013_01_01_TuxMinesweeper](../2013_01_01_TuxMinesweeper/readme.md)>
   
 -------------------------   
 

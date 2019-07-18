@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_12_16_EditorExploration](2017_12_16_EditorExploration\readme.md) | [2017_12_23_RestreamChatHacking](2017_12_23_RestreamChatHacking\readme.md)>
+  <[2017_12_16_EditorExploration](../2017_12_16_EditorExploration/readme.md) | [2017_12_23_RestreamChatHacking](../2017_12_23_RestreamChatHacking/readme.md)>
   
 -------------------------   
 

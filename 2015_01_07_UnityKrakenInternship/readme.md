@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2014_11_23_MonsterJam](2014_11_23_MonsterJam\readme.md) | [2015_01_23_Demonicide](2015_01_23_Demonicide\readme.md)>
+  <[2014_11_23_MonsterJam](../2014_11_23_MonsterJam/readme.md) | [2015_01_23_Demonicide](../2015_01_23_Demonicide/readme.md)>
   
 -------------------------   
 

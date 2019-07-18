@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2019_07_10_RealVirtualTennisTableTraining](2019_07_10_RealVirtualTennisTableTraining\readme.md) | [](\readme.md)>
+  <[2019_07_10_RealVirtualTennisTableTraining](../2019_07_10_RealVirtualTennisTableTraining/readme.md) | [](..//readme.md)>
   
 -------------------------   
 

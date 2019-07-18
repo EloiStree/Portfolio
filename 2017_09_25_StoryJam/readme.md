@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_09_25_IrishDream](2017_09_25_IrishDream\readme.md) | [2017_09_28_DistanceConnectOSC](2017_09_28_DistanceConnectOSC\readme.md)>
+  <[2017_09_25_IrishDream](../2017_09_25_IrishDream/readme.md) | [2017_09_28_DistanceConnectOSC](../2017_09_28_DistanceConnectOSC/readme.md)>
   
 -------------------------   
 

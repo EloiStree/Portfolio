@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2019_01_15_FieldOfViewARVR](2019_01_15_FieldOfViewARVR\readme.md) | [2019_01_15_RandomTool](2019_01_15_RandomTool\readme.md)>
+  <[2019_01_15_FieldOfViewARVR](../2019_01_15_FieldOfViewARVR/readme.md) | [2019_01_15_RandomTool](../2019_01_15_RandomTool/readme.md)>
   
 -------------------------   
 

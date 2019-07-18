@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2015_07_09_SurfingDrone](2015_07_09_SurfingDrone\readme.md) | [2015_08_15_HakobioVR](2015_08_15_HakobioVR\readme.md)>
+  <[2015_07_09_SurfingDrone](../2015_07_09_SurfingDrone/readme.md) | [2015_08_15_HakobioVR](../2015_08_15_HakobioVR/readme.md)>
   
 -------------------------   
 

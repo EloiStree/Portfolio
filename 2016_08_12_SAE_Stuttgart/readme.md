@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_08_05_VizorVR](2016_08_05_VizorVR\readme.md) | [2016_08_17_TwitchMask](2016_08_17_TwitchMask\readme.md)>
+  <[2016_08_05_VizorVR](../2016_08_05_VizorVR/readme.md) | [2016_08_17_TwitchMask](../2016_08_17_TwitchMask/readme.md)>
   
 -------------------------   
 

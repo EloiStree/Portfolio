@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_08_05_Muforia](2016_08_05_Muforia\readme.md) | [2016_08_12_SAE_Stuttgart](2016_08_12_SAE_Stuttgart\readme.md)>
+  <[2016_08_05_Muforia](../2016_08_05_Muforia/readme.md) | [2016_08_12_SAE_Stuttgart](../2016_08_12_SAE_Stuttgart/readme.md)>
   
 -------------------------   
 

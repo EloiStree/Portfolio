@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2014_10_30_WalkKinectProject](2014_10_30_WalkKinectProject\readme.md) | [2014_11_07_UnkownRadio](2014_11_07_UnkownRadio\readme.md)>
+  <[2014_10_30_WalkKinectProject](../2014_10_30_WalkKinectProject/readme.md) | [2014_11_07_UnkownRadio](../2014_11_07_UnkownRadio/readme.md)>
   
 -------------------------   
 

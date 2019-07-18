@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_08_21_BIFFF35](2016_08_21_BIFFF35\readme.md) | [2016_08_30_OutsideWalk](2016_08_30_OutsideWalk\readme.md)>
+  <[2016_08_21_BIFFF35](../2016_08_21_BIFFF35/readme.md) | [2016_08_30_OutsideWalk](../2016_08_30_OutsideWalk/readme.md)>
   
 -------------------------   
 

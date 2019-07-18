@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_07_12_MetroScan](2018_07_12_MetroScan\readme.md) | [2018_07_14_ScanField](2018_07_14_ScanField\readme.md)>
+  <[2018_07_12_MetroScan](../2018_07_12_MetroScan/readme.md) | [2018_07_14_ScanField](../2018_07_14_ScanField/readme.md)>
   
 -------------------------   
 

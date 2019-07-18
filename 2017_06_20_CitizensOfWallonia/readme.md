@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_06_16_TangoScanResearches](2017_06_16_TangoScanResearches\readme.md) | [2017_06_28_HelloNFC](2017_06_28_HelloNFC\readme.md)>
+  <[2017_06_16_TangoScanResearches](../2017_06_16_TangoScanResearches/readme.md) | [2017_06_28_HelloNFC](../2017_06_28_HelloNFC/readme.md)>
   
 -------------------------   
 

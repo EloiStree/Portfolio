@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_05_01_MolenGeekHack](2016_05_01_MolenGeekHack\readme.md) | [2016_05_06_ParisImmo](2016_05_06_ParisImmo\readme.md)>
+  <[2016_05_01_MolenGeekHack](../2016_05_01_MolenGeekHack/readme.md) | [2016_05_06_ParisImmo](../2016_05_06_ParisImmo/readme.md)>
   
 -------------------------   
 

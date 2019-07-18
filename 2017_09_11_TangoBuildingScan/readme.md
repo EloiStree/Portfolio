@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_09_09_NerfGunScan](2017_09_09_NerfGunScan\readme.md) | [2017_09_25_IrishDream](2017_09_25_IrishDream\readme.md)>
+  <[2017_09_09_NerfGunScan](../2017_09_09_NerfGunScan/readme.md) | [2017_09_25_IrishDream](../2017_09_25_IrishDream/readme.md)>
   
 -------------------------   
 

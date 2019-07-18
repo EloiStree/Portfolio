@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2014_01_15_TimeRifter](2014_01_15_TimeRifter\readme.md) | [2014_02_27_RainReader](2014_02_27_RainReader\readme.md)>
+  <[2014_01_15_TimeRifter](../2014_01_15_TimeRifter/readme.md) | [2014_02_27_RainReader](../2014_02_27_RainReader/readme.md)>
   
 -------------------------   
 

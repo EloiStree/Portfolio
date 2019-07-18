@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2019_05_27_UnkownRadioVR](2019_05_27_UnkownRadioVR\readme.md) | [2019_06_03_AdbUtility](2019_06_03_AdbUtility\readme.md)>
+  <[2019_05_27_UnkownRadioVR](../2019_05_27_UnkownRadioVR/readme.md) | [2019_06_03_AdbUtility](../2019_06_03_AdbUtility/readme.md)>
   
 -------------------------   
 

@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2019_04_04_holohandstracking](2019_04_04_holohandstracking\readme.md) | [2019_05_03_justrubikcube](2019_05_03_justrubikcube\readme.md)>
+  <[2019_04_04_holohandstracking](../2019_04_04_holohandstracking/readme.md) | [2019_05_03_justrubikcube](../2019_05_03_justrubikcube/readme.md)>
   
 -------------------------   
 

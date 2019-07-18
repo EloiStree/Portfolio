@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_03_31_FortniteSnipe](2018_03_31_FortniteSnipe\readme.md) | [2018_04_13_DubaiRemeberTheName](2018_04_13_DubaiRemeberTheName\readme.md)>
+  <[2018_03_31_FortniteSnipe](../2018_03_31_FortniteSnipe/readme.md) | [2018_04_13_DubaiRemeberTheName](../2018_04_13_DubaiRemeberTheName/readme.md)>
   
 -------------------------   
 

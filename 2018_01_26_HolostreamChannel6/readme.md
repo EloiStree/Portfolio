@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_01_25_Students_TechnifuturPortfolio](2018_01_25_Students_TechnifuturPortfolio\readme.md) | [2018_02_02_HelloWindowMixedReality](2018_02_02_HelloWindowMixedReality\readme.md)>
+  <[2018_01_25_Students_TechnifuturPortfolio](../2018_01_25_Students_TechnifuturPortfolio/readme.md) | [2018_02_02_HelloWindowMixedReality](../2018_02_02_HelloWindowMixedReality/readme.md)>
   
 -------------------------   
 

@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2014_11_09_ZooMachine](2014_11_09_ZooMachine\readme.md) | [2015_01_07_UnityKrakenInternship](2015_01_07_UnityKrakenInternship\readme.md)>
+  <[2014_11_09_ZooMachine](../2014_11_09_ZooMachine/readme.md) | [2015_01_07_UnityKrakenInternship](../2015_01_07_UnityKrakenInternship/readme.md)>
   
 -------------------------   
 

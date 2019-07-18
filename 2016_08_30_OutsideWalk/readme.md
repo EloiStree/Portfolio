@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_08_28_TwitchPlays_Risk](2016_08_28_TwitchPlays_Risk\readme.md) | [2016_09_03_BBQInterview360](2016_09_03_BBQInterview360\readme.md)>
+  <[2016_08_28_TwitchPlays_Risk](../2016_08_28_TwitchPlays_Risk/readme.md) | [2016_09_03_BBQInterview360](../2016_09_03_BBQInterview360/readme.md)>
   
 -------------------------   
 

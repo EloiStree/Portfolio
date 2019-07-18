@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_08_03_9GagAPI](2016_08_03_9GagAPI\readme.md) | [2016_08_05_Muforia](2016_08_05_Muforia\readme.md)>
+  <[2016_08_03_9GagAPI](../2016_08_03_9GagAPI/readme.md) | [2016_08_05_Muforia](../2016_08_05_Muforia/readme.md)>
   
 -------------------------   
 

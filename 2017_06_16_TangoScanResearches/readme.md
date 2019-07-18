@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_06_15_HelloVirtualReality](2017_06_15_HelloVirtualReality\readme.md) | [2017_06_20_CitizensOfWallonia](2017_06_20_CitizensOfWallonia\readme.md)>
+  <[2017_06_15_HelloVirtualReality](../2017_06_15_HelloVirtualReality/readme.md) | [2017_06_20_CitizensOfWallonia](../2017_06_20_CitizensOfWallonia/readme.md)>
   
 -------------------------   
 

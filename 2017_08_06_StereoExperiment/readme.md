@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_08_06_BIFFF360](2017_08_06_BIFFF360\readme.md) | [2017_08_06_TimeLapseLive](2017_08_06_TimeLapseLive\readme.md)>
+  <[2017_08_06_BIFFF360](../2017_08_06_BIFFF360/readme.md) | [2017_08_06_TimeLapseLive](../2017_08_06_TimeLapseLive/readme.md)>
   
 -------------------------   
 

@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2014_03_12_AppleCloud](2014_03_12_AppleCloud\readme.md) | [2014_05_15_KinectWalk](2014_05_15_KinectWalk\readme.md)>
+  <[2014_03_12_AppleCloud](../2014_03_12_AppleCloud/readme.md) | [2014_05_15_KinectWalk](../2014_05_15_KinectWalk/readme.md)>
   
 -------------------------   
 

@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2014_08_31_VanDamBaam](2014_08_31_VanDamBaam\readme.md) | [2014_10_19_KrakensProjects](2014_10_19_KrakensProjects\readme.md)>
+  <[2014_08_31_VanDamBaam](../2014_08_31_VanDamBaam/readme.md) | [2014_10_19_KrakensProjects](../2014_10_19_KrakensProjects/readme.md)>
   
 -------------------------   
 

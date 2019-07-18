@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2014_07_25_Shhhh](2014_07_25_Shhhh\readme.md) | [2014_08_31_VanDamBaam](2014_08_31_VanDamBaam\readme.md)>
+  <[2014_07_25_Shhhh](../2014_07_25_Shhhh/readme.md) | [2014_08_31_VanDamBaam](../2014_08_31_VanDamBaam/readme.md)>
   
 -------------------------   
 

@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2013_03_08_InTheRain](2013_03_08_InTheRain\readme.md) | [2013_05_12_TimeRifter](2013_05_12_TimeRifter\readme.md)>
+  <[2013_03_08_InTheRain](../2013_03_08_InTheRain/readme.md) | [2013_05_12_TimeRifter](../2013_05_12_TimeRifter/readme.md)>
   
 -------------------------   
 

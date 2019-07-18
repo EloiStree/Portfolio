@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2015_07_01_VirtualDroneWar](2015_07_01_VirtualDroneWar\readme.md) | [2015_08_04_FlicToUnity](2015_08_04_FlicToUnity\readme.md)>
+  <[2015_07_01_VirtualDroneWar](../2015_07_01_VirtualDroneWar/readme.md) | [2015_08_04_FlicToUnity](../2015_08_04_FlicToUnity/readme.md)>
   
 -------------------------   
 

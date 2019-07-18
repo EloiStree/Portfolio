@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_09_25_BruSee](2016_09_25_BruSee\readme.md) | [2016_09_26_SimWheels](2016_09_26_SimWheels\readme.md)>
+  <[2016_09_25_BruSee](../2016_09_25_BruSee/readme.md) | [2016_09_26_SimWheels](../2016_09_26_SimWheels/readme.md)>
   
 -------------------------   
 

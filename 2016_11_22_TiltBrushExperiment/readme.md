@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_11_20_DesignAnalyticsVR](2016_11_20_DesignAnalyticsVR\readme.md) | [2016_12_09_InTheCell](2016_12_09_InTheCell\readme.md)>
+  <[2016_11_20_DesignAnalyticsVR](../2016_11_20_DesignAnalyticsVR/readme.md) | [2016_12_09_InTheCell](../2016_12_09_InTheCell/readme.md)>
   
 -------------------------   
 

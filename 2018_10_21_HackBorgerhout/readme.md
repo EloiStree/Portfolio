@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_10_18_OpenTapToolbox](2018_10_18_OpenTapToolbox\readme.md) | [2018_10_21_SpeechlessVoice](2018_10_21_SpeechlessVoice\readme.md)>
+  <[2018_10_18_OpenTapToolbox](../2018_10_18_OpenTapToolbox/readme.md) | [2018_10_21_SpeechlessVoice](../2018_10_21_SpeechlessVoice/readme.md)>
   
 -------------------------   
 

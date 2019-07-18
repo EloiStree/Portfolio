@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_06_01_MeshToVoxel](2018_06_01_MeshToVoxel\readme.md) | [2018_06_05_ZedCineyTour](2018_06_05_ZedCineyTour\readme.md)>
+  <[2018_06_01_MeshToVoxel](../2018_06_01_MeshToVoxel/readme.md) | [2018_06_05_ZedCineyTour](../2018_06_05_ZedCineyTour/readme.md)>
   
 -------------------------   
 

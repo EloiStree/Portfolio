@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_10_10_MicroFactory](2016_10_10_MicroFactory\readme.md) | [2016_10_17_VRT_RollerCoaster](2016_10_17_VRT_RollerCoaster\readme.md)>
+  <[2016_10_10_MicroFactory](../2016_10_10_MicroFactory/readme.md) | [2016_10_17_VRT_RollerCoaster](../2016_10_17_VRT_RollerCoaster/readme.md)>
   
 -------------------------   
 

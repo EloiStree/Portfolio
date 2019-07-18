@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_02_12_ArtistHelloToUnity](2018_02_12_ArtistHelloToUnity\readme.md) | [2018_02_26_WikiDesignVR](2018_02_26_WikiDesignVR\readme.md)>
+  <[2018_02_12_ArtistHelloToUnity](../2018_02_12_ArtistHelloToUnity/readme.md) | [2018_02_26_WikiDesignVR](../2018_02_26_WikiDesignVR/readme.md)>
   
 -------------------------   
 

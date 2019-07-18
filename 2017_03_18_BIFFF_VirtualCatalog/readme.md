@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_03_11_Notify](2017_03_11_Notify\readme.md) | [2017_03_23_HelloVrForUCLL](2017_03_23_HelloVrForUCLL\readme.md)>
+  <[2017_03_11_Notify](../2017_03_11_Notify/readme.md) | [2017_03_23_HelloVrForUCLL](../2017_03_23_HelloVrForUCLL/readme.md)>
   
 -------------------------   
 

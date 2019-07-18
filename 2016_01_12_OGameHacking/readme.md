@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2015_11_10_CointVR](2015_11_10_CointVR\readme.md) | [2016_02_18_CannonMoles](2016_02_18_CannonMoles\readme.md)>
+  <[2015_11_10_CointVR](../2015_11_10_CointVR/readme.md) | [2016_02_18_CannonMoles](../2016_02_18_CannonMoles/readme.md)>
   
 -------------------------   
 

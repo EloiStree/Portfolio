@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_10_25_VoiceWarmUp](2017_10_25_VoiceWarmUp\readme.md) | [2017_11_15_PocketCoach](2017_11_15_PocketCoach\readme.md)>
+  <[2017_10_25_VoiceWarmUp](../2017_10_25_VoiceWarmUp/readme.md) | [2017_11_15_PocketCoach](../2017_11_15_PocketCoach/readme.md)>
   
 -------------------------   
 

@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2019_05_03_justrubikcube](2019_05_03_justrubikcube\readme.md) | [2019_05_23_CodeAndQuestEveryDay](2019_05_23_CodeAndQuestEveryDay\readme.md)>
+  <[2019_05_03_justrubikcube](../2019_05_03_justrubikcube/readme.md) | [2019_05_23_CodeAndQuestEveryDay](../2019_05_23_CodeAndQuestEveryDay/readme.md)>
   
 -------------------------   
 

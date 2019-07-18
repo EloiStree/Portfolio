@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_10_22_YourIdeaIsShitRingTone](2017_10_22_YourIdeaIsShitRingTone\readme.md) | [2017_11_11_Museomix](2017_11_11_Museomix\readme.md)>
+  <[2017_10_22_YourIdeaIsShitRingTone](../2017_10_22_YourIdeaIsShitRingTone/readme.md) | [2017_11_11_Museomix](../2017_11_11_Museomix/readme.md)>
   
 -------------------------   
 

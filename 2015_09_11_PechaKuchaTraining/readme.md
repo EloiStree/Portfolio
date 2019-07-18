@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2015_09_05_Sausage](2015_09_05_Sausage\readme.md) | [2015_10_23_BlindLittleGirl](2015_10_23_BlindLittleGirl\readme.md)>
+  <[2015_09_05_Sausage](../2015_09_05_Sausage/readme.md) | [2015_10_23_BlindLittleGirl](../2015_10_23_BlindLittleGirl/readme.md)>
   
 -------------------------   
 

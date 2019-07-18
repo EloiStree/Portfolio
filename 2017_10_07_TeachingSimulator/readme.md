@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_09_30_AnonymusHack](2017_09_30_AnonymusHack\readme.md) | [2017_10_18_360YoutubeHeatMap](2017_10_18_360YoutubeHeatMap\readme.md)>
+  <[2017_09_30_AnonymusHack](../2017_09_30_AnonymusHack/readme.md) | [2017_10_18_360YoutubeHeatMap](../2017_10_18_360YoutubeHeatMap/readme.md)>
   
 -------------------------   
 

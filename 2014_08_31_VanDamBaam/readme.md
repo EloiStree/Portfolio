@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2014_08_14_Replicator](2014_08_14_Replicator\readme.md) | [2014_10_14_Technocite_Demo2](2014_10_14_Technocite_Demo2\readme.md)>
+  <[2014_08_14_Replicator](../2014_08_14_Replicator/readme.md) | [2014_10_14_Technocite_Demo2](../2014_10_14_Technocite_Demo2/readme.md)>
   
 -------------------------   
 

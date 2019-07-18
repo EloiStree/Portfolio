@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2015_03_16_BeerHelp](2015_03_16_BeerHelp\readme.md) | [2015_04_20_JugglerMaster](2015_04_20_JugglerMaster\readme.md)>
+  <[2015_03_16_BeerHelp](../2015_03_16_BeerHelp/readme.md) | [2015_04_20_JugglerMaster](../2015_04_20_JugglerMaster/readme.md)>
   
 -------------------------   
 

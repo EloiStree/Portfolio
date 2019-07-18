@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_06_20_CitizensOfWallonia](2017_06_20_CitizensOfWallonia\readme.md) | [2017_07_04_Students_CapitainSousPression](2017_07_04_Students_CapitainSousPression\readme.md)>
+  <[2017_06_20_CitizensOfWallonia](../2017_06_20_CitizensOfWallonia/readme.md) | [2017_07_04_Students_CapitainSousPression](../2017_07_04_Students_CapitainSousPression/readme.md)>
   
 -------------------------   
 

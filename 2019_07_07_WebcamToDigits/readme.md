@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2019_07_07_QuestLaserScan](2019_07_07_QuestLaserScan\readme.md) | [2019_07_10_RealVirtualTennisTableTraining](2019_07_10_RealVirtualTennisTableTraining\readme.md)>
+  <[2019_07_07_QuestLaserScan](../2019_07_07_QuestLaserScan/readme.md) | [2019_07_10_RealVirtualTennisTableTraining](../2019_07_10_RealVirtualTennisTableTraining/readme.md)>
   
 -------------------------   
 

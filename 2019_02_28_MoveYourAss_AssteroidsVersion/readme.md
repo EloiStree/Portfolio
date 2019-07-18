@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2019_02_19_hololensfieldofview](2019_02_19_hololensfieldofview\readme.md) | [2019_03_04_OnemeshHoloAsteroids](2019_03_04_OnemeshHoloAsteroids\readme.md)>
+  <[2019_02_19_hololensfieldofview](../2019_02_19_hololensfieldofview/readme.md) | [2019_03_04_OnemeshHoloAsteroids](../2019_03_04_OnemeshHoloAsteroids/readme.md)>
   
 -------------------------   
 

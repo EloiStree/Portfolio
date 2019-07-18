@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_07_13_PatreonAPI](2017_07_13_PatreonAPI\readme.md) | [2017_07_29_LudumDare39](2017_07_29_LudumDare39\readme.md)>
+  <[2017_07_13_PatreonAPI](../2017_07_13_PatreonAPI/readme.md) | [2017_07_29_LudumDare39](../2017_07_29_LudumDare39/readme.md)>
   
 -------------------------   
 

@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2019_07_07_WebcamToDigits](2019_07_07_WebcamToDigits\readme.md) | [2019_07_10_SlowMotionLearning](2019_07_10_SlowMotionLearning\readme.md)>
+  <[2019_07_07_WebcamToDigits](../2019_07_07_WebcamToDigits/readme.md) | [2019_07_10_SlowMotionLearning](../2019_07_10_SlowMotionLearning/readme.md)>
   
 -------------------------   
 

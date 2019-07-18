@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_06_10_VickyWheelChair](2018_06_10_VickyWheelChair\readme.md) | [2018_06_20_TransfromReplay](2018_06_20_TransfromReplay\readme.md)>
+  <[2018_06_10_VickyWheelChair](../2018_06_10_VickyWheelChair/readme.md) | [2018_06_20_TransfromReplay](../2018_06_20_TransfromReplay/readme.md)>
   
 -------------------------   
 

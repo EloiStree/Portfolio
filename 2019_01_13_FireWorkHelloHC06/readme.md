@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_12_22_FireWorkXmas](2018_12_22_FireWorkXmas\readme.md) | [2019_01_13_JamsCountdown](2019_01_13_JamsCountdown\readme.md)>
+  <[2018_12_22_FireWorkXmas](../2018_12_22_FireWorkXmas/readme.md) | [2019_01_13_JamsCountdown](../2019_01_13_JamsCountdown/readme.md)>
   
 -------------------------   
 

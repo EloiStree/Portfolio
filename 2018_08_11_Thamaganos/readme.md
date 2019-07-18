@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_08_04_MacroTool](2018_08_04_MacroTool\readme.md) | [2018_08_18_DailyLog](2018_08_18_DailyLog\readme.md)>
+  <[2018_08_04_MacroTool](../2018_08_04_MacroTool/readme.md) | [2018_08_18_DailyLog](../2018_08_18_DailyLog/readme.md)>
   
 -------------------------   
 

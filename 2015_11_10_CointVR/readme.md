@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2015_11_05_BlindMind](2015_11_05_BlindMind\readme.md) | [2016_01_12_OGameHacking](2016_01_12_OGameHacking\readme.md)>
+  <[2015_11_05_BlindMind](../2015_11_05_BlindMind/readme.md) | [2016_01_12_OGameHacking](../2016_01_12_OGameHacking/readme.md)>
   
 -------------------------   
 

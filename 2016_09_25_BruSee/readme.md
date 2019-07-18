@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_09_19_HelloCardboard](2016_09_19_HelloCardboard\readme.md) | [2016_09_25_MamyVR](2016_09_25_MamyVR\readme.md)>
+  <[2016_09_19_HelloCardboard](../2016_09_19_HelloCardboard/readme.md) | [2016_09_25_MamyVR](../2016_09_25_MamyVR/readme.md)>
   
 -------------------------   
 

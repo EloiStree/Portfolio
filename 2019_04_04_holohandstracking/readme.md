@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2019_03_22_macrotrigger](2019_03_22_macrotrigger\readme.md) | [2019_04_04_XR2RewiredSpaceship](2019_04_04_XR2RewiredSpaceship\readme.md)>
+  <[2019_03_22_macrotrigger](../2019_03_22_macrotrigger/readme.md) | [2019_04_04_XR2RewiredSpaceship](../2019_04_04_XR2RewiredSpaceship/readme.md)>
   
 -------------------------   
 

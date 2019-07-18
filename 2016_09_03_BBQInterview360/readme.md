@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_08_30_OutsideWalk](2016_08_30_OutsideWalk\readme.md) | [2016_09_10_KinectViewerForOBS](2016_09_10_KinectViewerForOBS\readme.md)>
+  <[2016_08_30_OutsideWalk](../2016_08_30_OutsideWalk/readme.md) | [2016_09_10_KinectViewerForOBS](../2016_09_10_KinectViewerForOBS/readme.md)>
   
 -------------------------   
 

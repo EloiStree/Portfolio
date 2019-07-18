@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_09_02_KillTheKeyboard](2018_09_02_KillTheKeyboard\readme.md) | [2018_09_06_PatreonEloiWatermark](2018_09_06_PatreonEloiWatermark\readme.md)>
+  <[2018_09_02_KillTheKeyboard](../2018_09_02_KillTheKeyboard/readme.md) | [2018_09_06_PatreonEloiWatermark](../2018_09_06_PatreonEloiWatermark/readme.md)>
   
 -------------------------   
 

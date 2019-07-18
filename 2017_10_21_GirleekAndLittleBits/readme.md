@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_10_19_KissYourTeacherGameJam](2017_10_19_KissYourTeacherGameJam\readme.md) | [2017_10_22_YourIdeaIsShitRingTone](2017_10_22_YourIdeaIsShitRingTone\readme.md)>
+  <[2017_10_19_KissYourTeacherGameJam](../2017_10_19_KissYourTeacherGameJam/readme.md) | [2017_10_22_YourIdeaIsShitRingTone](../2017_10_22_YourIdeaIsShitRingTone/readme.md)>
   
 -------------------------   
 

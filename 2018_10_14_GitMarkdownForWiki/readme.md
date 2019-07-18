@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_10_11_Students_NicoDesCouloirs](2018_10_11_Students_NicoDesCouloirs\readme.md) | [2018_10_15_MorseDetectorForStudents](2018_10_15_MorseDetectorForStudents\readme.md)>
+  <[2018_10_11_Students_NicoDesCouloirs](../2018_10_11_Students_NicoDesCouloirs/readme.md) | [2018_10_15_MorseDetectorForStudents](../2018_10_15_MorseDetectorForStudents/readme.md)>
   
 -------------------------   
 

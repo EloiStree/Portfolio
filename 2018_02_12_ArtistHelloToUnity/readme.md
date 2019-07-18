@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_02_10_WindowsFileDragFromWeb](2018_02_10_WindowsFileDragFromWeb\readme.md) | [2018_02_13_Students_StargateChallenge](2018_02_13_Students_StargateChallenge\readme.md)>
+  <[2018_02_10_WindowsFileDragFromWeb](../2018_02_10_WindowsFileDragFromWeb/readme.md) | [2018_02_13_Students_StargateChallenge](../2018_02_13_Students_StargateChallenge/readme.md)>
   
 -------------------------   
 

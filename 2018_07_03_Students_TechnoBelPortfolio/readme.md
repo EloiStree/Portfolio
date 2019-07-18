@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_06_21_DebugDraw](2018_06_21_DebugDraw\readme.md) | [2018_07_04_Students_ProjectZebra](2018_07_04_Students_ProjectZebra\readme.md)>
+  <[2018_06_21_DebugDraw](../2018_06_21_DebugDraw/readme.md) | [2018_07_04_Students_ProjectZebra](../2018_07_04_Students_ProjectZebra/readme.md)>
   
 -------------------------   
 

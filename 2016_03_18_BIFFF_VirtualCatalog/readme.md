@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_03_11_BrutalWheelChairSimulator](2016_03_11_BrutalWheelChairSimulator\readme.md) | [2016_04_01_VirtualAtlas](2016_04_01_VirtualAtlas\readme.md)>
+  <[2016_03_11_BrutalWheelChairSimulator](../2016_03_11_BrutalWheelChairSimulator/readme.md) | [2016_04_01_VirtualAtlas](../2016_04_01_VirtualAtlas/readme.md)>
   
 -------------------------   
 

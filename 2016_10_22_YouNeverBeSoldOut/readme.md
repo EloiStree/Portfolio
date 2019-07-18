@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_10_17_VRT_RollerCoaster](2016_10_17_VRT_RollerCoaster\readme.md) | [2016_10_26_Lamoova](2016_10_26_Lamoova\readme.md)>
+  <[2016_10_17_VRT_RollerCoaster](../2016_10_17_VRT_RollerCoaster/readme.md) | [2016_10_26_Lamoova](../2016_10_26_Lamoova/readme.md)>
   
 -------------------------   
 

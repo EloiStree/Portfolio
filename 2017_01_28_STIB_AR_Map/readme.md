@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_01_23_ArteryVR](2017_01_23_ArteryVR\readme.md) | [2017_01_31_ArTangoPublicity](2017_01_31_ArTangoPublicity\readme.md)>
+  <[2017_01_23_ArteryVR](../2017_01_23_ArteryVR/readme.md) | [2017_01_31_ArTangoPublicity](../2017_01_31_ArTangoPublicity/readme.md)>
   
 -------------------------   
 

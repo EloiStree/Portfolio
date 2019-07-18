@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_09_28_DistanceConnectOSC](2017_09_28_DistanceConnectOSC\readme.md) | [2017_10_07_TeachingSimulator](2017_10_07_TeachingSimulator\readme.md)>
+  <[2017_09_28_DistanceConnectOSC](../2017_09_28_DistanceConnectOSC/readme.md) | [2017_10_07_TeachingSimulator](../2017_10_07_TeachingSimulator/readme.md)>
   
 -------------------------   
 

@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_12_08_MacroPersistance](2018_12_08_MacroPersistance\readme.md) | [2018_12_17_WikiGitUtility](2018_12_17_WikiGitUtility\readme.md)>
+  <[2018_12_08_MacroPersistance](../2018_12_08_MacroPersistance/readme.md) | [2018_12_17_WikiGitUtility](../2018_12_17_WikiGitUtility/readme.md)>
   
 -------------------------   
 

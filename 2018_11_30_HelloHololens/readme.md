@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_11_25_OpenBoardCastToolbox](2018_11_25_OpenBoardCastToolbox\readme.md) | [2018_12_08_MacroPersistance](2018_12_08_MacroPersistance\readme.md)>
+  <[2018_11_25_OpenBoardCastToolbox](../2018_11_25_OpenBoardCastToolbox/readme.md) | [2018_12_08_MacroPersistance](../2018_12_08_MacroPersistance/readme.md)>
   
 -------------------------   
 

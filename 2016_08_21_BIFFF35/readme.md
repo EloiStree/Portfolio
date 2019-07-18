@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_08_18_InnoJam](2016_08_18_InnoJam\readme.md) | [2016_08_28_TwitchPlays_Risk](2016_08_28_TwitchPlays_Risk\readme.md)>
+  <[2016_08_18_InnoJam](../2016_08_18_InnoJam/readme.md) | [2016_08_28_TwitchPlays_Risk](../2016_08_28_TwitchPlays_Risk/readme.md)>
   
 -------------------------   
 

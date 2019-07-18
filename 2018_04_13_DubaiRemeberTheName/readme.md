@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_04_07_Students_VuforiaMergeCube](2018_04_07_Students_VuforiaMergeCube\readme.md) | [2018_04_18_MIC_Boostcamp](2018_04_18_MIC_Boostcamp\readme.md)>
+  <[2018_04_07_Students_VuforiaMergeCube](../2018_04_07_Students_VuforiaMergeCube/readme.md) | [2018_04_18_MIC_Boostcamp](../2018_04_18_MIC_Boostcamp/readme.md)>
   
 -------------------------   
 

@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_10_18_HelloTapWithUs](2018_10_18_HelloTapWithUs\readme.md) | [2018_10_21_HackBorgerhout](2018_10_21_HackBorgerhout\readme.md)>
+  <[2018_10_18_HelloTapWithUs](../2018_10_18_HelloTapWithUs/readme.md) | [2018_10_21_HackBorgerhout](../2018_10_21_HackBorgerhout/readme.md)>
   
 -------------------------   
 

@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_04_22_Drone360](2016_04_22_Drone360\readme.md) | [2016_04_25_BrusselsEuroMagAndCook](2016_04_25_BrusselsEuroMagAndCook\readme.md)>
+  <[2016_04_22_Drone360](../2016_04_22_Drone360/readme.md) | [2016_04_25_BrusselsEuroMagAndCook](../2016_04_25_BrusselsEuroMagAndCook/readme.md)>
   
 -------------------------   
 

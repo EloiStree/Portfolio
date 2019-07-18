@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_08_26_YinYang](2017_08_26_YinYang\readme.md) | [2017_09_08_PaintingJamE2](2017_09_08_PaintingJamE2\readme.md)>
+  <[2017_08_26_YinYang](../2017_08_26_YinYang/readme.md) | [2017_09_08_PaintingJamE2](../2017_09_08_PaintingJamE2/readme.md)>
   
 -------------------------   
 

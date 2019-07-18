@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2017_10_21_GirleekAndLittleBits](2017_10_21_GirleekAndLittleBits\readme.md) | [2017_10_25_VoiceWarmUp](2017_10_25_VoiceWarmUp\readme.md)>
+  <[2017_10_21_GirleekAndLittleBits](../2017_10_21_GirleekAndLittleBits/readme.md) | [2017_10_25_VoiceWarmUp](../2017_10_25_VoiceWarmUp/readme.md)>
   
 -------------------------   
 

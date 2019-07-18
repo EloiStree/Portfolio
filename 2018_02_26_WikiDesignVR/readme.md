@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_02_13_Students_StargateChallenge](2018_02_13_Students_StargateChallenge\readme.md) | [2018_02_28_WebcamViewer](2018_02_28_WebcamViewer\readme.md)>
+  <[2018_02_13_Students_StargateChallenge](../2018_02_13_Students_StargateChallenge/readme.md) | [2018_02_28_WebcamViewer](../2018_02_28_WebcamViewer/readme.md)>
   
 -------------------------   
 

@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_04_23_RavensteinVR](2016_04_23_RavensteinVR\readme.md) | [2016_05_01_BrusselsLiege](2016_05_01_BrusselsLiege\readme.md)>
+  <[2016_04_23_RavensteinVR](../2016_04_23_RavensteinVR/readme.md) | [2016_05_01_BrusselsLiege](../2016_05_01_BrusselsLiege/readme.md)>
   
 -------------------------   
 

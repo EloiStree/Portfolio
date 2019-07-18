@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2018_09_18_FaceTrackedMouse](2018_09_18_FaceTrackedMouse\readme.md) | [2018_09_22_TypingGod](2018_09_22_TypingGod\readme.md)>
+  <[2018_09_18_FaceTrackedMouse](../2018_09_18_FaceTrackedMouse/readme.md) | [2018_09_22_TypingGod](../2018_09_22_TypingGod/readme.md)>
   
 -------------------------   
 

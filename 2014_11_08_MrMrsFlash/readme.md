@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2014_11_07_UnkownRadio](2014_11_07_UnkownRadio\readme.md) | [2014_11_08_PlatinumRift2](2014_11_08_PlatinumRift2\readme.md)>
+  <[2014_11_07_UnkownRadio](../2014_11_07_UnkownRadio/readme.md) | [2014_11_08_PlatinumRift2](../2014_11_08_PlatinumRift2/readme.md)>
   
 -------------------------   
 

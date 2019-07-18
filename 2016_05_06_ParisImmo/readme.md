@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2016_05_04_BrusselRadio](2016_05_04_BrusselRadio\readme.md) | [2016_06_27_JaimeOfThrone](2016_06_27_JaimeOfThrone\readme.md)>
+  <[2016_05_04_BrusselRadio](../2016_05_04_BrusselRadio/readme.md) | [2016_06_27_JaimeOfThrone](../2016_06_27_JaimeOfThrone/readme.md)>
   
 -------------------------   
 

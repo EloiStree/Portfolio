@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2013_10_24_DoudouRumble](2013_10_24_DoudouRumble\readme.md) | [2014_02_27_DonjonDefenderStereo](2014_02_27_DonjonDefenderStereo\readme.md)>
+  <[2013_10_24_DoudouRumble](../2013_10_24_DoudouRumble/readme.md) | [2014_02_27_DonjonDefenderStereo](../2014_02_27_DonjonDefenderStereo/readme.md)>
   
 -------------------------   
 

@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2014_11_08_PlatinumRift2](2014_11_08_PlatinumRift2\readme.md) | [2014_11_23_MonsterJam](2014_11_23_MonsterJam\readme.md)>
+  <[2014_11_08_PlatinumRift2](../2014_11_08_PlatinumRift2/readme.md) | [2014_11_23_MonsterJam](../2014_11_23_MonsterJam/readme.md)>
   
 -------------------------   
 

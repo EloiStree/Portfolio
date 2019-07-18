@@ -2,7 +2,7 @@
   
 -------------------------   
 
-  <[2019_01_13_FireWorkHelloHC06](2019_01_13_FireWorkHelloHC06\readme.md) | [2019_01_15_FieldOfViewARVR](2019_01_15_FieldOfViewARVR\readme.md)>
+  <[2019_01_13_FireWorkHelloHC06](../2019_01_13_FireWorkHelloHC06/readme.md) | [2019_01_15_FieldOfViewARVR](../2019_01_15_FieldOfViewARVR/readme.md)>
   
 -------------------------   
 
